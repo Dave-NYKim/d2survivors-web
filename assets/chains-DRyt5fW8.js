@@ -1,0 +1,1 @@
+import{y as e}from"./record-DX0vc9xR.js";var t="/d2survivors-web/api/leaderboard",n=t=>t.base.n+e(t);export{t as n,n as t};

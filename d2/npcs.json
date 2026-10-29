@@ -1,0 +1,131 @@
+{
+  "charsi": {
+    "NU": {
+      "file": "sprites/npcs/charsi-NU.png",
+      "directions": 8,
+      "framesPerDirection": 13,
+      "frameWidth": 32,
+      "frameHeight": 70,
+      "originX": 16,
+      "originY": 65,
+      "fps": 17.1875
+    }
+  },
+  "fara": {
+    "NU": {
+      "file": "sprites/npcs/fara-NU.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 42,
+      "frameHeight": 78,
+      "originX": 21,
+      "originY": 70,
+      "fps": 7.8125
+    }
+  },
+  "hratli": {
+    "NU": {
+      "file": "sprites/npcs/hratli-NU.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 28,
+      "frameHeight": 67,
+      "originX": 13,
+      "originY": 63,
+      "fps": 25
+    }
+  },
+  "halbu": {
+    "NU": {
+      "file": "sprites/npcs/halbu-NU.png",
+      "directions": 8,
+      "framesPerDirection": 12,
+      "frameWidth": 40,
+      "frameHeight": 75,
+      "originX": 20,
+      "originY": 70,
+      "fps": 10.15625
+    }
+  },
+  "larzuk": {
+    "NU": {
+      "file": "sprites/npcs/larzuk-NU.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 45,
+      "frameHeight": 80,
+      "originX": 22,
+      "originY": 73,
+      "fps": 3.125
+    }
+  },
+  "cain2": {
+    "NU": {
+      "file": "sprites/npcs/cain2-NU.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 57,
+      "frameHeight": 86,
+      "originX": 29,
+      "originY": 79,
+      "fps": 17.1875
+    },
+    "WL": {
+      "file": "sprites/npcs/cain2-WL.png",
+      "directions": 8,
+      "framesPerDirection": 8,
+      "frameWidth": 52,
+      "frameHeight": 86,
+      "originX": 26,
+      "originY": 79,
+      "fps": 25,
+      "velocity": 2
+    }
+  },
+  "darkwanderer": {
+    "NU": {
+      "file": "sprites/npcs/darkwanderer-NU.png",
+      "directions": 8,
+      "framesPerDirection": 16,
+      "frameWidth": 38,
+      "frameHeight": 78,
+      "originX": 19,
+      "originY": 73,
+      "fps": 12.5
+    },
+    "WL": {
+      "file": "sprites/npcs/darkwanderer-WL.png",
+      "directions": 1,
+      "framesPerDirection": 16,
+      "frameWidth": 37,
+      "frameHeight": 78,
+      "originX": 17,
+      "originY": 72,
+      "fps": 25,
+      "velocity": 2
+    }
+  },
+  "tyrael3": {
+    "NU": {
+      "file": "sprites/npcs/tyrael3-NU.png",
+      "directions": 1,
+      "framesPerDirection": 60,
+      "frameWidth": 44,
+      "frameHeight": 91,
+      "originX": 21,
+      "originY": 103,
+      "fps": 25
+    },
+    "wings": {
+      "file": "sprites/npcs/tyrael3-wings.png",
+      "directions": 6,
+      "framesPerDirection": 10,
+      "frameWidth": 379,
+      "frameHeight": 148,
+      "originX": 184,
+      "originY": 151,
+      "shadow": null,
+      "fps": 25
+    }
+  }
+}

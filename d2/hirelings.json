@@ -1,0 +1,4014 @@
+{
+  "types": {
+    "rogue": {
+      "name": "Rogue Scout",
+      "hireling": "Rogue Scout",
+      "act": 1,
+      "looks": [
+        "roguehire"
+      ],
+      "portrait": "hirelings/portraits/rogue.png",
+      "sounds": {
+        "hit": "act1hire.hit",
+        "death": "act1hire.death"
+      },
+      "hitDelay": 0,
+      "deathDelay": 0,
+      "names": [
+        "Aliza",
+        "Amplisa",
+        "Annor",
+        "Abhaya",
+        "Elly",
+        "Paige",
+        "Basanti",
+        "Blaise",
+        "Kyoko",
+        "Klaudia",
+        "Kundri",
+        "Kyle",
+        "Visala",
+        "Elexa",
+        "Floria",
+        "Fiona",
+        "Gwinni",
+        "Gaile",
+        "Hannah",
+        "Heather",
+        "Iantha",
+        "Diane",
+        "Isolde",
+        "Divo",
+        "Ithera",
+        "Itonya",
+        "Liene",
+        "Maeko",
+        "Mahala",
+        "Liaza",
+        "Meghan",
+        "Olena",
+        "Oriana",
+        "Ryann",
+        "Rozene",
+        "Raissa",
+        "Sharyn",
+        "Shikha",
+        "Debi",
+        "Tylena",
+        "Wendy"
+      ],
+      "rows": [
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Fire - Normal",
+          "id": 0,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 1,
+          "level": 3,
+          "gold": 100,
+          "expPerLevel": 100,
+          "hp": 45,
+          "hpPerLevel": 9,
+          "defense": 15,
+          "defensePerLevel": 8,
+          "str": 35,
+          "strEighthsPerLevel": 10,
+          "dex": 45,
+          "dexEighthsPerLevel": 16,
+          "ar": 10,
+          "arPerLevel": 12,
+          "dmgMin": 1,
+          "dmgMax": 3,
+          "dmgEighthsPerLevel": 2,
+          "resist": 0,
+          "resistQuartersPerLevel": 8,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 1,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Arrow",
+              "id": "fireArrow",
+              "mode": 4,
+              "chance": 25,
+              "chancePerLevel": 5,
+              "level": 1,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Fire - Normal",
+          "id": 0,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 1,
+          "level": 36,
+          "gold": 100,
+          "expPerLevel": 100,
+          "hp": 342,
+          "hpPerLevel": 18,
+          "defense": 279,
+          "defensePerLevel": 15,
+          "str": 77,
+          "strEighthsPerLevel": 10,
+          "dex": 111,
+          "dexEighthsPerLevel": 16,
+          "ar": 406,
+          "arPerLevel": 24,
+          "dmgMin": 9,
+          "dmgMax": 11,
+          "dmgEighthsPerLevel": 4,
+          "resist": 66,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 12,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Arrow",
+              "id": "fireArrow",
+              "mode": 4,
+              "chance": 67,
+              "chancePerLevel": 0,
+              "level": 12,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Fire - Normal",
+          "id": 0,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 1,
+          "level": 67,
+          "gold": 100,
+          "expPerLevel": 100,
+          "hp": 900,
+          "hpPerLevel": 30,
+          "defense": 744,
+          "defensePerLevel": 22,
+          "str": 116,
+          "strEighthsPerLevel": 10,
+          "dex": 173,
+          "dexEighthsPerLevel": 16,
+          "ar": 1150,
+          "arPerLevel": 36,
+          "dmgMin": 25,
+          "dmgMax": 27,
+          "dmgEighthsPerLevel": 6,
+          "resist": 121,
+          "resistQuartersPerLevel": 5,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Arrow",
+              "id": "fireArrow",
+              "mode": 4,
+              "chance": 67,
+              "chancePerLevel": 0,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Ice - Normal",
+          "id": 1,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 1,
+          "level": 3,
+          "gold": 150,
+          "expPerLevel": 105,
+          "hp": 45,
+          "hpPerLevel": 9,
+          "defense": 15,
+          "defensePerLevel": 8,
+          "str": 35,
+          "strEighthsPerLevel": 10,
+          "dex": 45,
+          "dexEighthsPerLevel": 16,
+          "ar": 10,
+          "arPerLevel": 12,
+          "dmgMin": 1,
+          "dmgMax": 3,
+          "dmgEighthsPerLevel": 2,
+          "resist": 0,
+          "resistQuartersPerLevel": 8,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 1,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Cold Arrow",
+              "id": "coldArrow",
+              "mode": 4,
+              "chance": 25,
+              "chancePerLevel": 5,
+              "level": 1,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Ice - Normal",
+          "id": 1,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 1,
+          "level": 36,
+          "gold": 150,
+          "expPerLevel": 105,
+          "hp": 342,
+          "hpPerLevel": 18,
+          "defense": 279,
+          "defensePerLevel": 15,
+          "str": 77,
+          "strEighthsPerLevel": 10,
+          "dex": 111,
+          "dexEighthsPerLevel": 16,
+          "ar": 406,
+          "arPerLevel": 24,
+          "dmgMin": 9,
+          "dmgMax": 11,
+          "dmgEighthsPerLevel": 4,
+          "resist": 66,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 12,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Cold Arrow",
+              "id": "coldArrow",
+              "mode": 4,
+              "chance": 67,
+              "chancePerLevel": 0,
+              "level": 12,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Ice - Normal",
+          "id": 1,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 1,
+          "level": 67,
+          "gold": 150,
+          "expPerLevel": 105,
+          "hp": 900,
+          "hpPerLevel": 30,
+          "defense": 744,
+          "defensePerLevel": 22,
+          "str": 116,
+          "strEighthsPerLevel": 10,
+          "dex": 173,
+          "dexEighthsPerLevel": 16,
+          "ar": 1150,
+          "arPerLevel": 36,
+          "dmgMin": 25,
+          "dmgMax": 27,
+          "dmgEighthsPerLevel": 6,
+          "resist": 121,
+          "resistQuartersPerLevel": 5,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Cold Arrow",
+              "id": "coldArrow",
+              "mode": 4,
+              "chance": 67,
+              "chancePerLevel": 0,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Fire - Nightmare",
+          "id": 2,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 2,
+          "level": 36,
+          "gold": 6000,
+          "expPerLevel": 110,
+          "hp": 308,
+          "hpPerLevel": 18,
+          "defense": 251,
+          "defensePerLevel": 15,
+          "str": 74,
+          "strEighthsPerLevel": 10,
+          "dex": 106,
+          "dexEighthsPerLevel": 16,
+          "ar": 365,
+          "arPerLevel": 24,
+          "dmgMin": 8,
+          "dmgMax": 10,
+          "dmgEighthsPerLevel": 4,
+          "resist": 63,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Arrow",
+              "id": "fireArrow",
+              "mode": 4,
+              "chance": 69,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Fire - Nightmare",
+          "id": 2,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 2,
+          "level": 67,
+          "gold": 6000,
+          "expPerLevel": 110,
+          "hp": 866,
+          "hpPerLevel": 30,
+          "defense": 716,
+          "defensePerLevel": 22,
+          "str": 113,
+          "strEighthsPerLevel": 10,
+          "dex": 168,
+          "dexEighthsPerLevel": 16,
+          "ar": 1109,
+          "arPerLevel": 36,
+          "dmgMin": 24,
+          "dmgMax": 26,
+          "dmgEighthsPerLevel": 6,
+          "resist": 118,
+          "resistQuartersPerLevel": 5,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 21,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Arrow",
+              "id": "fireArrow",
+              "mode": 4,
+              "chance": 69,
+              "chancePerLevel": 0,
+              "level": 21,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Ice - Nightmare",
+          "id": 3,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 2,
+          "level": 36,
+          "gold": 7500,
+          "expPerLevel": 115,
+          "hp": 308,
+          "hpPerLevel": 18,
+          "defense": 251,
+          "defensePerLevel": 15,
+          "str": 74,
+          "strEighthsPerLevel": 10,
+          "dex": 106,
+          "dexEighthsPerLevel": 16,
+          "ar": 365,
+          "arPerLevel": 24,
+          "dmgMin": 8,
+          "dmgMax": 10,
+          "dmgEighthsPerLevel": 4,
+          "resist": 63,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Cold Arrow",
+              "id": "coldArrow",
+              "mode": 4,
+              "chance": 69,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Ice - Nightmare",
+          "id": 3,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 2,
+          "level": 67,
+          "gold": 7500,
+          "expPerLevel": 115,
+          "hp": 866,
+          "hpPerLevel": 30,
+          "defense": 716,
+          "defensePerLevel": 22,
+          "str": 113,
+          "strEighthsPerLevel": 10,
+          "dex": 168,
+          "dexEighthsPerLevel": 16,
+          "ar": 1109,
+          "arPerLevel": 36,
+          "dmgMin": 24,
+          "dmgMax": 26,
+          "dmgEighthsPerLevel": 6,
+          "resist": 118,
+          "resistQuartersPerLevel": 5,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 21,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Cold Arrow",
+              "id": "coldArrow",
+              "mode": 4,
+              "chance": 69,
+              "chancePerLevel": 0,
+              "level": 21,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Fire - Hell",
+          "id": 4,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 3,
+          "level": 67,
+          "gold": 12500,
+          "expPerLevel": 120,
+          "hp": 779,
+          "hpPerLevel": 30,
+          "defense": 644,
+          "defensePerLevel": 22,
+          "str": 110,
+          "strEighthsPerLevel": 10,
+          "dex": 163,
+          "dexEighthsPerLevel": 16,
+          "ar": 998,
+          "arPerLevel": 36,
+          "dmgMin": 23,
+          "dmgMax": 25,
+          "dmgEighthsPerLevel": 6,
+          "resist": 115,
+          "resistQuartersPerLevel": 5,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 20,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Arrow",
+              "id": "fireArrow",
+              "mode": 4,
+              "chance": 69,
+              "chancePerLevel": 0,
+              "level": 20,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        },
+        {
+          "hireling": "Rogue Scout",
+          "subType": "Ice - Hell",
+          "id": 5,
+          "look": "roguehire",
+          "act": 1,
+          "difficulty": 3,
+          "level": 67,
+          "gold": 14000,
+          "expPerLevel": 125,
+          "hp": 779,
+          "hpPerLevel": 30,
+          "defense": 644,
+          "defensePerLevel": 22,
+          "str": 110,
+          "strEighthsPerLevel": 10,
+          "dex": 163,
+          "dexEighthsPerLevel": 16,
+          "ar": 998,
+          "arPerLevel": 36,
+          "dmgMin": 23,
+          "dmgMax": 25,
+          "dmgEighthsPerLevel": 6,
+          "resist": 115,
+          "resistQuartersPerLevel": 5,
+          "weaponTypes": [
+            "bow"
+          ],
+          "defaultChance": 75,
+          "skills": [
+            {
+              "skill": "Inner Sight",
+              "id": "innerSight",
+              "mode": 4,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 20,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Cold Arrow",
+              "id": "coldArrow",
+              "mode": 4,
+              "chance": 69,
+              "chancePerLevel": 0,
+              "level": 20,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 1,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merc01",
+          "nameLast": "merc41"
+        }
+      ]
+    },
+    "desert": {
+      "name": "Desert Mercenary",
+      "hireling": "Desert Mercenary",
+      "act": 2,
+      "looks": [
+        "act2hire"
+      ],
+      "portrait": "hirelings/portraits/desert.png",
+      "sounds": {
+        "hit": "act2hire.hit",
+        "death": "act2hire.death"
+      },
+      "hitDelay": 0,
+      "deathDelay": 0,
+      "names": [
+        "Hazade",
+        "Alhizeer",
+        "Azrael",
+        "Ahsab",
+        "Chalan",
+        "Haseen",
+        "Razan",
+        "Emilio",
+        "Pratham",
+        "Fazel",
+        "Jemali",
+        "Kasim",
+        "Gulzar",
+        "Mizan",
+        "Leharas",
+        "Durga",
+        "Neeraj",
+        "Ilzan",
+        "Zanarhi",
+        "Waheed",
+        "Vikhyat"
+      ],
+      "rows": [
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Comb-Normal",
+          "id": 6,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 9,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 120,
+          "hpPerLevel": 15,
+          "defense": 45,
+          "defensePerLevel": 11,
+          "str": 57,
+          "strEighthsPerLevel": 14,
+          "dex": 40,
+          "dexEighthsPerLevel": 12,
+          "ar": 20,
+          "arPerLevel": 12,
+          "dmgMin": 7,
+          "dmgMax": 14,
+          "dmgEighthsPerLevel": 4,
+          "resist": 18,
+          "resistQuartersPerLevel": 8,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 70,
+              "chancePerLevel": 4,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Prayer",
+              "id": "prayer",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 7
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Comb-Normal",
+          "id": 6,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 43,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 630,
+          "hpPerLevel": 25,
+          "defense": 419,
+          "defensePerLevel": 19,
+          "str": 117,
+          "strEighthsPerLevel": 14,
+          "dex": 91,
+          "dexEighthsPerLevel": 12,
+          "ar": 428,
+          "arPerLevel": 24,
+          "dmgMin": 24,
+          "dmgMax": 31,
+          "dmgEighthsPerLevel": 6,
+          "resist": 86,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 104,
+              "chancePerLevel": 4,
+              "level": 14,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Prayer",
+              "id": "prayer",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 7
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Comb-Normal",
+          "id": 6,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 75,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 1430,
+          "hpPerLevel": 40,
+          "defense": 1027,
+          "defensePerLevel": 28,
+          "str": 173,
+          "strEighthsPerLevel": 14,
+          "dex": 139,
+          "dexEighthsPerLevel": 12,
+          "ar": 1196,
+          "arPerLevel": 36,
+          "dmgMin": 48,
+          "dmgMax": 55,
+          "dmgEighthsPerLevel": 8,
+          "resist": 142,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 136,
+              "chancePerLevel": 4,
+              "level": 24,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Prayer",
+              "id": "prayer",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 18,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Def-Normal",
+          "id": 7,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 9,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 120,
+          "hpPerLevel": 15,
+          "defense": 45,
+          "defensePerLevel": 11,
+          "str": 57,
+          "strEighthsPerLevel": 14,
+          "dex": 40,
+          "dexEighthsPerLevel": 12,
+          "ar": 20,
+          "arPerLevel": 12,
+          "dmgMin": 7,
+          "dmgMax": 14,
+          "dmgEighthsPerLevel": 4,
+          "resist": 18,
+          "resistQuartersPerLevel": 8,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 70,
+              "chancePerLevel": 4,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Defiance",
+              "id": "defiance",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 7
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Def-Normal",
+          "id": 7,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 43,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 630,
+          "hpPerLevel": 25,
+          "defense": 419,
+          "defensePerLevel": 19,
+          "str": 117,
+          "strEighthsPerLevel": 14,
+          "dex": 91,
+          "dexEighthsPerLevel": 12,
+          "ar": 428,
+          "arPerLevel": 24,
+          "dmgMin": 24,
+          "dmgMax": 31,
+          "dmgEighthsPerLevel": 6,
+          "resist": 86,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 104,
+              "chancePerLevel": 4,
+              "level": 14,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Defiance",
+              "id": "defiance",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 7
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Def-Normal",
+          "id": 7,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 75,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 1430,
+          "hpPerLevel": 40,
+          "defense": 1027,
+          "defensePerLevel": 28,
+          "str": 173,
+          "strEighthsPerLevel": 14,
+          "dex": 139,
+          "dexEighthsPerLevel": 12,
+          "ar": 1196,
+          "arPerLevel": 36,
+          "dmgMin": 48,
+          "dmgMax": 55,
+          "dmgEighthsPerLevel": 8,
+          "resist": 142,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 136,
+              "chancePerLevel": 4,
+              "level": 24,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Defiance",
+              "id": "defiance",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 18,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Off-Normal",
+          "id": 8,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 9,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 120,
+          "hpPerLevel": 15,
+          "defense": 45,
+          "defensePerLevel": 11,
+          "str": 57,
+          "strEighthsPerLevel": 14,
+          "dex": 40,
+          "dexEighthsPerLevel": 12,
+          "ar": 20,
+          "arPerLevel": 12,
+          "dmgMin": 7,
+          "dmgMax": 14,
+          "dmgEighthsPerLevel": 4,
+          "resist": 18,
+          "resistQuartersPerLevel": 8,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 70,
+              "chancePerLevel": 4,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Blessed Aim",
+              "id": "blessedAim",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 7
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Off-Normal",
+          "id": 8,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 43,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 630,
+          "hpPerLevel": 25,
+          "defense": 419,
+          "defensePerLevel": 19,
+          "str": 117,
+          "strEighthsPerLevel": 14,
+          "dex": 91,
+          "dexEighthsPerLevel": 12,
+          "ar": 428,
+          "arPerLevel": 24,
+          "dmgMin": 24,
+          "dmgMax": 31,
+          "dmgEighthsPerLevel": 6,
+          "resist": 86,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 104,
+              "chancePerLevel": 4,
+              "level": 14,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Blessed Aim",
+              "id": "blessedAim",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 7
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Off-Normal",
+          "id": 8,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 1,
+          "level": 75,
+          "gold": 350,
+          "expPerLevel": 110,
+          "hp": 1430,
+          "hpPerLevel": 40,
+          "defense": 1027,
+          "defensePerLevel": 28,
+          "str": 173,
+          "strEighthsPerLevel": 14,
+          "dex": 139,
+          "dexEighthsPerLevel": 12,
+          "ar": 1196,
+          "arPerLevel": 36,
+          "dmgMin": 48,
+          "dmgMax": 55,
+          "dmgEighthsPerLevel": 8,
+          "resist": 142,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 136,
+              "chancePerLevel": 4,
+              "level": 24,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Blessed Aim",
+              "id": "blessedAim",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 18,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Comb-Nightmare",
+          "id": 9,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 2,
+          "level": 43,
+          "gold": 7900,
+          "expPerLevel": 120,
+          "hp": 567,
+          "hpPerLevel": 25,
+          "defense": 377,
+          "defensePerLevel": 19,
+          "str": 113,
+          "strEighthsPerLevel": 14,
+          "dex": 87,
+          "dexEighthsPerLevel": 12,
+          "ar": 385,
+          "arPerLevel": 24,
+          "dmgMin": 22,
+          "dmgMax": 29,
+          "dmgEighthsPerLevel": 6,
+          "resist": 83,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 120,
+              "chancePerLevel": 4,
+              "level": 13,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Thorns",
+              "id": "thorns",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 5,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Comb-Nightmare",
+          "id": 9,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 2,
+          "level": 75,
+          "gold": 7900,
+          "expPerLevel": 120,
+          "hp": 1367,
+          "hpPerLevel": 40,
+          "defense": 985,
+          "defensePerLevel": 28,
+          "str": 169,
+          "strEighthsPerLevel": 14,
+          "dex": 135,
+          "dexEighthsPerLevel": 12,
+          "ar": 1153,
+          "arPerLevel": 36,
+          "dmgMin": 46,
+          "dmgMax": 53,
+          "dmgEighthsPerLevel": 8,
+          "resist": 139,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 152,
+              "chancePerLevel": 4,
+              "level": 23,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Thorns",
+              "id": "thorns",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 15,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Def-Nightmare",
+          "id": 10,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 2,
+          "level": 43,
+          "gold": 7900,
+          "expPerLevel": 120,
+          "hp": 567,
+          "hpPerLevel": 25,
+          "defense": 377,
+          "defensePerLevel": 19,
+          "str": 113,
+          "strEighthsPerLevel": 14,
+          "dex": 87,
+          "dexEighthsPerLevel": 12,
+          "ar": 385,
+          "arPerLevel": 24,
+          "dmgMin": 22,
+          "dmgMax": 29,
+          "dmgEighthsPerLevel": 6,
+          "resist": 83,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 120,
+              "chancePerLevel": 4,
+              "level": 13,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Holy Freeze",
+              "id": "holyFreeze",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 6,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Def-Nightmare",
+          "id": 10,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 2,
+          "level": 75,
+          "gold": 7900,
+          "expPerLevel": 120,
+          "hp": 1367,
+          "hpPerLevel": 40,
+          "defense": 985,
+          "defensePerLevel": 28,
+          "str": 169,
+          "strEighthsPerLevel": 14,
+          "dex": 135,
+          "dexEighthsPerLevel": 12,
+          "ar": 1153,
+          "arPerLevel": 36,
+          "dmgMin": 46,
+          "dmgMax": 53,
+          "dmgEighthsPerLevel": 8,
+          "resist": 139,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 152,
+              "chancePerLevel": 4,
+              "level": 23,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Holy Freeze",
+              "id": "holyFreeze",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 16,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Off-Nightmare",
+          "id": 11,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 2,
+          "level": 43,
+          "gold": 7900,
+          "expPerLevel": 120,
+          "hp": 567,
+          "hpPerLevel": 25,
+          "defense": 377,
+          "defensePerLevel": 19,
+          "str": 113,
+          "strEighthsPerLevel": 14,
+          "dex": 87,
+          "dexEighthsPerLevel": 12,
+          "ar": 385,
+          "arPerLevel": 24,
+          "dmgMin": 22,
+          "dmgMax": 29,
+          "dmgEighthsPerLevel": 6,
+          "resist": 83,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 120,
+              "chancePerLevel": 4,
+              "level": 13,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Might",
+              "id": "might",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 7,
+              "levelThirtySecondsPerLevel": 8
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Off-Nightmare",
+          "id": 11,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 2,
+          "level": 75,
+          "gold": 7900,
+          "expPerLevel": 120,
+          "hp": 1367,
+          "hpPerLevel": 40,
+          "defense": 985,
+          "defensePerLevel": 28,
+          "str": 169,
+          "strEighthsPerLevel": 14,
+          "dex": 135,
+          "dexEighthsPerLevel": 12,
+          "ar": 1153,
+          "arPerLevel": 36,
+          "dmgMin": 46,
+          "dmgMax": 53,
+          "dmgEighthsPerLevel": 8,
+          "resist": 139,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 152,
+              "chancePerLevel": 4,
+              "level": 23,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Might",
+              "id": "might",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 15,
+              "levelThirtySecondsPerLevel": 8
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Comb-Hell",
+          "id": 12,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 3,
+          "level": 75,
+          "gold": 15000,
+          "expPerLevel": 130,
+          "hp": 1230,
+          "hpPerLevel": 40,
+          "defense": 887,
+          "defensePerLevel": 28,
+          "str": 165,
+          "strEighthsPerLevel": 14,
+          "dex": 131,
+          "dexEighthsPerLevel": 12,
+          "ar": 1038,
+          "arPerLevel": 36,
+          "dmgMin": 44,
+          "dmgMax": 51,
+          "dmgEighthsPerLevel": 8,
+          "resist": 136,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 104,
+              "chancePerLevel": 4,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Prayer",
+              "id": "prayer",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 16,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Def-Hell",
+          "id": 13,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 3,
+          "level": 75,
+          "gold": 15000,
+          "expPerLevel": 130,
+          "hp": 1230,
+          "hpPerLevel": 40,
+          "defense": 887,
+          "defensePerLevel": 28,
+          "str": 165,
+          "strEighthsPerLevel": 14,
+          "dex": 131,
+          "dexEighthsPerLevel": 12,
+          "ar": 1038,
+          "arPerLevel": 36,
+          "dmgMin": 44,
+          "dmgMax": 51,
+          "dmgEighthsPerLevel": 8,
+          "resist": 136,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 104,
+              "chancePerLevel": 4,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Defiance",
+              "id": "defiance",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 16,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        },
+        {
+          "hireling": "Desert Mercenary",
+          "subType": "Off-Hell",
+          "id": 14,
+          "look": "act2hire",
+          "act": 2,
+          "difficulty": 3,
+          "level": 75,
+          "gold": 15000,
+          "expPerLevel": 130,
+          "hp": 1230,
+          "hpPerLevel": 40,
+          "defense": 887,
+          "defensePerLevel": 28,
+          "str": 165,
+          "strEighthsPerLevel": 14,
+          "dex": 131,
+          "dexEighthsPerLevel": 12,
+          "ar": 1038,
+          "arPerLevel": 36,
+          "dmgMin": 44,
+          "dmgMax": 51,
+          "dmgEighthsPerLevel": 8,
+          "resist": 136,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "pole",
+            "spea"
+          ],
+          "defaultChance": 30,
+          "skills": [
+            {
+              "skill": "Jab",
+              "id": "jab",
+              "mode": 14,
+              "chance": 104,
+              "chancePerLevel": 4,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Blessed Aim",
+              "id": "blessedAim",
+              "mode": 1,
+              "chance": 10,
+              "chancePerLevel": 0,
+              "level": 16,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 0,
+          "nameFirst": "merca201",
+          "nameLast": "merca221"
+        }
+      ]
+    },
+    "ironWolf": {
+      "name": "Iron Wolf",
+      "hireling": "Eastern Sorceror",
+      "act": 3,
+      "looks": [
+        "act3hire"
+      ],
+      "portrait": "hirelings/portraits/ironWolf.png",
+      "sounds": {
+        "hit": "act3hire.hit",
+        "death": "act3hire.death"
+      },
+      "hitDelay": 0,
+      "deathDelay": 0,
+      "names": [
+        "Jelani",
+        "Barani",
+        "Jabari",
+        "Devak",
+        "Raldin",
+        "Telash",
+        "Ajheed",
+        "Narphet",
+        "Khaleel",
+        "Phaet",
+        "Geshef",
+        "Vanji",
+        "Haphet",
+        "Thadar",
+        "Yatiraj",
+        "Rhadge",
+        "Yashied",
+        "Jarulf",
+        "Flux",
+        "Scorch"
+      ],
+      "rows": [
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Fire-Normal",
+          "id": 15,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 15,
+          "gold": 1000,
+          "expPerLevel": 110,
+          "hp": 160,
+          "hpPerLevel": 9,
+          "defense": 80,
+          "defensePerLevel": 5,
+          "str": 49,
+          "strEighthsPerLevel": 10,
+          "dex": 40,
+          "dexEighthsPerLevel": 8,
+          "ar": 15,
+          "arPerLevel": 12,
+          "dmgMin": 1,
+          "dmgMax": 7,
+          "dmgEighthsPerLevel": 4,
+          "resist": 25,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Inferno",
+              "id": "inferno",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 6,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Ball",
+              "id": "fireBall",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 4,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Fire-Normal",
+          "id": 15,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 49,
+          "gold": 1000,
+          "expPerLevel": 110,
+          "hp": 466,
+          "hpPerLevel": 18,
+          "defense": 250,
+          "defensePerLevel": 13,
+          "str": 92,
+          "strEighthsPerLevel": 10,
+          "dex": 74,
+          "dexEighthsPerLevel": 8,
+          "ar": 423,
+          "arPerLevel": 24,
+          "dmgMin": 18,
+          "dmgMax": 24,
+          "dmgEighthsPerLevel": 4,
+          "resist": 85,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Inferno",
+              "id": "inferno",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 17,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Ball",
+              "id": "fireBall",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 15,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Fire-Normal",
+          "id": 15,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 79,
+          "gold": 1000,
+          "expPerLevel": 110,
+          "hp": 1006,
+          "hpPerLevel": 27,
+          "defense": 640,
+          "defensePerLevel": 25,
+          "str": 130,
+          "strEighthsPerLevel": 10,
+          "dex": 104,
+          "dexEighthsPerLevel": 8,
+          "ar": 1143,
+          "arPerLevel": 36,
+          "dmgMin": 33,
+          "dmgMax": 39,
+          "dmgEighthsPerLevel": 4,
+          "resist": 138,
+          "resistQuartersPerLevel": 6,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Inferno",
+              "id": "inferno",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 27,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Ball",
+              "id": "fireBall",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 25,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Cold-Normal",
+          "id": 16,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 15,
+          "gold": 1500,
+          "expPerLevel": 120,
+          "hp": 160,
+          "hpPerLevel": 9,
+          "defense": 80,
+          "defensePerLevel": 5,
+          "str": 49,
+          "strEighthsPerLevel": 10,
+          "dex": 40,
+          "dexEighthsPerLevel": 8,
+          "ar": 15,
+          "arPerLevel": 12,
+          "dmgMin": 1,
+          "dmgMax": 7,
+          "dmgEighthsPerLevel": 4,
+          "resist": 25,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Glacial Spike",
+              "id": "glacialSpike",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 1,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Frozen Armor",
+              "id": "frozenArmor",
+              "mode": 7,
+              "chance": 1000,
+              "chancePerLevel": 0,
+              "level": 2,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Ice Blast",
+              "id": "iceBlast",
+              "mode": 7,
+              "chance": 240,
+              "chancePerLevel": 0,
+              "level": 6,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Cold-Normal",
+          "id": 16,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 49,
+          "gold": 1500,
+          "expPerLevel": 120,
+          "hp": 466,
+          "hpPerLevel": 18,
+          "defense": 250,
+          "defensePerLevel": 13,
+          "str": 92,
+          "strEighthsPerLevel": 10,
+          "dex": 74,
+          "dexEighthsPerLevel": 8,
+          "ar": 423,
+          "arPerLevel": 24,
+          "dmgMin": 18,
+          "dmgMax": 24,
+          "dmgEighthsPerLevel": 4,
+          "resist": 85,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Glacial Spike",
+              "id": "glacialSpike",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 7,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Frozen Armor",
+              "id": "frozenArmor",
+              "mode": 7,
+              "chance": 1000,
+              "chancePerLevel": 0,
+              "level": 13,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Ice Blast",
+              "id": "iceBlast",
+              "mode": 7,
+              "chance": 240,
+              "chancePerLevel": 0,
+              "level": 17,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Cold-Normal",
+          "id": 16,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 79,
+          "gold": 1500,
+          "expPerLevel": 120,
+          "hp": 1006,
+          "hpPerLevel": 27,
+          "defense": 640,
+          "defensePerLevel": 25,
+          "str": 130,
+          "strEighthsPerLevel": 10,
+          "dex": 104,
+          "dexEighthsPerLevel": 8,
+          "ar": 1143,
+          "arPerLevel": 36,
+          "dmgMin": 33,
+          "dmgMax": 39,
+          "dmgEighthsPerLevel": 4,
+          "resist": 138,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Glacial Spike",
+              "id": "glacialSpike",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 12,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Frozen Armor",
+              "id": "frozenArmor",
+              "mode": 7,
+              "chance": 1000,
+              "chancePerLevel": 0,
+              "level": 23,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Ice Blast",
+              "id": "iceBlast",
+              "mode": 7,
+              "chance": 240,
+              "chancePerLevel": 0,
+              "level": 27,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Ltng-Normal",
+          "id": 17,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 15,
+          "gold": 1000,
+          "expPerLevel": 110,
+          "hp": 160,
+          "hpPerLevel": 9,
+          "defense": 80,
+          "defensePerLevel": 5,
+          "str": 49,
+          "strEighthsPerLevel": 10,
+          "dex": 40,
+          "dexEighthsPerLevel": 8,
+          "ar": 15,
+          "arPerLevel": 12,
+          "dmgMin": 1,
+          "dmgMax": 7,
+          "dmgEighthsPerLevel": 4,
+          "resist": 25,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Charged Bolt",
+              "id": "chargedBolt",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 4,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Lightning",
+              "id": "lightning",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Ltng-Normal",
+          "id": 17,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 49,
+          "gold": 1000,
+          "expPerLevel": 110,
+          "hp": 466,
+          "hpPerLevel": 18,
+          "defense": 250,
+          "defensePerLevel": 13,
+          "str": 92,
+          "strEighthsPerLevel": 10,
+          "dex": 74,
+          "dexEighthsPerLevel": 8,
+          "ar": 423,
+          "arPerLevel": 24,
+          "dmgMin": 18,
+          "dmgMax": 24,
+          "dmgEighthsPerLevel": 4,
+          "resist": 85,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Charged Bolt",
+              "id": "chargedBolt",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 10,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Lightning",
+              "id": "lightning",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 14,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Ltng-Normal",
+          "id": 17,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 1,
+          "level": 79,
+          "gold": 1000,
+          "expPerLevel": 110,
+          "hp": 1006,
+          "hpPerLevel": 27,
+          "defense": 640,
+          "defensePerLevel": 25,
+          "str": 130,
+          "strEighthsPerLevel": 10,
+          "dex": 104,
+          "dexEighthsPerLevel": 8,
+          "ar": 1143,
+          "arPerLevel": 36,
+          "dmgMin": 33,
+          "dmgMax": 39,
+          "dmgEighthsPerLevel": 4,
+          "resist": 138,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Charged Bolt",
+              "id": "chargedBolt",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 15,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Lightning",
+              "id": "lightning",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 24,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Fire-Nightmare",
+          "id": 18,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 2,
+          "level": 49,
+          "gold": 9500,
+          "expPerLevel": 120,
+          "hp": 419,
+          "hpPerLevel": 18,
+          "defense": 225,
+          "defensePerLevel": 13,
+          "str": 88,
+          "strEighthsPerLevel": 10,
+          "dex": 70,
+          "dexEighthsPerLevel": 8,
+          "ar": 381,
+          "arPerLevel": 24,
+          "dmgMin": 16,
+          "dmgMax": 22,
+          "dmgEighthsPerLevel": 4,
+          "resist": 82,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Inferno",
+              "id": "inferno",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 16,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Ball",
+              "id": "fireBall",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 14,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Fire-Nightmare",
+          "id": 18,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 2,
+          "level": 79,
+          "gold": 9500,
+          "expPerLevel": 120,
+          "hp": 959,
+          "hpPerLevel": 27,
+          "defense": 615,
+          "defensePerLevel": 25,
+          "str": 126,
+          "strEighthsPerLevel": 10,
+          "dex": 100,
+          "dexEighthsPerLevel": 8,
+          "ar": 1101,
+          "arPerLevel": 36,
+          "dmgMin": 31,
+          "dmgMax": 37,
+          "dmgEighthsPerLevel": 4,
+          "resist": 135,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Inferno",
+              "id": "inferno",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 26,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Ball",
+              "id": "fireBall",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 24,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Cold-Nightmare",
+          "id": 19,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 2,
+          "level": 49,
+          "gold": 12000,
+          "expPerLevel": 130,
+          "hp": 419,
+          "hpPerLevel": 18,
+          "defense": 225,
+          "defensePerLevel": 13,
+          "str": 88,
+          "strEighthsPerLevel": 10,
+          "dex": 70,
+          "dexEighthsPerLevel": 8,
+          "ar": 381,
+          "arPerLevel": 24,
+          "dmgMin": 16,
+          "dmgMax": 22,
+          "dmgEighthsPerLevel": 4,
+          "resist": 82,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Glacial Spike",
+              "id": "glacialSpike",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 6,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Frozen Armor",
+              "id": "frozenArmor",
+              "mode": 7,
+              "chance": 1000,
+              "chancePerLevel": 0,
+              "level": 12,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Ice Blast",
+              "id": "iceBlast",
+              "mode": 7,
+              "chance": 240,
+              "chancePerLevel": 0,
+              "level": 16,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Cold-Nightmare",
+          "id": 19,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 2,
+          "level": 79,
+          "gold": 12000,
+          "expPerLevel": 130,
+          "hp": 959,
+          "hpPerLevel": 27,
+          "defense": 615,
+          "defensePerLevel": 25,
+          "str": 126,
+          "strEighthsPerLevel": 10,
+          "dex": 100,
+          "dexEighthsPerLevel": 8,
+          "ar": 1101,
+          "arPerLevel": 36,
+          "dmgMin": 31,
+          "dmgMax": 37,
+          "dmgEighthsPerLevel": 4,
+          "resist": 135,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Glacial Spike",
+              "id": "glacialSpike",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Frozen Armor",
+              "id": "frozenArmor",
+              "mode": 7,
+              "chance": 1000,
+              "chancePerLevel": 0,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Ice Blast",
+              "id": "iceBlast",
+              "mode": 7,
+              "chance": 240,
+              "chancePerLevel": 0,
+              "level": 26,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Ltng-Nightmare",
+          "id": 20,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 2,
+          "level": 49,
+          "gold": 10000,
+          "expPerLevel": 120,
+          "hp": 419,
+          "hpPerLevel": 18,
+          "defense": 225,
+          "defensePerLevel": 13,
+          "str": 88,
+          "strEighthsPerLevel": 10,
+          "dex": 70,
+          "dexEighthsPerLevel": 8,
+          "ar": 381,
+          "arPerLevel": 24,
+          "dmgMin": 16,
+          "dmgMax": 22,
+          "dmgEighthsPerLevel": 4,
+          "resist": 82,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Charged Bolt",
+              "id": "chargedBolt",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 9,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Lightning",
+              "id": "lightning",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 13,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Ltng-Nightmare",
+          "id": 20,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 2,
+          "level": 79,
+          "gold": 10000,
+          "expPerLevel": 120,
+          "hp": 959,
+          "hpPerLevel": 27,
+          "defense": 615,
+          "defensePerLevel": 25,
+          "str": 126,
+          "strEighthsPerLevel": 10,
+          "dex": 100,
+          "dexEighthsPerLevel": 8,
+          "ar": 1101,
+          "arPerLevel": 36,
+          "dmgMin": 31,
+          "dmgMax": 37,
+          "dmgEighthsPerLevel": 4,
+          "resist": 135,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Charged Bolt",
+              "id": "chargedBolt",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 14,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Lightning",
+              "id": "lightning",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 23,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Fire-Hell",
+          "id": 21,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 3,
+          "level": 79,
+          "gold": 21000,
+          "expPerLevel": 130,
+          "hp": 863,
+          "hpPerLevel": 27,
+          "defense": 554,
+          "defensePerLevel": 25,
+          "str": 122,
+          "strEighthsPerLevel": 10,
+          "dex": 96,
+          "dexEighthsPerLevel": 8,
+          "ar": 991,
+          "arPerLevel": 36,
+          "dmgMin": 29,
+          "dmgMax": 35,
+          "dmgEighthsPerLevel": 4,
+          "resist": 132,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Inferno",
+              "id": "inferno",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 25,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Fire Ball",
+              "id": "fireBall",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 23,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Cold-Hell",
+          "id": 22,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 3,
+          "level": 79,
+          "gold": 27000,
+          "expPerLevel": 140,
+          "hp": 863,
+          "hpPerLevel": 27,
+          "defense": 554,
+          "defensePerLevel": 25,
+          "str": 122,
+          "strEighthsPerLevel": 10,
+          "dex": 96,
+          "dexEighthsPerLevel": 8,
+          "ar": 991,
+          "arPerLevel": 36,
+          "dmgMin": 29,
+          "dmgMax": 35,
+          "dmgEighthsPerLevel": 4,
+          "resist": 132,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Glacial Spike",
+              "id": "glacialSpike",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 10,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Frozen Armor",
+              "id": "frozenArmor",
+              "mode": 7,
+              "chance": 1000,
+              "chancePerLevel": 0,
+              "level": 21,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Ice Blast",
+              "id": "iceBlast",
+              "mode": 7,
+              "chance": 240,
+              "chancePerLevel": 0,
+              "level": 25,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        },
+        {
+          "hireling": "Eastern Sorceror",
+          "subType": "Ltng-Hell",
+          "id": 23,
+          "look": "act3hire",
+          "act": 3,
+          "difficulty": 3,
+          "level": 79,
+          "gold": 21000,
+          "expPerLevel": 130,
+          "hp": 863,
+          "hpPerLevel": 27,
+          "defense": 554,
+          "defensePerLevel": 25,
+          "str": 122,
+          "strEighthsPerLevel": 10,
+          "dex": 96,
+          "dexEighthsPerLevel": 8,
+          "ar": 991,
+          "arPerLevel": 36,
+          "dmgMin": 29,
+          "dmgMax": 36,
+          "dmgEighthsPerLevel": 4,
+          "resist": 132,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor",
+            "shie"
+          ],
+          "defaultChance": 10,
+          "skills": [
+            {
+              "skill": "Charged Bolt",
+              "id": "chargedBolt",
+              "mode": 7,
+              "chance": 60,
+              "chancePerLevel": 0,
+              "level": 13,
+              "levelThirtySecondsPerLevel": 5
+            },
+            {
+              "skill": "Lightning",
+              "id": "lightning",
+              "mode": 7,
+              "chance": 30,
+              "chancePerLevel": 0,
+              "level": 22,
+              "levelThirtySecondsPerLevel": 10
+            }
+          ],
+          "head": 2,
+          "torso": 2,
+          "weapon": 2,
+          "shield": 1,
+          "nameFirst": "merca222",
+          "nameLast": "merca241"
+        }
+      ]
+    },
+    "barbarian": {
+      "name": "Barbarian",
+      "hireling": "Barbarian",
+      "act": 5,
+      "looks": [
+        "act5hire2",
+        "act5hire1"
+      ],
+      "portrait": "hirelings/portraits/barbarian.png",
+      "sounds": {
+        "hit": "act2hire.hit",
+        "death": "act2hire.death"
+      },
+      "hitDelay": 0,
+      "deathDelay": 0,
+      "names": [
+        "Varaya",
+        "Khan",
+        "Klisk",
+        "Bors",
+        "Brom",
+        "Wiglaf",
+        "Hrothgar",
+        "Scyld",
+        "Healfdane",
+        "Heorogar",
+        "Halgaunt",
+        "Hygelac",
+        "Egtheow",
+        "Bohdan",
+        "Wulfgar",
+        "Hild",
+        "Heatholaf",
+        "Weder",
+        "Vikhyat",
+        "Unferth",
+        "Sigemund",
+        "Heremod",
+        "Hengest",
+        "Folcwald",
+        "Frisian",
+        "Hnaef",
+        "Guthlaf",
+        "Oslaf",
+        "Yrmenlaf",
+        "Garmund",
+        "Lanth",
+        "Eadgils",
+        "Onela",
+        "Damien",
+        "Tryneus",
+        "Klar",
+        "Wulf",
+        "Bulwye",
+        "Lief",
+        "Magnus",
+        "Klatu",
+        "Drus",
+        "Hoku",
+        "Kord",
+        "Uther",
+        "Ip",
+        "Ulf",
+        "Tharr",
+        "Kaelim",
+        "Ulric",
+        "Alaric",
+        "Ethelred",
+        "Caden",
+        "Elgifu",
+        "Tostig",
+        "Alcuin",
+        "Emund",
+        "Sigurd",
+        "Gorm",
+        "Hollis",
+        "Ragnar",
+        "Torkel",
+        "Wulfstan",
+        "Alban",
+        "Barloc",
+        "Bill",
+        "Theodoric"
+      ],
+      "rows": [
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Normal",
+          "id": 24,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 1,
+          "level": 28,
+          "gold": 9000,
+          "expPerLevel": 120,
+          "hp": 288,
+          "hpPerLevel": 18,
+          "defense": 180,
+          "defensePerLevel": 10,
+          "str": 101,
+          "strEighthsPerLevel": 15,
+          "dex": 63,
+          "dexEighthsPerLevel": 10,
+          "ar": 150,
+          "arPerLevel": 20,
+          "dmgMin": 16,
+          "dmgMax": 20,
+          "dmgEighthsPerLevel": 6,
+          "resist": 56,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 15,
+              "chancePerLevel": 0,
+              "level": 4,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 15,
+              "chancePerLevel": 0,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 8
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Normal",
+          "id": 24,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 1,
+          "level": 58,
+          "gold": 9000,
+          "expPerLevel": 120,
+          "hp": 828,
+          "hpPerLevel": 27,
+          "defense": 480,
+          "defensePerLevel": 35,
+          "str": 158,
+          "strEighthsPerLevel": 15,
+          "dex": 101,
+          "dexEighthsPerLevel": 10,
+          "ar": 750,
+          "arPerLevel": 35,
+          "dmgMin": 39,
+          "dmgMax": 43,
+          "dmgEighthsPerLevel": 8,
+          "resist": 109,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 50,
+              "chancePerLevel": 0,
+              "level": 14,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 50,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 8
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Normal",
+          "id": 24,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 1,
+          "level": 80,
+          "gold": 9000,
+          "expPerLevel": 120,
+          "hp": 1422,
+          "hpPerLevel": 45,
+          "defense": 1250,
+          "defensePerLevel": 50,
+          "str": 200,
+          "strEighthsPerLevel": 15,
+          "dex": 129,
+          "dexEighthsPerLevel": 10,
+          "ar": 1520,
+          "arPerLevel": 45,
+          "dmgMin": 61,
+          "dmgMax": 65,
+          "dmgEighthsPerLevel": 8,
+          "resist": 148,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 75,
+              "chancePerLevel": 0,
+              "level": 21,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 75,
+              "chancePerLevel": 0,
+              "level": 17,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Normal",
+          "id": 25,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 1,
+          "level": 28,
+          "gold": 9000,
+          "expPerLevel": 120,
+          "hp": 288,
+          "hpPerLevel": 18,
+          "defense": 180,
+          "defensePerLevel": 10,
+          "str": 101,
+          "strEighthsPerLevel": 15,
+          "dex": 63,
+          "dexEighthsPerLevel": 10,
+          "ar": 150,
+          "arPerLevel": 20,
+          "dmgMin": 16,
+          "dmgMax": 20,
+          "dmgEighthsPerLevel": 6,
+          "resist": 56,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 15,
+              "chancePerLevel": 0,
+              "level": 4,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 15,
+              "chancePerLevel": 0,
+              "level": 3,
+              "levelThirtySecondsPerLevel": 8
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Normal",
+          "id": 25,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 1,
+          "level": 58,
+          "gold": 9000,
+          "expPerLevel": 120,
+          "hp": 828,
+          "hpPerLevel": 27,
+          "defense": 480,
+          "defensePerLevel": 35,
+          "str": 158,
+          "strEighthsPerLevel": 15,
+          "dex": 101,
+          "dexEighthsPerLevel": 10,
+          "ar": 750,
+          "arPerLevel": 35,
+          "dmgMin": 39,
+          "dmgMax": 43,
+          "dmgEighthsPerLevel": 8,
+          "resist": 109,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 50,
+              "chancePerLevel": 0,
+              "level": 14,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 50,
+              "chancePerLevel": 0,
+              "level": 11,
+              "levelThirtySecondsPerLevel": 8
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Normal",
+          "id": 25,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 1,
+          "level": 80,
+          "gold": 9000,
+          "expPerLevel": 120,
+          "hp": 1422,
+          "hpPerLevel": 45,
+          "defense": 1250,
+          "defensePerLevel": 50,
+          "str": 200,
+          "strEighthsPerLevel": 15,
+          "dex": 129,
+          "dexEighthsPerLevel": 10,
+          "ar": 1520,
+          "arPerLevel": 45,
+          "dmgMin": 61,
+          "dmgMax": 65,
+          "dmgEighthsPerLevel": 8,
+          "resist": 148,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 75,
+              "chancePerLevel": 0,
+              "level": 21,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 75,
+              "chancePerLevel": 0,
+              "level": 17,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Nightmare",
+          "id": 26,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 2,
+          "level": 58,
+          "gold": 18000,
+          "expPerLevel": 130,
+          "hp": 745,
+          "hpPerLevel": 27,
+          "defense": 432,
+          "defensePerLevel": 35,
+          "str": 155,
+          "strEighthsPerLevel": 15,
+          "dex": 96,
+          "dexEighthsPerLevel": 10,
+          "ar": 675,
+          "arPerLevel": 35,
+          "dmgMin": 37,
+          "dmgMax": 41,
+          "dmgEighthsPerLevel": 8,
+          "resist": 106,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 50,
+              "chancePerLevel": 0,
+              "level": 13,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 50,
+              "chancePerLevel": 0,
+              "level": 10,
+              "levelThirtySecondsPerLevel": 8
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Nightmare",
+          "id": 26,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 2,
+          "level": 80,
+          "gold": 18000,
+          "expPerLevel": 130,
+          "hp": 1339,
+          "hpPerLevel": 45,
+          "defense": 1202,
+          "defensePerLevel": 50,
+          "str": 197,
+          "strEighthsPerLevel": 15,
+          "dex": 124,
+          "dexEighthsPerLevel": 10,
+          "ar": 1445,
+          "arPerLevel": 45,
+          "dmgMin": 59,
+          "dmgMax": 63,
+          "dmgEighthsPerLevel": 8,
+          "resist": 145,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 75,
+              "chancePerLevel": 0,
+              "level": 20,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 75,
+              "chancePerLevel": 0,
+              "level": 16,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Nightmare",
+          "id": 27,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 2,
+          "level": 58,
+          "gold": 18000,
+          "expPerLevel": 130,
+          "hp": 745,
+          "hpPerLevel": 27,
+          "defense": 432,
+          "defensePerLevel": 35,
+          "str": 155,
+          "strEighthsPerLevel": 15,
+          "dex": 96,
+          "dexEighthsPerLevel": 10,
+          "ar": 675,
+          "arPerLevel": 35,
+          "dmgMin": 37,
+          "dmgMax": 41,
+          "dmgEighthsPerLevel": 8,
+          "resist": 106,
+          "resistQuartersPerLevel": 7,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 50,
+              "chancePerLevel": 0,
+              "level": 13,
+              "levelThirtySecondsPerLevel": 10
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 50,
+              "chancePerLevel": 0,
+              "level": 10,
+              "levelThirtySecondsPerLevel": 8
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Nightmare",
+          "id": 27,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 2,
+          "level": 80,
+          "gold": 18000,
+          "expPerLevel": 130,
+          "hp": 1339,
+          "hpPerLevel": 45,
+          "defense": 1202,
+          "defensePerLevel": 50,
+          "str": 197,
+          "strEighthsPerLevel": 15,
+          "dex": 124,
+          "dexEighthsPerLevel": 10,
+          "ar": 1445,
+          "arPerLevel": 45,
+          "dmgMin": 59,
+          "dmgMax": 63,
+          "dmgEighthsPerLevel": 8,
+          "resist": 145,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 75,
+              "chancePerLevel": 0,
+              "level": 20,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 75,
+              "chancePerLevel": 0,
+              "level": 16,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Hell",
+          "id": 28,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 3,
+          "level": 80,
+          "gold": 32000,
+          "expPerLevel": 140,
+          "hp": 1205,
+          "hpPerLevel": 45,
+          "defense": 1082,
+          "defensePerLevel": 50,
+          "str": 194,
+          "strEighthsPerLevel": 15,
+          "dex": 119,
+          "dexEighthsPerLevel": 10,
+          "ar": 1301,
+          "arPerLevel": 45,
+          "dmgMin": 57,
+          "dmgMax": 61,
+          "dmgEighthsPerLevel": 8,
+          "resist": 142,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 70,
+              "chancePerLevel": 0,
+              "level": 19,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 70,
+              "chancePerLevel": 0,
+              "level": 15,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        },
+        {
+          "hireling": "Barbarian",
+          "subType": "1hs-Hell",
+          "id": 29,
+          "look": "act5hire2",
+          "act": 5,
+          "difficulty": 3,
+          "level": 80,
+          "gold": 32000,
+          "expPerLevel": 140,
+          "hp": 1205,
+          "hpPerLevel": 45,
+          "defense": 1082,
+          "defensePerLevel": 50,
+          "str": 194,
+          "strEighthsPerLevel": 15,
+          "dex": 119,
+          "dexEighthsPerLevel": 10,
+          "ar": 1301,
+          "arPerLevel": 45,
+          "dmgMin": 57,
+          "dmgMax": 61,
+          "dmgEighthsPerLevel": 8,
+          "resist": 142,
+          "resistQuartersPerLevel": 4,
+          "weaponTypes": [
+            "swor"
+          ],
+          "defaultChance": 50,
+          "skills": [
+            {
+              "skill": "Bash",
+              "id": "bash",
+              "mode": 5,
+              "chance": 70,
+              "chancePerLevel": 0,
+              "level": 19,
+              "levelThirtySecondsPerLevel": 0
+            },
+            {
+              "skill": "Stun",
+              "id": "stun",
+              "mode": 5,
+              "chance": 70,
+              "chancePerLevel": 0,
+              "level": 15,
+              "levelThirtySecondsPerLevel": 0
+            }
+          ],
+          "head": 0,
+          "torso": 0,
+          "weapon": 0,
+          "shield": 0,
+          "nameFirst": "MercX101",
+          "nameLast": "MercX167"
+        }
+      ]
+    }
+  },
+  "looks": {
+    "roguehire": {
+      "id": "roguehire",
+      "token": "RG",
+      "weaponClass": "HTH",
+      "components": {
+        "HD": "med",
+        "TR": "lit",
+        "LG": "lit",
+        "RA": "lit",
+        "LA": "lit",
+        "LH": "lbw",
+        "S1": "lit",
+        "S2": "lit"
+      },
+      "sheets": "hirelings/roguehire.json",
+      "bytes": {
+        "NU": 1968912,
+        "RN": 952176,
+        "A1": 1345456,
+        "DT": 1750272
+      },
+      "velocity": 7,
+      "run": 11
+    },
+    "act2hire": {
+      "id": "act2hire",
+      "token": "GU",
+      "weaponClass": "HTH",
+      "components": {
+        "HD": "med",
+        "TR": "med",
+        "LG": "lit",
+        "RA": "lit",
+        "LA": "lit",
+        "RH": "glv",
+        "S1": "lit",
+        "S2": "lit",
+        "S3": "lit"
+      },
+      "sheets": "hirelings/act2hire.json",
+      "bytes": {
+        "NU": 1821584,
+        "RN": 2610972,
+        "A1": 3421600,
+        "DT": 4082040
+      },
+      "velocity": 7,
+      "run": 11
+    },
+    "act3hire": {
+      "id": "act3hire",
+      "token": "IW",
+      "weaponClass": "1HS",
+      "components": {
+        "HD": "lit",
+        "TR": "lit",
+        "RH": "lsd",
+        "SH": "buc"
+      },
+      "sheets": "hirelings/act3hire.json",
+      "bytes": {
+        "NU": 1792896,
+        "RN": 946560,
+        "A1": 1835600,
+        "SC": 1926220,
+        "DT": 2107404
+      },
+      "velocity": 7,
+      "run": 11
+    },
+    "act5hire2": {
+      "id": "act5hire2",
+      "token": "0A",
+      "weaponClass": "2HS",
+      "components": {
+        "HD": "fhm",
+        "TR": "lit",
+        "RH": "bsd",
+        "S1": "lit",
+        "S2": "lit"
+      },
+      "sheets": "hirelings/act5hire2.json",
+      "bytes": {
+        "NU": 1518912,
+        "RN": 1066000,
+        "A1": 2379312,
+        "A2": 2540056,
+        "DT": 1972344
+      },
+      "velocity": 8,
+      "run": 14
+    },
+    "act5hire1": {
+      "id": "act5hire1",
+      "token": "0A",
+      "weaponClass": "1HS",
+      "components": {
+        "HD": "fhm",
+        "TR": "lit",
+        "RH": "lsd",
+        "LH": "lsd",
+        "S1": "lit",
+        "S2": "lit"
+      },
+      "sheets": "hirelings/act5hire1.json",
+      "bytes": {
+        "NU": 1842912,
+        "RN": 1456356,
+        "A1": 3067568,
+        "A2": 3019360,
+        "DT": 1972344
+      },
+      "velocity": 8,
+      "run": 14
+    }
+  },
+  "sounds": {
+    "act1hire.hit": {
+      "volume": 0.7843137254901961,
+      "variants": [
+        {
+          "file": "hirelings/sounds/monster/rogue/gethit1.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/rogue/gethit2.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/rogue/gethit3.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/rogue/gethit4.m4a"
+        }
+      ]
+    },
+    "act1hire.death": {
+      "volume": 0.7843137254901961,
+      "variants": [
+        {
+          "file": "hirelings/sounds/monster/rogue/death1.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/rogue/death2.m4a"
+        }
+      ]
+    },
+    "act2hire.hit": {
+      "volume": 0.7843137254901961,
+      "variants": [
+        {
+          "file": "hirelings/sounds/monster/guard/gethit1.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/guard/gethit2.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/guard/gethit3.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/guard/gethit4.m4a"
+        }
+      ]
+    },
+    "act2hire.death": {
+      "volume": 0.7843137254901961,
+      "variants": [
+        {
+          "file": "hirelings/sounds/monster/guard/death1.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/guard/death2.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/guard/death3.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/guardtower/death1.m4a"
+        }
+      ]
+    },
+    "act3hire.hit": {
+      "volume": 0.7843137254901961,
+      "variants": [
+        {
+          "file": "hirelings/sounds/monster/ironwolf/gethit1.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/ironwolf/gethit2.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/ironwolf/gethit3.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/ironwolf/gethit4.m4a"
+        }
+      ]
+    },
+    "act3hire.death": {
+      "volume": 0.7843137254901961,
+      "variants": [
+        {
+          "file": "hirelings/sounds/monster/ironwolf/death1.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/ironwolf/death2.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/ironwolf/death3.m4a"
+        },
+        {
+          "file": "hirelings/sounds/monster/izual/attack1.m4a"
+        }
+      ]
+    }
+  },
+  "pets": {
+    "valkyrie": {
+      "order": 2,
+      "icon": "hirelings/pets/valkarieicon.png",
+      "counted": false,
+      "life": true
+    },
+    "golem": {
+      "order": 3,
+      "icon": "hirelings/pets/earthgolumicon.png",
+      "counted": false,
+      "life": true,
+      "byClass": {
+        "bloodgolem": "hirelings/pets/bloodgolumicon.png",
+        "irongolem": "hirelings/pets/metalgolumicon.png",
+        "firegolem": "hirelings/pets/firegolumicon.png"
+      }
+    },
+    "skeleton": {
+      "order": 4,
+      "icon": "hirelings/pets/skeletonicon.png",
+      "counted": true,
+      "life": true
+    },
+    "skeletonmage": {
+      "order": 5,
+      "icon": "hirelings/pets/skeletonmageicon.png",
+      "counted": true,
+      "life": true
+    },
+    "revive": {
+      "order": 6,
+      "icon": "hirelings/pets/revivedicon.png",
+      "counted": true,
+      "life": true
+    },
+    "raven": {
+      "order": 10,
+      "icon": "hirelings/pets/raven.png",
+      "counted": true,
+      "life": false
+    },
+    "spiritwolf": {
+      "order": 11,
+      "icon": "hirelings/pets/wolf.png",
+      "counted": true,
+      "life": true
+    },
+    "fenris": {
+      "order": 12,
+      "icon": "hirelings/pets/wolf.png",
+      "counted": true,
+      "life": true
+    },
+    "totem": {
+      "order": 13,
+      "icon": "hirelings/pets/oaksage.png",
+      "counted": false,
+      "life": true,
+      "byClass": {
+        "heartofwolverine": "hirelings/pets/heartofwolverine.png",
+        "spiritofbarbs": "hirelings/pets/spiritofbarbs.png"
+      }
+    },
+    "vine": {
+      "order": 14,
+      "icon": "hirelings/pets/plaguepoppy.png",
+      "counted": false,
+      "life": true,
+      "byClass": {
+        "cycleoflife": "hirelings/pets/cycleoflife.png",
+        "vinecreature": "hirelings/pets/vines.png"
+      }
+    },
+    "grizzly": {
+      "order": 15,
+      "icon": "hirelings/pets/bear.png",
+      "counted": false,
+      "life": true
+    },
+    "shadowwarrior": {
+      "order": 16,
+      "icon": "hirelings/pets/shadowassassin.png",
+      "counted": false,
+      "life": true
+    }
+  },
+  "lifeBar": "hirelings/lifebar.png",
+  "panel": {
+    "file": "hirelings/npcinv.png",
+    "width": 320,
+    "height": 432
+  },
+  "slots": {
+    "head": {
+      "x": 135,
+      "y": 8,
+      "width": 54,
+      "height": 51
+    },
+    "torso": {
+      "x": 133,
+      "y": 77,
+      "width": 56,
+      "height": 82
+    },
+    "rightArm": {
+      "x": 20,
+      "y": 47,
+      "width": 55,
+      "height": 112
+    },
+    "leftArm": {
+      "x": 251,
+      "y": 47,
+      "width": 55,
+      "height": 112
+    }
+  }
+}
