@@ -1,0 +1,1 @@
+import{t as e}from"./site-BjHODm4t.js";e({onApply:e=>{let t=document.body.dataset[e===`ko`?`titleKo`:`titleEn`];t&&(document.title=t)}});

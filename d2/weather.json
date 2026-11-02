@@ -1,0 +1,298 @@
+{
+  "levels": [
+    {
+      "rogue encampment": {
+        "id": 1
+      },
+      "blood moor": {
+        "id": 2
+      },
+      "cold plains": {
+        "id": 3
+      },
+      "stony field": {
+        "id": 4
+      },
+      "dark wood": {
+        "id": 5
+      },
+      "black marsh": {
+        "id": 6
+      },
+      "tamoe highland": {
+        "id": 7
+      },
+      "burial grounds": {
+        "id": 17
+      },
+      "tristram": {
+        "id": 38
+      },
+      "secret cow level": {
+        "id": 39
+      },
+      "moo moo farm": {
+        "id": 39
+      }
+    },
+    {},
+    {
+      "kurast docks": {
+        "id": 75,
+        "mud": true
+      },
+      "kurast docktown": {
+        "id": 75,
+        "mud": true
+      },
+      "spider forest": {
+        "id": 76,
+        "mud": true
+      },
+      "great marsh": {
+        "id": 77,
+        "mud": true
+      },
+      "flayer jungle": {
+        "id": 78,
+        "mud": true
+      },
+      "lower kurast": {
+        "id": 79,
+        "mud": true
+      },
+      "kurast bazaar": {
+        "id": 80,
+        "mud": true
+      },
+      "upper kurast": {
+        "id": 81,
+        "mud": true
+      },
+      "kurast causeway": {
+        "id": 82,
+        "mud": true
+      },
+      "travincal": {
+        "id": 83,
+        "mud": true
+      }
+    },
+    {},
+    {
+      "harrogath": {
+        "id": 109
+      },
+      "bloody foothills": {
+        "id": 110
+      },
+      "frigid highlands": {
+        "id": 111
+      },
+      "rigid highlands": {
+        "id": 111
+      },
+      "arreat plateau": {
+        "id": 112
+      },
+      "frozen tundra": {
+        "id": 117
+      },
+      "tundra wastelands": {
+        "id": 117
+      },
+      "arreat summit": {
+        "id": 120
+      },
+      "rocky summit": {
+        "id": 120
+      },
+      "nihlathak's temple": {
+        "id": 121
+      },
+      "nihlathaks temple": {
+        "id": 121
+      },
+      "tristram": {
+        "id": 136
+      }
+    }
+  ],
+  "splashes": {
+    "file": "weather/splashes.png",
+    "sprites": [
+      [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 5,
+          "h": 3,
+          "ox": -2,
+          "oy": -2
+        },
+        {
+          "x": 7,
+          "y": 0,
+          "w": 11,
+          "h": 5,
+          "ox": -5,
+          "oy": -4
+        },
+        {
+          "x": 20,
+          "y": 0,
+          "w": 13,
+          "h": 8,
+          "ox": -6,
+          "oy": -6
+        },
+        {
+          "x": 35,
+          "y": 0,
+          "w": 19,
+          "h": 11,
+          "ox": -9,
+          "oy": -7
+        },
+        {
+          "x": 56,
+          "y": 0,
+          "w": 23,
+          "h": 13,
+          "ox": -11,
+          "oy": -8
+        },
+        {
+          "x": 81,
+          "y": 0,
+          "w": 24,
+          "h": 15,
+          "ox": -11,
+          "oy": -9
+        },
+        {
+          "x": 107,
+          "y": 0,
+          "w": 30,
+          "h": 18,
+          "ox": -15,
+          "oy": -11
+        },
+        {
+          "x": 139,
+          "y": 0,
+          "w": 33,
+          "h": 19,
+          "ox": -16,
+          "oy": -11
+        },
+        {
+          "x": 174,
+          "y": 0,
+          "w": 33,
+          "h": 21,
+          "ox": -16,
+          "oy": -12
+        },
+        {
+          "x": 209,
+          "y": 0,
+          "w": 33,
+          "h": 21,
+          "ox": -16,
+          "oy": -12
+        }
+      ],
+      [
+        {
+          "x": 0,
+          "y": 23,
+          "w": 3,
+          "h": 2,
+          "ox": -1,
+          "oy": -1
+        },
+        {
+          "x": 5,
+          "y": 23,
+          "w": 6,
+          "h": 4,
+          "ox": -3,
+          "oy": -3
+        },
+        {
+          "x": 13,
+          "y": 23,
+          "w": 7,
+          "h": 5,
+          "ox": -3,
+          "oy": -4
+        },
+        {
+          "x": 22,
+          "y": 23,
+          "w": 10,
+          "h": 5,
+          "ox": -5,
+          "oy": -4
+        },
+        {
+          "x": 34,
+          "y": 23,
+          "w": 12,
+          "h": 7,
+          "ox": -6,
+          "oy": -5
+        },
+        {
+          "x": 48,
+          "y": 23,
+          "w": 13,
+          "h": 8,
+          "ox": -6,
+          "oy": -5
+        },
+        {
+          "x": 63,
+          "y": 23,
+          "w": 16,
+          "h": 9,
+          "ox": -8,
+          "oy": -6
+        },
+        {
+          "x": 81,
+          "y": 23,
+          "w": 17,
+          "h": 11,
+          "ox": -8,
+          "oy": -7
+        },
+        {
+          "x": 100,
+          "y": 23,
+          "w": 18,
+          "h": 11,
+          "ox": -9,
+          "oy": -7
+        },
+        {
+          "x": 120,
+          "y": 23,
+          "w": 18,
+          "h": 11,
+          "ox": -9,
+          "oy": -7
+        }
+      ]
+    ]
+  },
+  "rain": {
+    "file": "weather/rain.m4a",
+    "volume": 0.7843137254901961,
+    "loop": [
+      0,
+      2.324081632653061
+    ]
+  }
+}

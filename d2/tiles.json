@@ -5,40 +5,286 @@
       "levelType": "Act 1 - Wilderness",
       "slots": [
         {
-          "share": 0.9,
+          "share": 1,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
           "sub": 0
         },
         {
-          "share": 0.07,
+          "share": 0,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
-          "sub": 56
-        },
-        {
-          "share": 0.01,
-          "file": "Act1/Outdoors/Objects.dt1",
-          "main": 11,
           "sub": 1
         },
         {
-          "share": 0.005,
-          "file": "Act1/Outdoors/Objects.dt1",
-          "main": 11,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 2
         },
         {
-          "share": 0.01,
-          "file": "Act1/Outdoors/Objects.dt1",
-          "main": 11,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 3
         },
         {
-          "share": 0.01,
-          "file": "Act1/Outdoors/Objects.dt1",
-          "main": 11,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 4
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 5
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 6
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 7
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 8
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 9
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 10
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 11
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 12
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 13
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 14
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 15
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 16
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 17
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 18
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 19
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 20
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 21
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 22
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 23
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 24
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 25
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 26
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 27
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 28
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 29
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 30
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 31
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 32
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 33
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 34
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 35
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 36
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 37
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 38
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 39
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 40
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 41
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 42
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 43
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 44
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 45
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 46
         }
       ],
       "tiles": [
@@ -123,68 +369,668 @@
         {
           "x": 810,
           "y": 82,
-          "slot": 1,
+          "slot": 2,
           "rarity": 1
         },
         {
           "x": 972,
           "y": 82,
-          "slot": 2,
-          "rarity": 0
+          "slot": 3,
+          "rarity": 1
         },
         {
           "x": 1134,
           "y": 82,
-          "slot": 3,
-          "rarity": 0
+          "slot": 4,
+          "rarity": 1
         },
         {
           "x": 0,
           "y": 164,
-          "slot": 4,
-          "rarity": 0
+          "slot": 5,
+          "rarity": 1
         },
         {
           "x": 162,
           "y": 164,
-          "slot": 5,
-          "rarity": 0
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 19,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 410,
+          "slot": 26,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 492,
+          "slot": 27,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 492,
+          "slot": 28,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 492,
+          "slot": 29,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 492,
+          "slot": 30,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 492,
+          "slot": 31,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 492,
+          "slot": 32,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 492,
+          "slot": 33,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 492,
+          "slot": 34,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 574,
+          "slot": 35,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 574,
+          "slot": 36,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 574,
+          "slot": 37,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 574,
+          "slot": 38,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 574,
+          "slot": 39,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 574,
+          "slot": 40,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 574,
+          "slot": 41,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 574,
+          "slot": 42,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 656,
+          "slot": 43,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 656,
+          "slot": 44,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 656,
+          "slot": 45,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 656,
+          "slot": 46,
+          "rarity": 1
         }
-      ]
+      ],
+      "paths": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "10": 10,
+        "11": 11,
+        "12": 12,
+        "13": 13,
+        "14": 14,
+        "15": 15,
+        "16": 16,
+        "17": 17,
+        "18": 18,
+        "19": 19,
+        "20": 20,
+        "21": 21,
+        "22": 22,
+        "23": 23,
+        "24": 24,
+        "25": 25,
+        "26": 26,
+        "27": 27,
+        "28": 28,
+        "29": 29,
+        "30": 30,
+        "31": 31,
+        "32": 32,
+        "33": 33,
+        "34": 34,
+        "35": 35,
+        "36": 36,
+        "37": 37,
+        "38": 38,
+        "39": 39,
+        "40": 40,
+        "41": 41,
+        "42": 42,
+        "43": 43,
+        "44": 44,
+        "45": 45,
+        "46": 46
+      }
     },
     "cold-plains": {
       "file": "tiles/cold-plains.png",
       "levelType": "Act 1 - Wilderness",
       "slots": [
         {
-          "share": 0.82,
+          "share": 1,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
           "sub": 0
         },
         {
-          "share": 0.05,
+          "share": 0,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
-          "sub": 56
-        },
-        {
-          "share": 0.01,
-          "file": "Act1/Outdoors/Objects.dt1",
-          "main": 11,
           "sub": 1
         },
         {
-          "share": 0.01,
-          "file": "Act1/Outdoors/Objects.dt1",
-          "main": 11,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 2
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 3
         },
         {
-          "share": 0.01,
-          "file": "Act1/Outdoors/Objects.dt1",
-          "main": 11,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 4
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 5
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 6
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 7
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 8
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 9
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 10
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 11
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 12
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 13
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 14
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 15
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 16
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 17
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 18
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 19
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 20
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 21
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 22
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 23
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 24
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 25
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 26
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 27
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 28
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 29
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 30
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 31
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 32
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 33
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 34
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 35
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 36
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 37
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 38
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 39
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 40
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 41
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 42
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 43
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 44
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 45
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 46
         }
       ],
       "tiles": [
@@ -269,50 +1115,668 @@
         {
           "x": 810,
           "y": 82,
-          "slot": 1,
+          "slot": 2,
           "rarity": 1
         },
         {
           "x": 972,
           "y": 82,
-          "slot": 2,
-          "rarity": 0
+          "slot": 3,
+          "rarity": 1
         },
         {
           "x": 1134,
           "y": 82,
-          "slot": 3,
-          "rarity": 0
+          "slot": 4,
+          "rarity": 1
         },
         {
           "x": 0,
           "y": 164,
-          "slot": 4,
-          "rarity": 0
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 19,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 410,
+          "slot": 26,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 492,
+          "slot": 27,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 492,
+          "slot": 28,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 492,
+          "slot": 29,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 492,
+          "slot": 30,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 492,
+          "slot": 31,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 492,
+          "slot": 32,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 492,
+          "slot": 33,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 492,
+          "slot": 34,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 574,
+          "slot": 35,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 574,
+          "slot": 36,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 574,
+          "slot": 37,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 574,
+          "slot": 38,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 574,
+          "slot": 39,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 574,
+          "slot": 40,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 574,
+          "slot": 41,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 574,
+          "slot": 42,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 656,
+          "slot": 43,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 656,
+          "slot": 44,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 656,
+          "slot": 45,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 656,
+          "slot": 46,
+          "rarity": 1
         }
-      ]
+      ],
+      "paths": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "10": 10,
+        "11": 11,
+        "12": 12,
+        "13": 13,
+        "14": 14,
+        "15": 15,
+        "16": 16,
+        "17": 17,
+        "18": 18,
+        "19": 19,
+        "20": 20,
+        "21": 21,
+        "22": 22,
+        "23": 23,
+        "24": 24,
+        "25": 25,
+        "26": 26,
+        "27": 27,
+        "28": 28,
+        "29": 29,
+        "30": 30,
+        "31": 31,
+        "32": 32,
+        "33": 33,
+        "34": 34,
+        "35": 35,
+        "36": 36,
+        "37": 37,
+        "38": 38,
+        "39": 39,
+        "40": 40,
+        "41": 41,
+        "42": 42,
+        "43": 43,
+        "44": 44,
+        "45": 45,
+        "46": 46
+      }
     },
     "stony-field": {
       "file": "tiles/stony-field.png",
       "levelType": "Act 1 - Wilderness",
       "slots": [
         {
-          "share": 0.6,
+          "share": 1,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
           "sub": 0
         },
         {
-          "share": 0.17,
-          "file": "Act1/Outdoors/Stones.dt1",
-          "main": 5,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 1
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 2
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 3
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 4
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 5
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 6
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 7
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 8
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 9
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 10
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 11
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 12
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 13
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 14
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 15
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 16
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 17
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 18
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 19
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 20
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 21
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 22
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 23
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 24
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 25
         },
         {
-          "share": 0.15,
-          "file": "Act1/Outdoors/Stones.dt1",
-          "main": 24,
-          "sub": 0
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 26
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 27
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 28
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 29
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 30
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 31
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 32
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 33
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 34
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 35
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 36
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 37
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 38
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 39
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 40
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 41
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 42
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 43
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 44
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 45
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 46
         }
       ],
       "tiles": [
@@ -397,62 +1861,668 @@
         {
           "x": 810,
           "y": 82,
-          "slot": 1,
+          "slot": 2,
           "rarity": 1
         },
         {
           "x": 972,
           "y": 82,
-          "slot": 2,
-          "rarity": 2
+          "slot": 3,
+          "rarity": 1
         },
         {
           "x": 1134,
           "y": 82,
-          "slot": 2,
-          "rarity": 2
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 19,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 410,
+          "slot": 26,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 492,
+          "slot": 27,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 492,
+          "slot": 28,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 492,
+          "slot": 29,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 492,
+          "slot": 30,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 492,
+          "slot": 31,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 492,
+          "slot": 32,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 492,
+          "slot": 33,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 492,
+          "slot": 34,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 574,
+          "slot": 35,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 574,
+          "slot": 36,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 574,
+          "slot": 37,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 574,
+          "slot": 38,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 574,
+          "slot": 39,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 574,
+          "slot": 40,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 574,
+          "slot": 41,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 574,
+          "slot": 42,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 656,
+          "slot": 43,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 656,
+          "slot": 44,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 656,
+          "slot": 45,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 656,
+          "slot": 46,
+          "rarity": 1
         }
-      ]
+      ],
+      "paths": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "10": 10,
+        "11": 11,
+        "12": 12,
+        "13": 13,
+        "14": 14,
+        "15": 15,
+        "16": 16,
+        "17": 17,
+        "18": 18,
+        "19": 19,
+        "20": 20,
+        "21": 21,
+        "22": 22,
+        "23": 23,
+        "24": 24,
+        "25": 25,
+        "26": 26,
+        "27": 27,
+        "28": 28,
+        "29": 29,
+        "30": 30,
+        "31": 31,
+        "32": 32,
+        "33": 33,
+        "34": 34,
+        "35": 35,
+        "36": 36,
+        "37": 37,
+        "38": 38,
+        "39": 39,
+        "40": 40,
+        "41": 41,
+        "42": 42,
+        "43": 43,
+        "44": 44,
+        "45": 45,
+        "46": 46
+      }
     },
     "dark-wood": {
       "file": "tiles/dark-wood.png",
       "levelType": "Act 1 - Wilderness",
       "slots": [
         {
-          "share": 0.45,
-          "file": "Act1/Town/Floor.dt1",
-          "main": 0,
-          "sub": 56
-        },
-        {
-          "share": 0.3,
+          "share": 1,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
           "sub": 0
         },
         {
-          "share": 0.03125,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 1
         },
         {
-          "share": 0.03125,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 2
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 3
         },
         {
-          "share": 0.03125,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 4
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 5
         },
         {
-          "share": 0.03125,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 6
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 7
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 8
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 9
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 10
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 11
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 12
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 13
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 14
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 15
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 16
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 17
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 18
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 19
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 20
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 21
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 22
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 23
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 24
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 25
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 26
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 27
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 28
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 29
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 30
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 31
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 32
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 33
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 34
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 35
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 36
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 37
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 38
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 39
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 40
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 41
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 42
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 43
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 44
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 45
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 46
         }
       ],
       "tiles": [
@@ -477,104 +2547,728 @@
         {
           "x": 486,
           "y": 0,
-          "slot": 1,
+          "slot": 0,
           "rarity": 1
         },
         {
           "x": 648,
           "y": 0,
-          "slot": 1,
+          "slot": 0,
           "rarity": 1
         },
         {
           "x": 810,
           "y": 0,
-          "slot": 2,
-          "rarity": 2
+          "slot": 0,
+          "rarity": 1
         },
         {
           "x": 972,
           "y": 0,
-          "slot": 2,
-          "rarity": 2
+          "slot": 0,
+          "rarity": 1
         },
         {
           "x": 1134,
           "y": 0,
-          "slot": 3,
-          "rarity": 2
+          "slot": 0,
+          "rarity": 1
         },
         {
           "x": 0,
           "y": 82,
-          "slot": 3,
-          "rarity": 2
+          "slot": 0,
+          "rarity": 1
         },
         {
           "x": 162,
           "y": 82,
-          "slot": 4,
-          "rarity": 2
+          "slot": 0,
+          "rarity": 1
         },
         {
           "x": 324,
           "y": 82,
-          "slot": 4,
-          "rarity": 2
+          "slot": 0,
+          "rarity": 1
         },
         {
           "x": 486,
           "y": 82,
-          "slot": 5,
-          "rarity": 2
+          "slot": 0,
+          "rarity": 1
         },
         {
           "x": 648,
           "y": 82,
+          "slot": 1,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
           "slot": 5,
-          "rarity": 2
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 19,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 410,
+          "slot": 26,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 492,
+          "slot": 27,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 492,
+          "slot": 28,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 492,
+          "slot": 29,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 492,
+          "slot": 30,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 492,
+          "slot": 31,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 492,
+          "slot": 32,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 492,
+          "slot": 33,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 492,
+          "slot": 34,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 574,
+          "slot": 35,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 574,
+          "slot": 36,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 574,
+          "slot": 37,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 574,
+          "slot": 38,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 574,
+          "slot": 39,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 574,
+          "slot": 40,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 574,
+          "slot": 41,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 574,
+          "slot": 42,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 656,
+          "slot": 43,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 656,
+          "slot": 44,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 656,
+          "slot": 45,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 656,
+          "slot": 46,
+          "rarity": 1
         }
-      ]
+      ],
+      "paths": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "10": 10,
+        "11": 11,
+        "12": 12,
+        "13": 13,
+        "14": 14,
+        "15": 15,
+        "16": 16,
+        "17": 17,
+        "18": 18,
+        "19": 19,
+        "20": 20,
+        "21": 21,
+        "22": 22,
+        "23": 23,
+        "24": 24,
+        "25": 25,
+        "26": 26,
+        "27": 27,
+        "28": 28,
+        "29": 29,
+        "30": 30,
+        "31": 31,
+        "32": 32,
+        "33": 33,
+        "34": 34,
+        "35": 35,
+        "36": 36,
+        "37": 37,
+        "38": 38,
+        "39": 39,
+        "40": 40,
+        "41": 41,
+        "42": 42,
+        "43": 43,
+        "44": 44,
+        "45": 45,
+        "46": 46
+      }
     },
     "black-marsh": {
       "file": "tiles/black-marsh.png",
       "levelType": "Act 1 - Wilderness",
       "slots": [
         {
-          "share": 0.62,
+          "share": 1,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
           "sub": 0
         },
         {
-          "share": 0.13,
+          "share": 0,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
-          "sub": 56
-        },
-        {
-          "share": 0.0625,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
           "sub": 1
         },
         {
-          "share": 0.0625,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 2
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 3
         },
         {
-          "share": 0.0625,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 4
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 5
         },
         {
-          "share": 0.0625,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 6
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 7
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 8
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 9
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 10
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 11
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 12
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 13
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 14
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 15
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 16
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 17
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 18
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 19
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 20
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 21
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 22
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 23
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 24
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 25
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 26
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 27
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 28
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 29
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 30
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 31
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 32
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 33
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 34
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 35
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 36
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 37
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 38
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 39
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 40
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 41
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 42
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 43
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 44
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 45
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 46
         }
       ],
       "tiles": [
@@ -659,104 +3353,668 @@
         {
           "x": 810,
           "y": 82,
-          "slot": 1,
+          "slot": 2,
           "rarity": 1
         },
         {
           "x": 972,
           "y": 82,
-          "slot": 2,
-          "rarity": 2
+          "slot": 3,
+          "rarity": 1
         },
         {
           "x": 1134,
           "y": 82,
-          "slot": 2,
-          "rarity": 2
+          "slot": 4,
+          "rarity": 1
         },
         {
           "x": 0,
           "y": 164,
-          "slot": 3,
-          "rarity": 2
+          "slot": 5,
+          "rarity": 1
         },
         {
           "x": 162,
           "y": 164,
-          "slot": 3,
-          "rarity": 2
+          "slot": 6,
+          "rarity": 1
         },
         {
           "x": 324,
           "y": 164,
-          "slot": 4,
-          "rarity": 2
+          "slot": 7,
+          "rarity": 1
         },
         {
           "x": 486,
           "y": 164,
-          "slot": 4,
-          "rarity": 2
+          "slot": 8,
+          "rarity": 1
         },
         {
           "x": 648,
           "y": 164,
-          "slot": 5,
-          "rarity": 2
+          "slot": 9,
+          "rarity": 1
         },
         {
           "x": 810,
           "y": 164,
-          "slot": 5,
-          "rarity": 2
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 19,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 410,
+          "slot": 26,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 492,
+          "slot": 27,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 492,
+          "slot": 28,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 492,
+          "slot": 29,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 492,
+          "slot": 30,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 492,
+          "slot": 31,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 492,
+          "slot": 32,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 492,
+          "slot": 33,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 492,
+          "slot": 34,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 574,
+          "slot": 35,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 574,
+          "slot": 36,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 574,
+          "slot": 37,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 574,
+          "slot": 38,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 574,
+          "slot": 39,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 574,
+          "slot": 40,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 574,
+          "slot": 41,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 574,
+          "slot": 42,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 656,
+          "slot": 43,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 656,
+          "slot": 44,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 656,
+          "slot": 45,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 656,
+          "slot": 46,
+          "rarity": 1
         }
-      ]
+      ],
+      "paths": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "10": 10,
+        "11": 11,
+        "12": 12,
+        "13": 13,
+        "14": 14,
+        "15": 15,
+        "16": 16,
+        "17": 17,
+        "18": 18,
+        "19": 19,
+        "20": 20,
+        "21": 21,
+        "22": 22,
+        "23": 23,
+        "24": 24,
+        "25": 25,
+        "26": 26,
+        "27": 27,
+        "28": 28,
+        "29": 29,
+        "30": 30,
+        "31": 31,
+        "32": 32,
+        "33": 33,
+        "34": 34,
+        "35": 35,
+        "36": 36,
+        "37": 37,
+        "38": 38,
+        "39": 39,
+        "40": 40,
+        "41": 41,
+        "42": 42,
+        "43": 43,
+        "44": 44,
+        "45": 45,
+        "46": 46
+      }
     },
     "tamoe-highland": {
       "file": "tiles/tamoe-highland.png",
       "levelType": "Act 1 - Wilderness",
       "slots": [
         {
-          "share": 0.7,
+          "share": 1,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
           "sub": 0
         },
         {
-          "share": 0.08,
+          "share": 0,
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
-          "sub": 56
-        },
-        {
-          "share": 0.015,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
           "sub": 1
         },
         {
-          "share": 0.015,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 2
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 3
         },
         {
-          "share": 0.015,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 4
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 5
         },
         {
-          "share": 0.015,
-          "file": "Act1/Outdoors/Swamp.dt1",
-          "main": 23,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 6
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 7
         },
         {
-          "share": 0.1,
-          "file": "Act1/Outdoors/Stones.dt1",
-          "main": 5,
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 8
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 9
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 10
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 11
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 12
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 13
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 14
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 15
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 16
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 17
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 18
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 19
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 20
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 21
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 22
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 23
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 24
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
           "sub": 25
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 26
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 27
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 28
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 29
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 30
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 31
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 32
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 33
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 34
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 35
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 36
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 37
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 38
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 39
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 40
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 41
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 42
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 43
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 44
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 45
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 46
         }
       ],
       "tiles": [
@@ -841,70 +4099,382 @@
         {
           "x": 810,
           "y": 82,
-          "slot": 1,
+          "slot": 2,
           "rarity": 1
         },
         {
           "x": 972,
           "y": 82,
-          "slot": 2,
-          "rarity": 2
+          "slot": 3,
+          "rarity": 1
         },
         {
           "x": 1134,
           "y": 82,
-          "slot": 2,
-          "rarity": 2
+          "slot": 4,
+          "rarity": 1
         },
         {
           "x": 0,
           "y": 164,
-          "slot": 3,
-          "rarity": 2
+          "slot": 5,
+          "rarity": 1
         },
         {
           "x": 162,
           "y": 164,
-          "slot": 3,
-          "rarity": 2
+          "slot": 6,
+          "rarity": 1
         },
         {
           "x": 324,
           "y": 164,
-          "slot": 4,
-          "rarity": 2
+          "slot": 7,
+          "rarity": 1
         },
         {
           "x": 486,
           "y": 164,
-          "slot": 4,
-          "rarity": 2
+          "slot": 8,
+          "rarity": 1
         },
         {
           "x": 648,
           "y": 164,
-          "slot": 5,
-          "rarity": 2
+          "slot": 9,
+          "rarity": 1
         },
         {
           "x": 810,
           "y": 164,
-          "slot": 5,
-          "rarity": 2
+          "slot": 10,
+          "rarity": 1
         },
         {
           "x": 972,
           "y": 164,
-          "slot": 6,
+          "slot": 11,
           "rarity": 1
         },
         {
           "x": 1134,
           "y": 164,
-          "slot": 6,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 19,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 410,
+          "slot": 26,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 492,
+          "slot": 27,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 492,
+          "slot": 28,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 492,
+          "slot": 29,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 492,
+          "slot": 30,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 492,
+          "slot": 31,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 492,
+          "slot": 32,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 492,
+          "slot": 33,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 492,
+          "slot": 34,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 574,
+          "slot": 35,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 574,
+          "slot": 36,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 574,
+          "slot": 37,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 574,
+          "slot": 38,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 574,
+          "slot": 39,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 574,
+          "slot": 40,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 574,
+          "slot": 41,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 574,
+          "slot": 42,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 656,
+          "slot": 43,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 656,
+          "slot": 44,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 656,
+          "slot": 45,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 656,
+          "slot": 46,
           "rarity": 1
         }
-      ]
+      ],
+      "paths": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "10": 10,
+        "11": 11,
+        "12": 12,
+        "13": 13,
+        "14": 14,
+        "15": 15,
+        "16": 16,
+        "17": 17,
+        "18": 18,
+        "19": 19,
+        "20": 20,
+        "21": 21,
+        "22": 22,
+        "23": 23,
+        "24": 24,
+        "25": 25,
+        "26": 26,
+        "27": 27,
+        "28": 28,
+        "29": 29,
+        "30": 30,
+        "31": 31,
+        "32": 32,
+        "33": 33,
+        "34": 34,
+        "35": 35,
+        "36": 36,
+        "37": 37,
+        "38": 38,
+        "39": 39,
+        "40": 40,
+        "41": 41,
+        "42": 42,
+        "43": 43,
+        "44": 44,
+        "45": 45,
+        "46": 46
+      }
     },
     "moo-moo-farm": {
       "file": "tiles/moo-moo-farm.png",
@@ -921,6 +4491,282 @@
           "file": "Act1/Town/Floor.dt1",
           "main": 0,
           "sub": 56
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 1
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 2
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 3
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 4
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 5
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 6
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 7
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 8
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 9
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 10
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 11
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 12
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 13
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 14
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 15
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 16
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 17
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 18
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 19
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 20
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 21
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 22
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 23
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 24
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 25
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 26
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 27
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 28
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 29
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 30
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 31
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 32
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 33
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 34
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 35
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 36
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 37
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 38
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 39
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 40
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 41
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 42
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 43
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 44
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 45
+        },
+        {
+          "share": 0,
+          "file": "Act1/Town/Floor.dt1",
+          "main": 0,
+          "sub": 46
         }
       ],
       "tiles": [
@@ -1007,8 +4853,392 @@
           "y": 82,
           "slot": 1,
           "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 82,
+          "slot": 2,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 82,
+          "slot": 3,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 164,
+          "slot": 4,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 164,
+          "slot": 5,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 164,
+          "slot": 6,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 164,
+          "slot": 7,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 164,
+          "slot": 8,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 164,
+          "slot": 9,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 164,
+          "slot": 10,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 164,
+          "slot": 11,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 246,
+          "slot": 12,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 246,
+          "slot": 13,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 246,
+          "slot": 14,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 246,
+          "slot": 15,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 246,
+          "slot": 16,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 246,
+          "slot": 17,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 246,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 246,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 328,
+          "slot": 18,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 328,
+          "slot": 19,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 328,
+          "slot": 20,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 328,
+          "slot": 21,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 328,
+          "slot": 22,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 328,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 410,
+          "slot": 23,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 410,
+          "slot": 24,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 410,
+          "slot": 25,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 492,
+          "slot": 26,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 492,
+          "slot": 27,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 492,
+          "slot": 28,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 492,
+          "slot": 29,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 492,
+          "slot": 30,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 492,
+          "slot": 31,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 492,
+          "slot": 32,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 492,
+          "slot": 33,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 574,
+          "slot": 34,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 574,
+          "slot": 35,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 574,
+          "slot": 36,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 574,
+          "slot": 37,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 574,
+          "slot": 38,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 574,
+          "slot": 39,
+          "rarity": 1
+        },
+        {
+          "x": 972,
+          "y": 574,
+          "slot": 40,
+          "rarity": 1
+        },
+        {
+          "x": 1134,
+          "y": 574,
+          "slot": 41,
+          "rarity": 1
+        },
+        {
+          "x": 0,
+          "y": 656,
+          "slot": 42,
+          "rarity": 1
+        },
+        {
+          "x": 162,
+          "y": 656,
+          "slot": 43,
+          "rarity": 1
+        },
+        {
+          "x": 324,
+          "y": 656,
+          "slot": 44,
+          "rarity": 1
+        },
+        {
+          "x": 486,
+          "y": 656,
+          "slot": 45,
+          "rarity": 1
+        },
+        {
+          "x": 648,
+          "y": 656,
+          "slot": 46,
+          "rarity": 1
+        },
+        {
+          "x": 810,
+          "y": 656,
+          "slot": 47,
+          "rarity": 1
         }
-      ]
+      ],
+      "paths": {
+        "1": 2,
+        "2": 3,
+        "3": 4,
+        "4": 5,
+        "5": 6,
+        "6": 7,
+        "7": 8,
+        "8": 9,
+        "9": 10,
+        "10": 11,
+        "11": 12,
+        "12": 13,
+        "13": 14,
+        "14": 15,
+        "15": 16,
+        "16": 17,
+        "17": 18,
+        "18": 19,
+        "19": 20,
+        "20": 21,
+        "21": 22,
+        "22": 23,
+        "23": 24,
+        "24": 25,
+        "25": 26,
+        "26": 27,
+        "27": 28,
+        "28": 29,
+        "29": 30,
+        "30": 31,
+        "31": 32,
+        "32": 33,
+        "33": 34,
+        "34": 35,
+        "35": 36,
+        "36": 37,
+        "37": 38,
+        "38": 39,
+        "39": 40,
+        "40": 41,
+        "41": 42,
+        "42": 43,
+        "43": 44,
+        "44": 45,
+        "45": 46,
+        "46": 47
+      }
     },
     "monastery": {
       "file": "tiles/monastery.png",
@@ -1026,91 +5256,106 @@
           "x": 0,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 162,
           "y": 0,
           "slot": 0,
-          "rarity": 10
+          "rarity": 10,
+          "material": 16
         },
         {
           "x": 324,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 486,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 648,
           "y": 0,
           "slot": 0,
-          "rarity": 3
+          "rarity": 3,
+          "material": 16
         },
         {
           "x": 810,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 16
         },
         {
           "x": 972,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 16
         },
         {
           "x": 1134,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 16
         },
         {
           "x": 0,
           "y": 82,
           "slot": 0,
-          "rarity": 10
+          "rarity": 10,
+          "material": 16
         },
         {
           "x": 162,
           "y": 82,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 324,
           "y": 82,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 486,
           "y": 82,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 648,
           "y": 82,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 810,
           "y": 82,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 972,
           "y": 82,
           "slot": 0,
-          "rarity": 0
+          "rarity": 0,
+          "material": 16
         }
       ],
       "borders": {
@@ -1341,22 +5586,10 @@
       "levelType": "Act 2 - Desert",
       "slots": [
         {
-          "share": 0.6,
+          "share": 1,
           "file": "Act2/Town/Ground.dt1",
           "main": 0,
           "sub": 1
-        },
-        {
-          "share": 0.25,
-          "file": "Act2/Town/Ground.dt1",
-          "main": 0,
-          "sub": 0
-        },
-        {
-          "share": 0.15,
-          "file": "Act2/Town/Ground.dt1",
-          "main": 0,
-          "sub": 50
         }
       ],
       "tiles": [
@@ -1364,79 +5597,64 @@
           "x": 0,
           "y": 0,
           "slot": 0,
-          "rarity": 3
+          "rarity": 3,
+          "material": 64
         },
         {
           "x": 162,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 324,
           "y": 0,
           "slot": 0,
-          "rarity": 14
+          "rarity": 14,
+          "material": 64
         },
         {
           "x": 486,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 648,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 810,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 64
         },
         {
           "x": 972,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 1134,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 0,
           "y": 82,
           "slot": 0,
-          "rarity": 1
-        },
-        {
-          "x": 162,
-          "y": 82,
-          "slot": 1,
-          "rarity": 1
-        },
-        {
-          "x": 324,
-          "y": 82,
-          "slot": 1,
-          "rarity": 1
-        },
-        {
-          "x": 486,
-          "y": 82,
-          "slot": 2,
-          "rarity": 6
-        },
-        {
-          "x": 648,
-          "y": 82,
-          "slot": 2,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         }
       ]
     },
@@ -1445,22 +5663,10 @@
       "levelType": "Act 2 - Desert",
       "slots": [
         {
-          "share": 0.86,
+          "share": 1,
           "file": "Act2/Town/Ground.dt1",
           "main": 0,
           "sub": 1
-        },
-        {
-          "share": 0.08,
-          "file": "Act2/Town/Ground.dt1",
-          "main": 0,
-          "sub": 50
-        },
-        {
-          "share": 0.06,
-          "file": "Act2/Town/Ground.dt1",
-          "main": 0,
-          "sub": 0
         }
       ],
       "tiles": [
@@ -1468,79 +5674,64 @@
           "x": 0,
           "y": 0,
           "slot": 0,
-          "rarity": 3
+          "rarity": 3,
+          "material": 64
         },
         {
           "x": 162,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 324,
           "y": 0,
           "slot": 0,
-          "rarity": 14
+          "rarity": 14,
+          "material": 64
         },
         {
           "x": 486,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 648,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 810,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 64
         },
         {
           "x": 972,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 1134,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         },
         {
           "x": 0,
           "y": 82,
           "slot": 0,
-          "rarity": 1
-        },
-        {
-          "x": 162,
-          "y": 82,
-          "slot": 1,
-          "rarity": 6
-        },
-        {
-          "x": 324,
-          "y": 82,
-          "slot": 1,
-          "rarity": 1
-        },
-        {
-          "x": 486,
-          "y": 82,
-          "slot": 2,
-          "rarity": 1
-        },
-        {
-          "x": 648,
-          "y": 82,
-          "slot": 2,
-          "rarity": 1
+          "rarity": 1,
+          "material": 64
         }
       ]
     },
@@ -1608,85 +5799,99 @@
           "x": 0,
           "y": 0,
           "slot": 0,
-          "rarity": 3
+          "rarity": 3,
+          "material": 16
         },
         {
           "x": 162,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 324,
           "y": 0,
           "slot": 0,
-          "rarity": 8
+          "rarity": 8,
+          "material": 16
         },
         {
           "x": 486,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 648,
           "y": 0,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 16
         },
         {
           "x": 810,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 972,
           "y": 0,
           "slot": 1,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 1134,
           "y": 0,
           "slot": 2,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 0,
           "y": 82,
           "slot": 3,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 162,
           "y": 82,
           "slot": 4,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 324,
           "y": 82,
           "slot": 5,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 486,
           "y": 82,
           "slot": 6,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 648,
           "y": 82,
           "slot": 7,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         },
         {
           "x": 810,
           "y": 82,
           "slot": 8,
-          "rarity": 1
+          "rarity": 1,
+          "material": 16
         }
       ],
       "borders": {
@@ -1794,55 +5999,64 @@
           "x": 0,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         },
         {
           "x": 162,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         },
         {
           "x": 324,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         },
         {
           "x": 486,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         },
         {
           "x": 648,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         },
         {
           "x": 810,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         },
         {
           "x": 972,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         },
         {
           "x": 1134,
           "y": 0,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         },
         {
           "x": 0,
           "y": 82,
           "slot": 0,
-          "rarity": 1
+          "rarity": 1,
+          "material": 1
         }
       ],
       "borders": {
@@ -5455,16 +9669,10 @@
       "levelType": "Act 5 - Siege",
       "slots": [
         {
-          "share": 0.85,
+          "share": 1,
           "file": "Expansion/Siege/ground.dt1",
           "main": 0,
           "sub": 0
-        },
-        {
-          "share": 0.15,
-          "file": "Expansion/Siege/ground.dt1",
-          "main": 0,
-          "sub": 1
         }
       ],
       "tiles": [
@@ -5527,18 +9735,6 @@
           "y": 82,
           "slot": 0,
           "rarity": 1
-        },
-        {
-          "x": 324,
-          "y": 82,
-          "slot": 1,
-          "rarity": 1
-        },
-        {
-          "x": 486,
-          "y": 82,
-          "slot": 1,
-          "rarity": 1
         }
       ]
     },
@@ -5547,7 +9743,7 @@
       "levelType": "Act 5 - Barricade",
       "slots": [
         {
-          "share": 0.9,
+          "share": 1,
           "file": "Expansion/Siege/snow.dt1",
           "main": 6,
           "sub": 0
@@ -5558,109 +9754,127 @@
           "x": 0,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 324,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 486,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 648,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 810,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 972,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 1134,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 0,
           "y": 82,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 324,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 486,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 648,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 810,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 972,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 1134,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 0,
           "y": 164,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 164,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 324,
@@ -5811,7 +10025,7 @@
       "levelType": "Act 5 - Barricade",
       "slots": [
         {
-          "share": 0.6,
+          "share": 1,
           "file": "Expansion/Siege/snow.dt1",
           "main": 6,
           "sub": 0
@@ -5822,109 +10036,127 @@
           "x": 0,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 324,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 486,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 648,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 810,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 972,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 1134,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 0,
           "y": 82,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 324,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 486,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 648,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 810,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 972,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 1134,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 0,
           "y": 164,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 164,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 324,
@@ -5939,7 +10171,7 @@
       "levelType": "Act 5 - Barricade",
       "slots": [
         {
-          "share": 0.75,
+          "share": 1,
           "file": "Expansion/Siege/snow.dt1",
           "main": 6,
           "sub": 0
@@ -5950,109 +10182,127 @@
           "x": 0,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 324,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 486,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 648,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 810,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 972,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 1134,
           "y": 0,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 0,
           "y": 82,
           "slot": 0,
-          "rarity": 2
+          "rarity": 2,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 324,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 486,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 648,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 810,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 972,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 1134,
           "y": 82,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 0,
           "y": 164,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 162,
           "y": 164,
           "slot": 0,
-          "rarity": 6
+          "rarity": 6,
+          "material": 1024
         },
         {
           "x": 324,

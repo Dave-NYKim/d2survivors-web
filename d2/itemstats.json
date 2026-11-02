@@ -55336,7 +55336,8 @@
         3,
         3,
         3
-      ]
+      ],
+      "noDurability": true
     },
     "Hunter's Bow": {
       "dex": 28,
@@ -55344,7 +55345,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Long Bow": {
       "str": 22,
@@ -55353,7 +55355,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Stag Bow": {
       "str": 30,
@@ -55363,7 +55366,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Composite Bow": {
       "str": 25,
@@ -55372,7 +55376,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Short Battle Bow": {
       "str": 30,
@@ -55381,7 +55386,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Reflex Bow": {
       "str": 35,
@@ -55391,7 +55397,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Short War Bow": {
       "str": 35,
@@ -55400,7 +55407,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Ceremonial Bow": {
       "str": 73,
@@ -55410,7 +55418,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Long War Bow": {
       "str": 50,
@@ -55419,7 +55428,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Javelin": {},
     "Pilum": {
@@ -55615,7 +55625,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Hand Axe": {
       "sockets": [
@@ -56071,14 +56082,16 @@
         0,
         0,
         0
-      ]
+      ],
+      "noDurability": true
     },
     "Amulet": {
       "sockets": [
         0,
         0,
         0
-      ]
+      ],
+      "noDurability": true
     },
     "Circlet": {
       "defense": [
@@ -56483,7 +56496,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Matriarchal Bow": {
       "str": 87,
@@ -56493,7 +56507,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Grand Matron Bow": {
       "str": 108,
@@ -56503,7 +56518,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Maiden Spear": {
       "str": 54,
@@ -57250,7 +57266,8 @@
         3,
         3,
         3
-      ]
+      ],
+      "noDurability": true
     },
     "Razor Bow": {
       "str": 25,
@@ -57260,7 +57277,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Cedar Bow": {
       "str": 53,
@@ -57270,7 +57288,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Double Bow": {
       "str": 58,
@@ -57280,7 +57299,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Short Siege Bow": {
       "str": 65,
@@ -57290,7 +57310,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Rune Bow": {
       "str": 73,
@@ -57300,7 +57321,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Gothic Bow": {
       "str": 95,
@@ -57310,7 +57332,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Spider Bow": {
       "str": 64,
@@ -57320,7 +57343,8 @@
         3,
         3,
         3
-      ]
+      ],
+      "noDurability": true
     },
     "Blade Bow": {
       "str": 76,
@@ -57330,7 +57354,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Shadow Bow": {
       "str": 52,
@@ -57340,7 +57365,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Great Bow": {
       "str": 121,
@@ -57350,7 +57376,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Diamond Bow": {
       "str": 89,
@@ -57360,7 +57387,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Ward Bow": {
       "str": 72,
@@ -57370,7 +57398,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Hydra Bow": {
       "str": 134,
@@ -57380,7 +57409,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Cudgel": {
       "str": 25,
@@ -58177,7 +58207,8 @@
         3,
         3,
         3
-      ]
+      ],
+      "noDurability": true
     },
     "Heavy Crossbow": {
       "str": 60,
@@ -58186,7 +58217,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Arbalest": {
       "str": 52,
@@ -58196,7 +58228,8 @@
         3,
         3,
         3
-      ]
+      ],
+      "noDurability": true
     },
     "Ballista": {
       "str": 110,
@@ -58206,7 +58239,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Pellet Bow": {
       "str": 83,
@@ -58216,7 +58250,8 @@
         3,
         3,
         3
-      ]
+      ],
+      "noDurability": true
     },
     "Colossus Crossbow": {
       "str": 163,
@@ -58226,7 +58261,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Spear": {
       "dex": 20,
@@ -59330,7 +59366,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Large Siege Bow": {
       "str": 80,
@@ -59340,7 +59377,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Crusader Bow": {
       "str": 97,
@@ -59350,7 +59388,8 @@
         3,
         4,
         6
-      ]
+      ],
+      "noDurability": true
     },
     "Crossbow": {
       "str": 40,
@@ -59359,7 +59398,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Siege Crossbow": {
       "str": 80,
@@ -59369,7 +59409,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Gorgon Crossbow": {
       "str": 117,
@@ -59379,7 +59420,8 @@
         3,
         4,
         4
-      ]
+      ],
+      "noDurability": true
     },
     "Repeating Crossbow": {
       "str": 40,
@@ -59388,7 +59430,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Chu-Ko-Nu": {
       "str": 80,
@@ -59398,7 +59441,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Demon Crossbow": {
       "str": 141,
@@ -59408,7 +59452,8 @@
         3,
         4,
         5
-      ]
+      ],
+      "noDurability": true
     },
     "Full Helm": {
       "defense": [
@@ -59831,9 +59876,15 @@
         3
       ]
     },
-    "Small Charm": {},
-    "Large Charm": {},
-    "Grand Charm": {}
+    "Small Charm": {
+      "noDurability": true
+    },
+    "Large Charm": {
+      "noDurability": true
+    },
+    "Grand Charm": {
+      "noDurability": true
+    }
   },
   "strings": {
     "ItemStats1h": "Defense:",

@@ -5436,6 +5436,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [
@@ -5443,6 +5444,8 @@
       ],
       "sound": "fallen",
       "uniqueSound": "fallen",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallen1",
       "nightmare": {
         "hp": [
@@ -5581,6 +5584,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [
@@ -5588,6 +5592,8 @@
       ],
       "sound": "fallen",
       "uniqueSound": "fallen",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallen2",
       "nightmare": {
         "hp": [
@@ -5726,6 +5732,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [
@@ -5733,6 +5740,8 @@
       ],
       "sound": "fallen",
       "uniqueSound": "fallen",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallen3",
       "nightmare": {
         "hp": [
@@ -5871,6 +5880,7 @@
         5
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [
@@ -5878,6 +5888,8 @@
       ],
       "sound": "fallen",
       "uniqueSound": "fallen",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallen4",
       "nightmare": {
         "hp": [
@@ -6011,6 +6023,7 @@
         2
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {
         "A2": "spike1"
@@ -6018,6 +6031,8 @@
       "minions": [],
       "sound": "quillrat",
       "uniqueSound": "quillrat",
+      "bleed": 1,
+      "height": 1,
       "sprite": "quillrat1",
       "nightmare": {
         "hp": [
@@ -6150,6 +6165,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {
         "A2": "spike2"
@@ -6157,6 +6173,8 @@
       "minions": [],
       "sound": "quillrat",
       "uniqueSound": "quillrat",
+      "bleed": 1,
+      "height": 1,
       "sprite": "quillrat2",
       "nightmare": {
         "hp": [
@@ -6289,6 +6307,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {
         "A2": "spike3"
@@ -6296,6 +6315,8 @@
       "minions": [],
       "sound": "quillrat",
       "uniqueSound": "quillrat",
+      "bleed": 1,
+      "height": 1,
       "sprite": "quillrat3",
       "nightmare": {
         "hp": [
@@ -6428,6 +6449,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {
         "A2": "spike4"
@@ -6435,6 +6457,8 @@
       "minions": [],
       "sound": "quillrat",
       "uniqueSound": "quillrat",
+      "bleed": 1,
+      "height": 1,
       "sprite": "quillrat4",
       "nightmare": {
         "hp": [
@@ -6571,11 +6595,15 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zombie",
       "uniqueSound": "zombieunique",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "zombie1",
       "nightmare": {
         "hp": [
@@ -6696,11 +6724,15 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zombie",
       "uniqueSound": "zombieunique",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "zombie2",
       "nightmare": {
         "hp": [
@@ -6821,11 +6853,15 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zombie",
       "uniqueSound": "zombieunique",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "zombie3",
       "nightmare": {
         "hp": [
@@ -6942,11 +6978,15 @@
         1
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "brute",
       "uniqueSound": "brute",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "brute1",
       "nightmare": {
         "hp": [
@@ -7059,11 +7099,15 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "brute",
       "uniqueSound": "brute",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "brute2",
       "nightmare": {
         "hp": [
@@ -7179,11 +7223,15 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "brute",
       "uniqueSound": "brute",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "brute3",
       "nightmare": {
         "hp": [
@@ -7296,11 +7344,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "corruptrogue",
       "uniqueSound": "corruptrogue",
+      "bleed": 1,
+      "height": 3,
       "sprite": "corruptrogue1",
       "nightmare": {
         "hp": [
@@ -7406,11 +7457,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "corruptrogue",
       "uniqueSound": "corruptrogue",
+      "bleed": 1,
+      "height": 3,
       "sprite": "corruptrogue2",
       "nightmare": {
         "hp": [
@@ -7516,6 +7570,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "CountessFirewall",
@@ -7531,6 +7586,8 @@
       "minions": [],
       "sound": "corruptrogue",
       "uniqueSound": "corruptrogue",
+      "bleed": 1,
+      "height": 3,
       "sprite": "corruptrogue3",
       "nightmare": {
         "hp": [
@@ -7636,11 +7693,14 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "corruptrogue",
       "uniqueSound": "corruptrogue",
+      "bleed": 1,
+      "height": 3,
       "sprite": "corruptrogue4",
       "nightmare": {
         "hp": [
@@ -7746,11 +7806,14 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "cr_lancer",
       "uniqueSound": "cr_lancer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_lancer1",
       "nightmare": {
         "hp": [
@@ -7855,11 +7918,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "cr_lancer",
       "uniqueSound": "cr_lancer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_lancer2",
       "nightmare": {
         "hp": [
@@ -7984,11 +8050,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "cr_lancer",
       "uniqueSound": "cr_lancer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_lancer3",
       "nightmare": {
         "hp": [
@@ -8120,6 +8189,7 @@
         6
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Resurrect",
@@ -8195,6 +8265,12 @@
       ],
       "sound": "fallenshaman",
       "uniqueSound": "fallenshaman",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallenshaman1",
       "nightmare": {
         "hp": [
@@ -8306,6 +8382,7 @@
         6
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Resurrect",
@@ -8381,6 +8458,12 @@
       ],
       "sound": "fallenshaman",
       "uniqueSound": "fallenshaman",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallenshaman6",
       "nightmare": {
         "hp": [
@@ -8492,6 +8575,7 @@
         6
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Resurrect",
@@ -8567,6 +8651,12 @@
       ],
       "sound": "fallenshaman",
       "uniqueSound": "fallenshaman",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallenshaman3",
       "nightmare": {
         "hp": [
@@ -8678,6 +8768,7 @@
         6
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Resurrect",
@@ -8753,6 +8844,12 @@
       ],
       "sound": "fallenshaman",
       "uniqueSound": "fallenshaman",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallenshaman4",
       "nightmare": {
         "hp": [
@@ -8864,6 +8961,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -8893,6 +8991,7 @@
       "minions": [],
       "sound": "skeleton",
       "uniqueSound": "skeleton",
+      "height": 3,
       "sprite": "skeleton1",
       "nightmare": {
         "hp": [
@@ -9013,6 +9112,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -9042,6 +9142,7 @@
       "minions": [],
       "sound": "skeleton",
       "uniqueSound": "skeleton",
+      "height": 3,
       "sprite": "skeleton2",
       "nightmare": {
         "hp": [
@@ -9162,6 +9263,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -9191,6 +9293,7 @@
       "minions": [],
       "sound": "skeleton",
       "uniqueSound": "skeleton",
+      "height": 3,
       "sprite": "skeleton6",
       "nightmare": {
         "hp": [
@@ -9301,6 +9404,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "Nest",
@@ -9354,6 +9458,9 @@
       "spawns": "foulcrow1",
       "sound": "crownest",
       "uniqueSound": "crownest",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "crownest1",
       "nightmare": {
         "hp": [
@@ -9441,11 +9548,15 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "foulcrow",
       "uniqueSound": "foulcrow",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 2,
       "sprite": "foulcrow1",
       "nightmare": {
         "hp": [
@@ -9563,6 +9674,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "Nest",
@@ -9616,6 +9728,9 @@
       "spawns": "foulcrow2",
       "sound": "crownest",
       "uniqueSound": "crownest",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "crownest2",
       "nightmare": {
         "hp": [
@@ -9703,11 +9818,15 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "foulcrow",
       "uniqueSound": "foulcrow",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 2,
       "sprite": "foulcrow2",
       "nightmare": {
         "hp": [
@@ -9829,6 +9948,7 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "cr_arrow1"
@@ -9836,6 +9956,8 @@
       "minions": [],
       "sound": "cr_archer",
       "uniqueSound": "cr_archer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_archer1",
       "nightmare": {
         "hp": [
@@ -9940,6 +10062,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "cr_arrow2"
@@ -9947,6 +10070,8 @@
       "minions": [],
       "sound": "cr_archer",
       "uniqueSound": "cr_archer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_archer2",
       "nightmare": {
         "hp": [
@@ -10071,6 +10196,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "cr_arrow3"
@@ -10078,6 +10204,8 @@
       "minions": [],
       "sound": "cr_archer",
       "uniqueSound": "cr_archer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_archer8",
       "nightmare": {
         "hp": [
@@ -10202,6 +10330,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "cr_arrow4"
@@ -10209,6 +10338,8 @@
       "minions": [],
       "sound": "cr_archer",
       "uniqueSound": "cr_archer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_archer4",
       "nightmare": {
         "hp": [
@@ -10333,11 +10464,14 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman1",
       "nightmare": {
         "hp": [
@@ -10439,11 +10573,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman7",
       "nightmare": {
         "hp": [
@@ -10565,11 +10702,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman3",
       "nightmare": {
         "hp": [
@@ -10695,11 +10835,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman5",
       "nightmare": {
         "hp": [
@@ -10819,6 +10962,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {
         "A2": "bighead3"
@@ -10826,6 +10970,9 @@
       "minions": [],
       "sound": "bighead",
       "uniqueSound": "bighead",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "bighead3",
       "nightmare": {
         "hp": [
@@ -10979,6 +11126,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {
         "A2": "bighead4"
@@ -10986,6 +11134,9 @@
       "minions": [],
       "sound": "bighead",
       "uniqueSound": "bighead",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "bighead4",
       "nightmare": {
         "hp": [
@@ -11139,6 +11290,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {
         "A2": "bighead2"
@@ -11146,6 +11298,9 @@
       "minions": [],
       "sound": "bighead",
       "uniqueSound": "bighead",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "bighead2",
       "nightmare": {
         "hp": [
@@ -11300,6 +11455,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {
         "A2": "bighead1"
@@ -11307,6 +11463,9 @@
       "minions": [],
       "sound": "bighead",
       "uniqueSound": "bighead",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "bighead1",
       "nightmare": {
         "hp": [
@@ -11451,6 +11610,7 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "skbowarrow1"
@@ -11458,6 +11618,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer1",
       "nightmare": {
         "hp": [
@@ -11567,6 +11728,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "skbowarrow2"
@@ -11574,6 +11736,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer2",
       "nightmare": {
         "hp": [
@@ -11684,6 +11847,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "skbowarrow3"
@@ -11691,6 +11855,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer3",
       "nightmare": {
         "hp": [
@@ -11813,11 +11978,13 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "wraith",
       "uniqueSound": "wraith",
+      "height": 3,
       "sprite": "wraith1",
       "nightmare": {
         "hp": [
@@ -11960,11 +12127,13 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "wraith",
       "uniqueSound": "wraith",
+      "height": 3,
       "sprite": "wraith2",
       "nightmare": {
         "hp": [
@@ -12101,6 +12270,7 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -12132,6 +12302,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16747008
+      },
+      "height": 3,
       "sprite": "skmage_fire1",
       "nightmare": {
         "hp": [
@@ -12257,6 +12432,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -12288,6 +12464,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16747008
+      },
+      "height": 3,
       "sprite": "skmage_fire2",
       "nightmare": {
         "hp": [
@@ -12413,6 +12594,7 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -12444,6 +12626,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "height": 3,
       "sprite": "skmage_ltng1",
       "nightmare": {
         "hp": [
@@ -12569,6 +12756,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -12600,6 +12788,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "height": 3,
       "sprite": "skmage_ltng2",
       "nightmare": {
         "hp": [
@@ -12720,6 +12913,7 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -12758,6 +12952,8 @@
       ],
       "sound": "fetish",
       "uniqueSound": "fetish",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetish1",
       "nightmare": {
         "hp": [
@@ -12861,6 +13057,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SpiderLay",
@@ -12872,6 +13069,7 @@
       "minions": [],
       "sound": "arach",
       "uniqueSound": "arach",
+      "height": 1,
       "sprite": "arach1",
       "nightmare": {
         "hp": [
@@ -12988,6 +13186,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "VampireFireball",
@@ -13027,6 +13226,12 @@
       "minions": [],
       "sound": "vampire",
       "uniqueSound": "vampire",
+      "light": {
+        "radius": 3,
+        "color": 16747008
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "vampire5",
       "nightmare": {
         "hp": [
@@ -13159,11 +13364,14 @@
         10
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "hellbovine",
       "uniqueSound": "hellbovine",
+      "greenBlood": true,
+      "height": 3,
       "sprite": "hellbovine",
       "nightmare": {
         "hp": [
@@ -13289,11 +13497,14 @@
         1
       ],
       "size": 2,
+      "knock": "none",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zombie",
       "uniqueSound": "zombie",
+      "bleed": 1,
+      "height": 3,
       "sprite": "griswold",
       "nightmare": {
         "hp": [
@@ -13407,6 +13618,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -13438,6 +13650,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 6749952
+      },
+      "height": 3,
       "sprite": "skmage_pois3",
       "nightmare": {
         "hp": [
@@ -13556,12 +13773,15 @@
         1
       ],
       "size": 2,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "smith",
       "uniqueSound": "smith",
       "noUniqueShift": true,
+      "bleed": 1,
+      "height": 3,
       "sprite": "smith",
       "nightmare": {
         "hp": [
@@ -13702,6 +13922,7 @@
         9
       ],
       "size": 2,
+      "knock": "large",
       "skills": [
         {
           "skill": "Nest",
@@ -13775,6 +13996,8 @@
       "sound": "bloodraven",
       "uniqueSound": "bloodraven",
       "noUniqueShift": true,
+      "bleed": 1,
+      "height": 3,
       "sprite": "bloodraven",
       "nightmare": {
         "hp": [
@@ -13905,6 +14128,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "AndrialSpray",
@@ -13964,6 +14188,12 @@
       "sound": "andariel",
       "uniqueSound": "andariel",
       "noUniqueShift": true,
+      "light": {
+        "radius": 8,
+        "color": 16777215
+      },
+      "bleed": 2,
+      "height": 3,
       "sprite": "andariel",
       "nightmare": {
         "hp": [
@@ -14111,11 +14341,13 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "mummy",
       "uniqueSound": "mummy",
+      "height": 3,
       "sprite": "mummy1",
       "nightmare": {
         "hp": [
@@ -14267,11 +14499,13 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "mummy",
       "uniqueSound": "mummy",
+      "height": 3,
       "sprite": "mummy2",
       "nightmare": {
         "hp": [
@@ -14423,11 +14657,13 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "mummy",
       "uniqueSound": "mummy",
+      "height": 3,
       "sprite": "mummy3",
       "nightmare": {
         "hp": [
@@ -14579,11 +14815,13 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "mummy",
       "uniqueSound": "mummy",
+      "height": 3,
       "sprite": "mummy4",
       "nightmare": {
         "hp": [
@@ -14735,6 +14973,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Fire Hit",
@@ -14766,6 +15005,8 @@
       "minions": [],
       "sound": "sandraider",
       "uniqueSound": "sandraider",
+      "bleed": 1,
+      "height": 3,
       "sprite": "sandraider1",
       "nightmare": {
         "hp": [
@@ -14922,6 +15163,7 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Fire Hit",
@@ -14953,6 +15195,8 @@
       "minions": [],
       "sound": "sandraider",
       "uniqueSound": "sandraider",
+      "bleed": 1,
+      "height": 3,
       "sprite": "sandraider7",
       "nightmare": {
         "hp": [
@@ -15109,6 +15353,7 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Fire Hit",
@@ -15140,6 +15385,8 @@
       "minions": [],
       "sound": "sandraider",
       "uniqueSound": "sandraider",
+      "bleed": 1,
+      "height": 3,
       "sprite": "sandraider3",
       "nightmare": {
         "hp": [
@@ -15293,6 +15540,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "skbowarrow4"
@@ -15300,6 +15548,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer4",
       "nightmare": {
         "hp": [
@@ -15442,6 +15691,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "skbowarrow5"
@@ -15449,6 +15699,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer5",
       "nightmare": {
         "hp": [
@@ -15595,6 +15846,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -15624,6 +15876,7 @@
       "minions": [],
       "sound": "skeleton",
       "uniqueSound": "skeleton",
+      "height": 3,
       "sprite": "skeleton4",
       "nightmare": {
         "hp": [
@@ -15777,6 +16030,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -15806,6 +16060,7 @@
       "minions": [],
       "sound": "skeleton",
       "uniqueSound": "skeleton",
+      "height": 3,
       "sprite": "skeleton5",
       "nightmare": {
         "hp": [
@@ -15941,11 +16196,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "pantherwoman",
       "uniqueSound": "pantherwoman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "pantherwoman1",
       "nightmare": {
         "hp": [
@@ -16046,11 +16304,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "pantherwoman",
       "uniqueSound": "pantherwoman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "pantherwoman6",
       "nightmare": {
         "hp": [
@@ -16151,11 +16412,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "pantherwoman",
       "uniqueSound": "pantherwoman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "pantherwoman3",
       "nightmare": {
         "hp": [
@@ -16276,11 +16540,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "pantherwoman",
       "uniqueSound": "pantherwoman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "pantherwoman4",
       "nightmare": {
         "hp": [
@@ -16405,6 +16672,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Leap",
@@ -16452,6 +16720,9 @@
       "minions": [],
       "sound": "sandleaper",
       "uniqueSound": "sandleaper",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "sandleaper1",
       "nightmare": {
         "hp": [
@@ -16586,6 +16857,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Leap",
@@ -16633,6 +16905,9 @@
       "minions": [],
       "sound": "sandleaper",
       "uniqueSound": "sandleaper",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "sandleaper6",
       "nightmare": {
         "hp": [
@@ -16770,6 +17045,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Leap",
@@ -16817,6 +17093,9 @@
       "minions": [],
       "sound": "sandleaper",
       "uniqueSound": "sandleaper",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "sandleaper3",
       "nightmare": {
         "hp": [
@@ -16969,6 +17248,7 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -17013,6 +17293,7 @@
       ],
       "sound": "scarab",
       "uniqueSound": "scarab",
+      "height": 3,
       "sprite": "scarab1",
       "nightmare": {
         "hp": [
@@ -17171,6 +17452,7 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -17215,6 +17497,7 @@
       ],
       "sound": "scarab",
       "uniqueSound": "scarab",
+      "height": 3,
       "sprite": "scarab2",
       "nightmare": {
         "hp": [
@@ -17389,6 +17672,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -17433,6 +17717,7 @@
       ],
       "sound": "scarab",
       "uniqueSound": "scarab",
+      "height": 3,
       "sprite": "scarab3",
       "nightmare": {
         "hp": [
@@ -17591,6 +17876,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -17635,6 +17921,7 @@
       ],
       "sound": "scarab",
       "uniqueSound": "scarab",
+      "height": 3,
       "sprite": "scarab4",
       "nightmare": {
         "hp": [
@@ -17781,6 +18068,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -17812,6 +18100,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16747008
+      },
+      "height": 3,
       "sprite": "skmage_fire3",
       "nightmare": {
         "hp": [
@@ -17937,6 +18230,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -17968,6 +18262,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16747008
+      },
+      "height": 3,
       "sprite": "skmage_fire4",
       "nightmare": {
         "hp": [
@@ -18094,6 +18393,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -18125,6 +18425,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "height": 3,
       "sprite": "skmage_ltng3",
       "nightmare": {
         "hp": [
@@ -18251,6 +18556,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -18282,6 +18588,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "height": 3,
       "sprite": "skmage_ltng4",
       "nightmare": {
         "hp": [
@@ -18406,6 +18717,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -18437,6 +18749,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 6749952
+      },
+      "height": 3,
       "sprite": "skmage_pois4",
       "nightmare": {
         "hp": [
@@ -18551,6 +18868,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "pantherjav1"
@@ -18558,6 +18876,8 @@
       "minions": [],
       "sound": "slinger",
       "uniqueSound": "slinger",
+      "bleed": 1,
+      "height": 3,
       "sprite": "slinger1",
       "nightmare": {
         "hp": [
@@ -18679,6 +18999,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "pantherjav2"
@@ -18686,6 +19007,8 @@
       "minions": [],
       "sound": "slinger",
       "uniqueSound": "slinger",
+      "bleed": 1,
+      "height": 3,
       "sprite": "slinger2",
       "nightmare": {
         "hp": [
@@ -18807,6 +19130,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "pantherjav4"
@@ -18814,6 +19138,8 @@
       "minions": [],
       "sound": "slinger",
       "uniqueSound": "slinger",
+      "bleed": 1,
+      "height": 3,
       "sprite": "slinger4",
       "nightmare": {
         "hp": [
@@ -18932,11 +19258,17 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vulture",
       "uniqueSound": "vulture",
+      "bleed": 1,
+      "height": 2,
+      "death": [
+        "vulturedemonfeathers"
+      ],
       "sprite": "vulture1",
       "nightmare": {
         "hp": [
@@ -19037,11 +19369,17 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vulture",
       "uniqueSound": "vulture",
+      "bleed": 1,
+      "height": 2,
+      "death": [
+        "vulturedemonfeathers"
+      ],
       "sprite": "vulture2",
       "nightmare": {
         "hp": [
@@ -19158,11 +19496,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "batdemon",
       "uniqueSound": "batdemon",
+      "bleed": 1,
+      "height": 2,
       "sprite": "batdemon1",
       "nightmare": {
         "hp": [
@@ -19309,6 +19650,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SerpentCharge",
@@ -19359,6 +19701,8 @@
       "minions": [],
       "sound": "clawviper",
       "uniqueSound": "clawviper",
+      "bleed": 1,
+      "height": 3,
       "sprite": "clawviper2",
       "nightmare": {
         "hp": [
@@ -19508,6 +19852,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SerpentCharge",
@@ -19558,6 +19903,8 @@
       "minions": [],
       "sound": "clawviper",
       "uniqueSound": "clawviper",
+      "bleed": 1,
+      "height": 3,
       "sprite": "clawviper3",
       "nightmare": {
         "hp": [
@@ -19687,6 +20034,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "Nest",
@@ -19740,6 +20088,9 @@
       "spawns": "foulcrow3",
       "sound": "crownest",
       "uniqueSound": "crownest",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "crownest3",
       "nightmare": {
         "hp": [
@@ -19830,11 +20181,15 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "foulcrow",
       "uniqueSound": "foulcrow",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 2,
       "sprite": "foulcrow3",
       "nightmare": {
         "hp": [
@@ -19953,6 +20308,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "pantherpotorange"
@@ -19960,6 +20316,8 @@
       "minions": [],
       "sound": "slinger",
       "uniqueSound": "slinger",
+      "bleed": 1,
+      "height": 3,
       "sprite": "slinger5",
       "nightmare": {
         "hp": [
@@ -20046,6 +20404,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "pantherpotgreen"
@@ -20053,6 +20412,8 @@
       "minions": [],
       "sound": "slinger",
       "uniqueSound": "slinger",
+      "bleed": 1,
+      "height": 3,
       "sprite": "slinger6",
       "nightmare": {
         "hp": [
@@ -20163,6 +20524,7 @@
         8
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -20269,6 +20631,11 @@
       ],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "light": {
+        "radius": 0,
+        "color": 0
+      },
+      "height": 3,
       "sprite": "unraveler1",
       "nightmare": {
         "hp": [
@@ -20415,6 +20782,7 @@
         8
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -20521,6 +20889,7 @@
       ],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "height": 3,
       "sprite": "unraveler2",
       "nightmare": {
         "hp": [
@@ -20667,6 +21036,7 @@
         8
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -20773,6 +21143,7 @@
       ],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "height": 3,
       "sprite": "unraveler3",
       "nightmare": {
         "hp": [
@@ -20902,6 +21273,7 @@
         1
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MagottUp",
@@ -20996,6 +21368,7 @@
       "spawns": "maggotegg1",
       "sound": "sandmaggot",
       "uniqueSound": "sandmaggot",
+      "height": 1,
       "sprite": "sandmaggot1",
       "nightmare": {
         "hp": [
@@ -21093,6 +21466,7 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [
         {
           "skill": "MaggotEgg",
@@ -21129,6 +21503,7 @@
       "spawns": "maggotbaby1",
       "sound": "maggotegg",
       "uniqueSound": "maggotegg",
+      "height": 1,
       "sprite": "maggotegg1",
       "nightmare": {
         "hp": [
@@ -21215,11 +21590,13 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "maggotbaby",
       "uniqueSound": "maggotbaby",
+      "height": 1,
       "sprite": "maggotbaby1",
       "nightmare": {
         "hp": [
@@ -21340,6 +21717,7 @@
         1
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MagottUp",
@@ -21434,6 +21812,7 @@
       "spawns": "maggotegg2",
       "sound": "sandmaggot",
       "uniqueSound": "sandmaggot",
+      "height": 1,
       "sprite": "sandmaggot2",
       "nightmare": {
         "hp": [
@@ -21531,6 +21910,7 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [
         {
           "skill": "MaggotEgg",
@@ -21567,6 +21947,7 @@
       "spawns": "maggotbaby2",
       "sound": "maggotegg",
       "uniqueSound": "maggotegg",
+      "height": 1,
       "sprite": "maggotegg2",
       "nightmare": {
         "hp": [
@@ -21653,11 +22034,13 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "maggotbaby",
       "uniqueSound": "maggotbaby",
+      "height": 1,
       "sprite": "maggotbaby2",
       "nightmare": {
         "hp": [
@@ -21778,6 +22161,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MagottUp",
@@ -21872,6 +22256,7 @@
       "spawns": "maggotegg3",
       "sound": "sandmaggot",
       "uniqueSound": "sandmaggot",
+      "height": 1,
       "sprite": "sandmaggot3",
       "nightmare": {
         "hp": [
@@ -21969,6 +22354,7 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [
         {
           "skill": "MaggotEgg",
@@ -22005,6 +22391,7 @@
       "spawns": "maggotbaby3",
       "sound": "maggotegg",
       "uniqueSound": "maggotegg",
+      "height": 1,
       "sprite": "maggotegg3",
       "nightmare": {
         "hp": [
@@ -22091,11 +22478,13 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "maggotbaby",
       "uniqueSound": "maggotbaby",
+      "height": 1,
       "sprite": "maggotbaby3",
       "nightmare": {
         "hp": [
@@ -22228,6 +22617,7 @@
         8
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Swarm Move",
@@ -22257,6 +22647,7 @@
       "minions": [],
       "sound": "swarm",
       "uniqueSound": "swarm",
+      "height": 2,
       "sprite": "swarm1",
       "nightmare": {
         "hp": [
@@ -22392,6 +22783,7 @@
         8
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Swarm Move",
@@ -22421,6 +22813,7 @@
       "minions": [],
       "sound": "swarm",
       "uniqueSound": "swarm",
+      "height": 2,
       "sprite": "swarm2",
       "nightmare": {
         "hp": [
@@ -22553,6 +22946,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -22584,6 +22978,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 15615
+      },
+      "height": 3,
       "sprite": "skmage_cold4",
       "nightmare": {
         "hp": [
@@ -22718,11 +23117,15 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zombie",
       "uniqueSound": "zombieunique",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "zombie5",
       "nightmare": {
         "hp": [
@@ -22860,11 +23263,14 @@
         2
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "baboon",
       "uniqueSound": "baboon",
+      "bleed": 1,
+      "height": 3,
       "sprite": "baboon1",
       "nightmare": {
         "hp": [
@@ -22980,6 +23386,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Smite",
@@ -23016,6 +23423,9 @@
       "minions": [],
       "sound": "pinhead",
       "uniqueSound": "pinhead",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "blunderbore1",
       "nightmare": {
         "hp": [
@@ -23131,6 +23541,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Smite",
@@ -23167,6 +23578,9 @@
       "minions": [],
       "sound": "pinhead",
       "uniqueSound": "pinhead",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "blunderbore2",
       "nightmare": {
         "hp": [
@@ -23284,11 +23698,15 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "brute",
       "uniqueSound": "brute",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "brute4",
       "nightmare": {
         "hp": [
@@ -23402,11 +23820,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman4",
       "nightmare": {
         "hp": [
@@ -23545,6 +23966,7 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "VampireFireball",
@@ -23584,6 +24006,12 @@
       "minions": [],
       "sound": "vampire",
       "uniqueSound": "vampire",
+      "light": {
+        "radius": 3,
+        "color": 16747008
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "vampire1",
       "nightmare": {
         "hp": [
@@ -23728,11 +24156,13 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "wraith",
       "uniqueSound": "wraith",
+      "height": 3,
       "sprite": "wraith3",
       "nightmare": {
         "hp": [
@@ -23875,11 +24305,13 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "wraith",
       "uniqueSound": "wraith",
+      "height": 3,
       "sprite": "wraith4",
       "nightmare": {
         "hp": [
@@ -24027,6 +24459,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -24134,6 +24567,11 @@
       "sound": "radament",
       "uniqueSound": "radament",
       "noUniqueShift": true,
+      "light": {
+        "radius": 0,
+        "color": 0
+      },
+      "height": 3,
       "sprite": "radament",
       "nightmare": {
         "hp": [
@@ -24264,6 +24702,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "MagottUp",
@@ -24429,6 +24868,7 @@
       "spawns": "sandmaggot1",
       "sound": "maggotqueen",
       "uniqueSound": "maggotqueen",
+      "height": 3,
       "sprite": "maggotqueen1",
       "nightmare": {
         "hp": [
@@ -24519,6 +24959,7 @@
         1
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Glacial Spike",
@@ -24567,6 +25008,12 @@
       "sound": "summoner",
       "uniqueSound": "summoner",
       "noUniqueShift": true,
+      "light": {
+        "radius": 9,
+        "color": 11403519
+      },
+      "bleed": 2,
+      "height": 3,
       "sprite": "summoner",
       "nightmare": {
         "hp": [
@@ -24690,6 +25137,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "Charge",
@@ -24838,6 +25286,14 @@
       "sound": "duriel",
       "uniqueSound": "duriel",
       "noUniqueShift": true,
+      "light": {
+        "radius": 9,
+        "color": 16777215
+      },
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
+      "deadCol": true,
       "sprite": "duriel",
       "nightmare": {
         "hp": [
@@ -24999,11 +25455,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "batdemon",
       "uniqueSound": "batdemon",
+      "bleed": 1,
+      "height": 2,
       "sprite": "batdemon2",
       "nightmare": {
         "hp": [
@@ -25148,11 +25607,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "batdemon",
       "uniqueSound": "batdemon",
+      "bleed": 1,
+      "height": 2,
       "sprite": "batdemon3",
       "nightmare": {
         "hp": [
@@ -25297,11 +25759,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "batdemon",
       "uniqueSound": "batdemon",
+      "bleed": 1,
+      "height": 2,
       "sprite": "batdemon4",
       "nightmare": {
         "hp": [
@@ -25435,11 +25900,14 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zealot",
       "uniqueSound": "zealot",
+      "bleed": 2,
+      "height": 3,
       "sprite": "zealot1",
       "nightmare": {
         "hp": [
@@ -25555,11 +26023,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zealot",
       "uniqueSound": "zealot",
+      "bleed": 2,
+      "height": 3,
       "sprite": "zealot2",
       "nightmare": {
         "hp": [
@@ -25675,11 +26146,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zealot",
       "uniqueSound": "zealot",
+      "bleed": 2,
+      "height": 3,
       "sprite": "zealot3",
       "nightmare": {
         "hp": [
@@ -25802,6 +26276,7 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SpiderLay",
@@ -25813,6 +26288,7 @@
       "minions": [],
       "sound": "arach",
       "uniqueSound": "arach",
+      "height": 1,
       "sprite": "arach3",
       "nightmare": {
         "hp": [
@@ -25944,6 +26420,7 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SpiderLay",
@@ -25955,6 +26432,7 @@
       "minions": [],
       "sound": "arach",
       "uniqueSound": "arach",
+      "height": 1,
       "sprite": "arach4",
       "nightmare": {
         "hp": [
@@ -26087,6 +26565,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SpiderLay",
@@ -26098,6 +26577,7 @@
       "minions": [],
       "sound": "arach",
       "uniqueSound": "arach",
+      "height": 1,
       "sprite": "arach5",
       "nightmare": {
         "hp": [
@@ -26223,11 +26703,14 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "baboon",
       "uniqueSound": "baboon",
+      "bleed": 1,
+      "height": 3,
       "sprite": "baboon3",
       "nightmare": {
         "hp": [
@@ -26342,11 +26825,14 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "baboon",
       "uniqueSound": "baboon",
+      "bleed": 1,
+      "height": 3,
       "sprite": "baboon4",
       "nightmare": {
         "hp": [
@@ -26461,11 +26947,14 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "baboon",
       "uniqueSound": "baboon",
+      "bleed": 1,
+      "height": 3,
       "sprite": "baboon7",
       "nightmare": {
         "hp": [
@@ -26581,6 +27070,7 @@
         2
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -26619,6 +27109,8 @@
       ],
       "sound": "fetish",
       "uniqueSound": "fetish",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetish2",
       "nightmare": {
         "hp": [
@@ -26726,6 +27218,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -26764,6 +27257,8 @@
       ],
       "sound": "fetish",
       "uniqueSound": "fetish",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetish3",
       "nightmare": {
         "hp": [
@@ -26871,6 +27366,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -26909,6 +27405,8 @@
       ],
       "sound": "fetish",
       "uniqueSound": "fetish",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetish4",
       "nightmare": {
         "hp": [
@@ -27016,6 +27514,7 @@
         2
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -27056,6 +27555,8 @@
       ],
       "sound": "fetishblow",
       "uniqueSound": "fetishblow",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetishblow2",
       "nightmare": {
         "hp": [
@@ -27181,6 +27682,7 @@
         2
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -27221,6 +27723,8 @@
       ],
       "sound": "fetishblow",
       "uniqueSound": "fetishblow",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetishblow3",
       "nightmare": {
         "hp": [
@@ -27341,6 +27845,7 @@
         2
       ],
       "size": 2,
+      "knock": "large",
       "skills": [
         {
           "skill": "Submerge",
@@ -27369,6 +27874,11 @@
       "minions": [],
       "sound": "frogdemon",
       "uniqueSound": "frogdemon",
+      "bleed": 2,
+      "height": 3,
+      "death": [
+        "frogdemon_death"
+      ],
       "sprite": "frogdemon1",
       "nightmare": {
         "hp": [
@@ -27471,6 +27981,7 @@
         3
       ],
       "size": 2,
+      "knock": "large",
       "skills": [
         {
           "skill": "Submerge",
@@ -27499,6 +28010,11 @@
       "minions": [],
       "sound": "frogdemon",
       "uniqueSound": "frogdemon",
+      "bleed": 2,
+      "height": 3,
+      "death": [
+        "frogdemon_death"
+      ],
       "sprite": "frogdemon2",
       "nightmare": {
         "hp": [
@@ -27610,6 +28126,7 @@
         3
       ],
       "size": 2,
+      "knock": "large",
       "skills": [
         {
           "skill": "Submerge",
@@ -27638,6 +28155,11 @@
       "minions": [],
       "sound": "frogdemon",
       "uniqueSound": "frogdemon",
+      "bleed": 2,
+      "height": 3,
+      "death": [
+        "frogdemon_death"
+      ],
       "sprite": "frogdemon3",
       "nightmare": {
         "hp": [
@@ -27770,6 +28292,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Mosquito",
@@ -27817,6 +28340,8 @@
       "minions": [],
       "sound": "mosquito",
       "uniqueSound": "mosquito",
+      "bleed": 1,
+      "height": 2,
       "sprite": "mosquito1",
       "nightmare": {
         "hp": [
@@ -27948,6 +28473,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Mosquito",
@@ -27995,6 +28521,8 @@
       "minions": [],
       "sound": "mosquito",
       "uniqueSound": "mosquito",
+      "bleed": 1,
+      "height": 2,
       "sprite": "mosquito2",
       "nightmare": {
         "hp": [
@@ -28126,6 +28654,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Mosquito",
@@ -28173,6 +28702,8 @@
       "minions": [],
       "sound": "mosquito",
       "uniqueSound": "mosquito",
+      "bleed": 1,
+      "height": 2,
       "sprite": "mosquito4",
       "nightmare": {
         "hp": [
@@ -28294,6 +28825,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MagottUp",
@@ -28388,6 +28920,7 @@
       "spawns": "maggotegg4",
       "sound": "sandmaggot",
       "uniqueSound": "sandmaggot",
+      "height": 1,
       "sprite": "sandmaggot4",
       "nightmare": {
         "hp": [
@@ -28485,6 +29018,7 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [
         {
           "skill": "MaggotEgg",
@@ -28521,6 +29055,7 @@
       "spawns": "maggotbaby4",
       "sound": "maggotegg",
       "uniqueSound": "maggotegg",
+      "height": 1,
       "sprite": "maggotegg4",
       "nightmare": {
         "hp": [
@@ -28607,11 +29142,13 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "maggotbaby",
       "uniqueSound": "maggotbaby",
+      "height": 1,
       "sprite": "maggotbaby4",
       "nightmare": {
         "hp": [
@@ -28745,6 +29282,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MonFrenzy",
@@ -28759,6 +29297,10 @@
       "minions": [],
       "sound": "thornhulk",
       "uniqueSound": "thornhulk",
+      "height": 3,
+      "death": [
+        "thornedhulk_death"
+      ],
       "sprite": "thornhulk1",
       "nightmare": {
         "hp": [
@@ -28901,6 +29443,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MonFrenzy",
@@ -28915,6 +29458,10 @@
       "minions": [],
       "sound": "thornhulk",
       "uniqueSound": "thornhulk",
+      "height": 3,
+      "death": [
+        "thornedhulk_death"
+      ],
       "sprite": "thornhulk2",
       "nightmare": {
         "hp": [
@@ -29057,6 +29604,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MonFrenzy",
@@ -29071,6 +29619,10 @@
       "minions": [],
       "sound": "thornhulk",
       "uniqueSound": "thornhulk",
+      "height": 3,
+      "death": [
+        "thornedhulk_death"
+      ],
       "sprite": "thornhulk3",
       "nightmare": {
         "hp": [
@@ -29224,6 +29776,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Chain Lightning",
@@ -29240,6 +29793,14 @@
       "minions": [],
       "sound": "willowisp",
       "uniqueSound": "willowisp",
+      "light": {
+        "radius": 6,
+        "color": 16777215
+      },
+      "height": 2,
+      "death": [
+        "willowispdeath"
+      ],
       "sprite": "willowisp1",
       "nightmare": {
         "hp": [
@@ -29384,11 +29945,17 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "bonefetish",
       "uniqueSound": "bonefetish",
+      "height": 1,
+      "death": [
+        "fetishdeath1",
+        "fetishdeath2"
+      ],
       "sprite": "bonefetish3",
       "nightmare": {
         "hp": [
@@ -29498,11 +30065,17 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "bonefetish",
       "uniqueSound": "bonefetish",
+      "height": 1,
+      "death": [
+        "fetishdeath1",
+        "fetishdeath2"
+      ],
       "sprite": "bonefetish4",
       "nightmare": {
         "hp": [
@@ -29612,11 +30185,17 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "bonefetish",
       "uniqueSound": "bonefetish",
+      "height": 1,
+      "death": [
+        "fetishdeath1",
+        "fetishdeath2"
+      ],
       "sprite": "bonefetish5",
       "nightmare": {
         "hp": [
@@ -29736,6 +30315,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "ZakarumHeal",
@@ -29770,6 +30350,15 @@
       ],
       "sound": "cantor",
       "uniqueSound": "cantor",
+      "light": {
+        "radius": 3,
+        "color": 6930175
+      },
+      "bleed": 2,
+      "height": 3,
+      "death": [
+        "zakarumpriest_death"
+      ],
       "sprite": "cantor1",
       "nightmare": {
         "hp": [
@@ -29910,6 +30499,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "ZakarumHeal",
@@ -29944,6 +30534,15 @@
       ],
       "sound": "cantor",
       "uniqueSound": "cantor",
+      "light": {
+        "radius": 3,
+        "color": 6930175
+      },
+      "bleed": 2,
+      "height": 3,
+      "death": [
+        "zakarumpriest_death"
+      ],
       "sprite": "cantor5",
       "nightmare": {
         "hp": [
@@ -30085,6 +30684,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "ZakarumHeal",
@@ -30119,6 +30719,15 @@
       ],
       "sound": "cantor",
       "uniqueSound": "cantor",
+      "light": {
+        "radius": 3,
+        "color": 6930175
+      },
+      "bleed": 2,
+      "height": 3,
+      "death": [
+        "zakarumpriest_death"
+      ],
       "sprite": "cantor3",
       "nightmare": {
         "hp": [
@@ -30247,6 +30856,7 @@
         7
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "FetishInferno",
@@ -30304,6 +30914,13 @@
       ],
       "sound": "fetishshaman",
       "uniqueSound": "fetishshaman",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "bleed": 1,
+      "height": 2,
+      "endDeath": "fetish2",
       "sprite": "fetishshaman2",
       "nightmare": {
         "hp": [
@@ -30398,6 +31015,7 @@
         7
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "FetishInferno",
@@ -30455,6 +31073,13 @@
       ],
       "sound": "fetishshaman",
       "uniqueSound": "fetishshaman",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "bleed": 1,
+      "height": 2,
+      "endDeath": "fetish3",
       "sprite": "fetishshaman3",
       "nightmare": {
         "hp": [
@@ -30549,6 +31174,7 @@
         7
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "FetishInferno",
@@ -30606,6 +31232,13 @@
       ],
       "sound": "fetishshaman",
       "uniqueSound": "fetishshaman",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "bleed": 1,
+      "height": 2,
+      "endDeath": "fetish4",
       "sprite": "fetishshaman4",
       "nightmare": {
         "hp": [
@@ -30704,6 +31337,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -30744,6 +31378,8 @@
       ],
       "sound": "fetishblow",
       "uniqueSound": "fetishblow",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetishblow4",
       "nightmare": {
         "hp": [
@@ -30869,11 +31505,15 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "foulcrow",
       "uniqueSound": "foulcrow",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 2,
       "sprite": "foulcrow4",
       "nightmare": {
         "hp": [
@@ -31007,6 +31647,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Leap",
@@ -31054,6 +31695,9 @@
       "minions": [],
       "sound": "sandleaper",
       "uniqueSound": "sandleaper",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "sandleaper4",
       "nightmare": {
         "hp": [
@@ -31200,6 +31844,7 @@
         9
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Swarm Move",
@@ -31229,6 +31874,7 @@
       "minions": [],
       "sound": "swarm",
       "uniqueSound": "swarm",
+      "height": 2,
       "sprite": "swarm4",
       "nightmare": {
         "hp": [
@@ -31369,11 +32015,17 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vulture",
       "uniqueSound": "vulture",
+      "bleed": 1,
+      "height": 2,
+      "death": [
+        "vulturedemonfeathers"
+      ],
       "sprite": "vulture3",
       "nightmare": {
         "hp": [
@@ -31472,11 +32124,17 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vulture",
       "uniqueSound": "vulture",
+      "bleed": 1,
+      "height": 2,
+      "death": [
+        "vulturedemonfeathers"
+      ],
       "sprite": "vulture4",
       "nightmare": {
         "hp": [
@@ -31594,11 +32252,13 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "wraith",
       "uniqueSound": "wraith",
+      "height": 3,
       "sprite": "wraith5",
       "nightmare": {
         "hp": [
@@ -31745,11 +32405,15 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zombie",
       "uniqueSound": "zombieunique",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "zombie4",
       "nightmare": {
         "hp": [
@@ -31892,11 +32556,15 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "brute",
       "uniqueSound": "brute",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "brute5",
       "nightmare": {
         "hp": [
@@ -32034,11 +32702,14 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "corruptrogue",
       "uniqueSound": "corruptrogue",
+      "bleed": 1,
+      "height": 3,
       "sprite": "corruptrogue5",
       "nightmare": {
         "hp": [
@@ -32164,11 +32835,13 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "mummy",
       "uniqueSound": "mummy",
+      "height": 3,
       "sprite": "mummy5",
       "nightmare": {
         "hp": [
@@ -32321,6 +32994,7 @@
         8
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -32427,6 +33101,7 @@
       ],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "height": 3,
       "sprite": "unraveler4",
       "nightmare": {
         "hp": [
@@ -32573,6 +33248,7 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "VampireFireball",
@@ -32612,6 +33288,12 @@
       "minions": [],
       "sound": "vampire",
       "uniqueSound": "vampire",
+      "light": {
+        "radius": 3,
+        "color": 16747008
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "vampire2",
       "nightmare": {
         "hp": [
@@ -32755,6 +33437,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "VampireFireball",
@@ -32794,6 +33477,12 @@
       "minions": [],
       "sound": "vampire",
       "uniqueSound": "vampire",
+      "light": {
+        "radius": 3,
+        "color": 16747008
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "vampire3",
       "nightmare": {
         "hp": [
@@ -32937,6 +33626,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "VampireFireball",
@@ -32976,6 +33666,12 @@
       "minions": [],
       "sound": "vampire",
       "uniqueSound": "vampire",
+      "light": {
+        "radius": 5,
+        "color": 16711680
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "vampire6",
       "nightmare": {
         "hp": [
@@ -33123,6 +33819,7 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SerpentCharge",
@@ -33173,6 +33870,8 @@
       "minions": [],
       "sound": "clawviper",
       "uniqueSound": "clawviper",
+      "bleed": 1,
+      "height": 3,
       "sprite": "clawviper5",
       "nightmare": {
         "hp": [
@@ -33313,6 +34012,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "cr_arrow5"
@@ -33320,6 +34020,8 @@
       "minions": [],
       "sound": "cr_archer",
       "uniqueSound": "cr_archer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_archer5",
       "nightmare": {
         "hp": [
@@ -33464,6 +34166,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Fire Hit",
@@ -33495,6 +34198,8 @@
       "minions": [],
       "sound": "sandraider",
       "uniqueSound": "sandraider",
+      "bleed": 1,
+      "height": 3,
       "sprite": "sandraider4",
       "nightmare": {
         "hp": [
@@ -33655,6 +34360,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -33699,6 +34405,7 @@
       ],
       "sound": "scarab",
       "uniqueSound": "scarab",
+      "height": 3,
       "sprite": "scarab5",
       "nightmare": {
         "hp": [
@@ -33840,6 +34547,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Smite",
@@ -33876,6 +34584,9 @@
       "minions": [],
       "sound": "pinhead",
       "uniqueSound": "pinhead",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "blunderbore3",
       "nightmare": {
         "hp": [
@@ -33987,6 +34698,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Hydra",
@@ -34008,6 +34720,8 @@
       "minions": [],
       "sound": "councilmember",
       "uniqueSound": "councilmember",
+      "greenBlood": true,
+      "height": 3,
       "sprite": "councilmember1",
       "nightmare": {
         "hp": [
@@ -34112,6 +34826,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Hydra",
@@ -34133,6 +34848,8 @@
       "minions": [],
       "sound": "councilmember",
       "uniqueSound": "councilmember",
+      "greenBlood": true,
+      "height": 3,
       "sprite": "councilmember2",
       "nightmare": {
         "hp": [
@@ -34237,6 +34954,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Hydra",
@@ -34258,6 +34976,8 @@
       "minions": [],
       "sound": "councilmember",
       "uniqueSound": "councilmember",
+      "greenBlood": true,
+      "height": 3,
       "sprite": "councilmember3",
       "nightmare": {
         "hp": [
@@ -34369,6 +35089,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "PrimeLightning",
@@ -34426,6 +35147,12 @@
       "sound": "mephisto",
       "uniqueSound": "mephisto",
       "noUniqueShift": true,
+      "light": {
+        "radius": 9,
+        "color": 16777215
+      },
+      "bleed": 2,
+      "height": 3,
       "sprite": "mephisto",
       "nightmare": {
         "hp": [
@@ -34553,11 +35280,20 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "doomknight",
       "uniqueSound": "doomknight",
+      "light": {
+        "radius": 4,
+        "color": 16777215
+      },
+      "height": 3,
+      "death": [
+        "undeadhorrordeath"
+      ],
       "sprite": "doomknight1",
       "nightmare": {
         "hp": [
@@ -34692,6 +35428,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "FingerMageSpider",
@@ -34706,6 +35443,12 @@
       "minions": [],
       "sound": "fingermage",
       "uniqueSound": "fingermage",
+      "light": {
+        "radius": 7,
+        "color": 16734720
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "fingermage1",
       "nightmare": {
         "hp": [
@@ -34815,6 +35558,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "FingerMageSpider",
@@ -34829,6 +35573,12 @@
       "minions": [],
       "sound": "fingermage",
       "uniqueSound": "fingermage",
+      "light": {
+        "radius": 7,
+        "color": 16770180
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "fingermage4",
       "nightmare": {
         "hp": [
@@ -34938,6 +35688,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "FingerMageSpider",
@@ -34952,6 +35703,12 @@
       "minions": [],
       "sound": "fingermage",
       "uniqueSound": "fingermage",
+      "light": {
+        "radius": 7,
+        "color": 16777215
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "fingermage3",
       "nightmare": {
         "hp": [
@@ -35059,6 +35816,7 @@
         2
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MegademonInferno",
@@ -35074,6 +35832,11 @@
       "minions": [],
       "sound": "megademon",
       "uniqueSound": "megademon",
+      "bleed": 1,
+      "height": 3,
+      "death": [
+        "megademondeath"
+      ],
       "sprite": "megademon1",
       "nightmare": {
         "hp": [
@@ -35183,6 +35946,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MegademonInferno",
@@ -35198,6 +35962,11 @@
       "minions": [],
       "sound": "megademon",
       "uniqueSound": "megademon",
+      "bleed": 1,
+      "height": 3,
+      "death": [
+        "megademondeath"
+      ],
       "sprite": "megademon2",
       "nightmare": {
         "hp": [
@@ -35308,6 +36077,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MegademonInferno",
@@ -35323,6 +36093,11 @@
       "minions": [],
       "sound": "megademon",
       "uniqueSound": "megademon",
+      "bleed": 1,
+      "height": 3,
+      "death": [
+        "megademondeath"
+      ],
       "sprite": "megademon3",
       "nightmare": {
         "hp": [
@@ -35432,6 +36207,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "RegurgitatorEat",
@@ -35448,6 +36224,8 @@
       "minions": [],
       "sound": "regurgitator",
       "uniqueSound": "regurgitator",
+      "bleed": 1,
+      "height": 3,
       "sprite": "regurgitator1",
       "nightmare": {
         "hp": [
@@ -35550,6 +36328,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "RegurgitatorEat",
@@ -35566,6 +36345,8 @@
       "minions": [],
       "sound": "regurgitator",
       "uniqueSound": "regurgitator",
+      "bleed": 1,
+      "height": 3,
       "sprite": "regurgitator2",
       "nightmare": {
         "hp": [
@@ -35668,6 +36449,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "RegurgitatorEat",
@@ -35684,6 +36466,8 @@
       "minions": [],
       "sound": "regurgitator",
       "uniqueSound": "regurgitator",
+      "bleed": 1,
+      "height": 3,
       "sprite": "regurgitator4",
       "nightmare": {
         "hp": [
@@ -35786,6 +36570,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Nest",
@@ -35825,6 +36610,9 @@
       "spawns": "vilechild1",
       "sound": "vilemother",
       "uniqueSound": "vilemother",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "vilemother1",
       "nightmare": {
         "hp": [
@@ -35926,11 +36714,15 @@
         2
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vilechild",
       "uniqueSound": "vilechild",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 1,
       "sprite": "vilechild1",
       "nightmare": {
         "hp": [
@@ -36036,6 +36828,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Nest",
@@ -36075,6 +36868,9 @@
       "spawns": "vilechild2",
       "sound": "vilemother",
       "uniqueSound": "vilemother",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "vilemother2",
       "nightmare": {
         "hp": [
@@ -36182,11 +36978,15 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vilechild",
       "uniqueSound": "vilechild",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 1,
       "sprite": "vilechild2",
       "nightmare": {
         "hp": [
@@ -36295,6 +37095,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Nest",
@@ -36334,6 +37135,9 @@
       "spawns": "vilechild3",
       "sound": "vilemother",
       "uniqueSound": "vilemother",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "vilemother4",
       "nightmare": {
         "hp": [
@@ -36441,11 +37245,15 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vilechild",
       "uniqueSound": "vilechild",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 1,
       "sprite": "vilechild3",
       "nightmare": {
         "hp": [
@@ -36558,6 +37366,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Leap",
@@ -36605,6 +37414,9 @@
       "minions": [],
       "sound": "sandleaper",
       "uniqueSound": "sandleaper",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "sandleaper5",
       "nightmare": {
         "hp": [
@@ -36764,6 +37576,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Chain Lightning",
@@ -36780,6 +37593,14 @@
       "minions": [],
       "sound": "willowisp",
       "uniqueSound": "willowisp",
+      "light": {
+        "radius": 6,
+        "color": 16777215
+      },
+      "height": 2,
+      "death": [
+        "willowispdeath"
+      ],
       "sprite": "willowisp3",
       "nightmare": {
         "hp": [
@@ -36935,11 +37756,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "batdemon",
       "uniqueSound": "batdemon",
+      "bleed": 1,
+      "height": 2,
       "sprite": "batdemon5",
       "nightmare": {
         "hp": [
@@ -37083,6 +37907,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {
         "A2": "bighead5"
@@ -37090,6 +37915,9 @@
       "minions": [],
       "sound": "bighead",
       "uniqueSound": "bighead",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "bighead5",
       "nightmare": {
         "hp": [
@@ -37246,6 +38074,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DoomKnightMissile",
@@ -37279,6 +38108,14 @@
       "minions": [],
       "sound": "doomknight",
       "uniqueSound": "doomknight",
+      "light": {
+        "radius": 4,
+        "color": 16777215
+      },
+      "height": 3,
+      "death": [
+        "undeadhorrordeath"
+      ],
       "sprite": "doomknight2",
       "nightmare": {
         "hp": [
@@ -37409,6 +38246,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MagottUp",
@@ -37503,6 +38341,7 @@
       "spawns": "maggotegg5",
       "sound": "sandmaggot",
       "uniqueSound": "sandmaggot",
+      "height": 1,
       "sprite": "sandmaggot5",
       "nightmare": {
         "hp": [
@@ -37600,6 +38439,7 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [
         {
           "skill": "MaggotEgg",
@@ -37636,6 +38476,7 @@
       "spawns": "maggotbaby5",
       "sound": "maggotegg",
       "uniqueSound": "maggotegg",
+      "height": 1,
       "sprite": "maggotegg5",
       "nightmare": {
         "hp": [
@@ -37722,11 +38563,13 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "maggotbaby",
       "uniqueSound": "maggotbaby",
+      "height": 1,
       "sprite": "maggotbaby5",
       "nightmare": {
         "hp": [
@@ -37857,6 +38700,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DoomKnightMissile",
@@ -37939,6 +38783,14 @@
       ],
       "sound": "doomknight",
       "uniqueSound": "doomknight",
+      "light": {
+        "radius": 4,
+        "color": 16777215
+      },
+      "height": 3,
+      "death": [
+        "undeadhorrordeath"
+      ],
       "sprite": "doomknight3",
       "nightmare": {
         "hp": [
@@ -38060,6 +38912,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Smite",
@@ -38096,6 +38949,9 @@
       "minions": [],
       "sound": "pinhead",
       "uniqueSound": "pinhead",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "blunderbore4",
       "nightmare": {
         "hp": [
@@ -38216,12 +39072,19 @@
         1
       ],
       "size": 2,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "smithdemon",
       "uniqueSound": "smithdemon",
       "noUniqueShift": true,
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "smith",
       "nightmare": {
         "hp": [
@@ -38366,6 +39229,7 @@
         1
       ],
       "size": 2,
+      "knock": "none",
       "skills": [
         {
           "skill": "Frost Nova",
@@ -38381,6 +39245,11 @@
       "sound": "izual",
       "uniqueSound": "izual",
       "noUniqueShift": true,
+      "light": {
+        "radius": 9,
+        "color": 16711680
+      },
+      "height": 3,
       "sprite": "izual",
       "nightmare": {
         "hp": [
@@ -38525,6 +39394,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "DiabLight",
@@ -38627,6 +39497,8 @@
       "sound": "diablo",
       "uniqueSound": "diablo",
       "noUniqueShift": true,
+      "bleed": 2,
+      "height": 3,
       "sprite": "diablo",
       "nightmare": {
         "hp": [
@@ -38744,11 +39616,13 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "boneprison",
       "uniqueSound": "boneprison",
+      "height": 3,
       "sprite": "boneprison1",
       "nightmare": {
         "hp": [
@@ -38844,11 +39718,13 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "boneprison",
       "uniqueSound": "boneprison",
+      "height": 3,
       "sprite": "boneprison2",
       "nightmare": {
         "hp": [
@@ -38944,11 +39820,13 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "boneprison",
       "uniqueSound": "boneprison",
+      "height": 3,
       "sprite": "boneprison3",
       "nightmare": {
         "hp": [
@@ -39044,11 +39922,13 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "boneprison",
       "uniqueSound": "boneprison",
+      "height": 3,
       "sprite": "boneprison4",
       "nightmare": {
         "hp": [
@@ -39145,6 +40025,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MonBow",
@@ -39175,6 +40056,8 @@
       "minions": [],
       "sound": "cr_archer",
       "uniqueSound": "cr_archer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_archer2",
       "nightmare": {
         "hp": [
@@ -39282,6 +40165,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MonBow",
@@ -39312,6 +40196,8 @@
       "minions": [],
       "sound": "cr_archer",
       "uniqueSound": "cr_archer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_archer8",
       "nightmare": {
         "hp": [
@@ -39421,6 +40307,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MonBow",
@@ -39451,6 +40338,8 @@
       "minions": [],
       "sound": "cr_archer",
       "uniqueSound": "cr_archer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_archer8",
       "nightmare": {
         "hp": [
@@ -39564,6 +40453,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -39613,6 +40503,8 @@
       "minions": [],
       "sound": "cr_lancer",
       "uniqueSound": "cr_lancer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_lancer2",
       "nightmare": {
         "hp": [
@@ -39733,6 +40625,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -39782,6 +40675,8 @@
       "minions": [],
       "sound": "cr_lancer",
       "uniqueSound": "cr_lancer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_lancer3",
       "nightmare": {
         "hp": [
@@ -39902,6 +40797,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -39951,6 +40847,8 @@
       "minions": [],
       "sound": "cr_lancer",
       "uniqueSound": "cr_lancer",
+      "bleed": 1,
+      "height": 3,
       "sprite": "cr_lancer8",
       "nightmare": {
         "hp": [
@@ -40080,6 +40978,7 @@
         9
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Swarm Move",
@@ -40109,6 +41008,7 @@
       "minions": [],
       "sound": "swarm",
       "uniqueSound": "swarm",
+      "height": 2,
       "sprite": "swarm4",
       "nightmare": {
         "hp": [
@@ -40260,6 +41160,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SpiderLay",
@@ -40271,6 +41172,7 @@
       "minions": [],
       "sound": "arach",
       "uniqueSound": "arach",
+      "height": 1,
       "sprite": "arach1",
       "nightmare": {
         "hp": [
@@ -40404,6 +41306,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SpiderLay",
@@ -40415,6 +41318,7 @@
       "minions": [],
       "sound": "arach",
       "uniqueSound": "arach",
+      "height": 1,
       "sprite": "arach1",
       "nightmare": {
         "hp": [
@@ -40541,11 +41445,14 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "corruptrogue",
       "uniqueSound": "corruptrogue",
+      "bleed": 1,
+      "height": 3,
       "sprite": "corruptrogue5",
       "nightmare": {
         "hp": [
@@ -40683,6 +41590,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -40727,6 +41635,7 @@
       ],
       "sound": "scarab",
       "uniqueSound": "scarab",
+      "height": 3,
       "sprite": "scarab3",
       "nightmare": {
         "hp": [
@@ -40909,6 +41818,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -40953,6 +41863,7 @@
       ],
       "sound": "scarab",
       "uniqueSound": "scarab",
+      "height": 3,
       "sprite": "scarab1",
       "nightmare": {
         "hp": [
@@ -41135,6 +42046,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Jab",
@@ -41179,6 +42091,7 @@
       ],
       "sound": "scarab",
       "uniqueSound": "scarab",
+      "height": 3,
       "sprite": "scarab1",
       "nightmare": {
         "hp": [
@@ -41332,6 +42245,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MagottUp",
@@ -41426,6 +42340,7 @@
       "spawns": "maggotegg6",
       "sound": "sandmaggot",
       "uniqueSound": "sandmaggot",
+      "height": 1,
       "sprite": "sandmaggot7",
       "nightmare": {
         "hp": [
@@ -41525,6 +42440,7 @@
         1
       ],
       "size": 1,
+      "knock": "none",
       "skills": [
         {
           "skill": "MaggotEgg",
@@ -41561,6 +42477,7 @@
       "spawns": "maggotbaby6",
       "sound": "maggotegg",
       "uniqueSound": "maggotegg",
+      "height": 1,
       "sprite": "maggotegg5",
       "nightmare": {
         "hp": [
@@ -41653,11 +42570,13 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "maggotbaby",
       "uniqueSound": "maggotbaby",
+      "height": 1,
       "sprite": "maggotbaby5",
       "nightmare": {
         "hp": [
@@ -41762,6 +42681,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MagottUp",
@@ -41856,6 +42776,7 @@
       "spawns": "maggotegg6",
       "sound": "sandmaggot",
       "uniqueSound": "sandmaggot",
+      "height": 1,
       "sprite": "sandmaggot7",
       "nightmare": {
         "hp": [
@@ -41970,6 +42891,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DoomKnightMissile",
@@ -42052,6 +42974,14 @@
       ],
       "sound": "doomknight",
       "uniqueSound": "doomknight",
+      "light": {
+        "radius": 4,
+        "color": 16777215
+      },
+      "height": 3,
+      "death": [
+        "undeadhorrordeath"
+      ],
       "sprite": "doomknight3",
       "nightmare": {
         "hp": [
@@ -42178,11 +43108,20 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "doomknight",
       "uniqueSound": "doomknight",
+      "light": {
+        "radius": 4,
+        "color": 16777215
+      },
+      "height": 3,
+      "death": [
+        "undeadhorrordeath"
+      ],
       "sprite": "doomknight1",
       "nightmare": {
         "hp": [
@@ -42323,6 +43262,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DoomKnightMissile",
@@ -42405,6 +43345,14 @@
       ],
       "sound": "doomknight",
       "uniqueSound": "doomknight",
+      "light": {
+        "radius": 4,
+        "color": 16777215
+      },
+      "height": 3,
+      "death": [
+        "undeadhorrordeath"
+      ],
       "sprite": "doomknight3",
       "nightmare": {
         "hp": [
@@ -42531,11 +43479,20 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "doomknight",
       "uniqueSound": "doomknight",
+      "light": {
+        "radius": 4,
+        "color": 16777215
+      },
+      "height": 3,
+      "death": [
+        "undeadhorrordeath"
+      ],
       "sprite": "doomknight1",
       "nightmare": {
         "hp": [
@@ -42676,6 +43633,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DoomKnightMissile",
@@ -42758,6 +43716,14 @@
       ],
       "sound": "doomknight",
       "uniqueSound": "doomknight",
+      "light": {
+        "radius": 4,
+        "color": 16777215
+      },
+      "height": 3,
+      "death": [
+        "undeadhorrordeath"
+      ],
       "sprite": "doomknight3",
       "nightmare": {
         "hp": [
@@ -42871,6 +43837,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MegademonInferno",
@@ -42886,6 +43853,11 @@
       "minions": [],
       "sound": "megademon",
       "uniqueSound": "megademon",
+      "bleed": 1,
+      "height": 3,
+      "death": [
+        "megademondeath"
+      ],
       "sprite": "megademon1",
       "nightmare": {
         "hp": [
@@ -43017,6 +43989,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MegademonInferno",
@@ -43032,6 +44005,11 @@
       "minions": [],
       "sound": "megademon",
       "uniqueSound": "megademon",
+      "bleed": 1,
+      "height": 3,
+      "death": [
+        "megademondeath"
+      ],
       "sprite": "megademon1",
       "nightmare": {
         "hp": [
@@ -43163,6 +44141,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "MegademonInferno",
@@ -43178,6 +44157,11 @@
       "minions": [],
       "sound": "megademon",
       "uniqueSound": "megademon",
+      "bleed": 1,
+      "height": 3,
+      "death": [
+        "megademondeath"
+      ],
       "sprite": "megademon1",
       "nightmare": {
         "hp": [
@@ -43312,6 +44296,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -43360,6 +44345,12 @@
       "minions": [],
       "sound": "imp",
       "uniqueSound": "imp",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "imp1",
       "nightmare": {
         "hp": [
@@ -43478,6 +44469,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -43526,6 +44518,12 @@
       "minions": [],
       "sound": "imp",
       "uniqueSound": "imp",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "imp2",
       "nightmare": {
         "hp": [
@@ -43644,6 +44642,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -43692,6 +44691,12 @@
       "minions": [],
       "sound": "imp",
       "uniqueSound": "imp",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "imp3",
       "nightmare": {
         "hp": [
@@ -43810,6 +44815,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -43858,6 +44864,12 @@
       "minions": [],
       "sound": "imp",
       "uniqueSound": "imp",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "imp4",
       "nightmare": {
         "hp": [
@@ -43976,6 +44988,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -44024,6 +45037,12 @@
       "minions": [],
       "sound": "imp",
       "uniqueSound": "imp",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "imp5",
       "nightmare": {
         "hp": [
@@ -44142,6 +45161,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -44214,6 +45234,12 @@
       "minions": [],
       "sound": "imp",
       "uniqueSound": "imp",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "imp1",
       "nightmare": {
         "hp": [
@@ -44331,6 +45357,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -44403,6 +45430,12 @@
       "minions": [],
       "sound": "imp",
       "uniqueSound": "imp",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "imp4",
       "nightmare": {
         "hp": [
@@ -44520,6 +45553,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -44592,6 +45626,12 @@
       "minions": [],
       "sound": "imp",
       "uniqueSound": "imp",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "imp4",
       "nightmare": {
         "hp": [
@@ -44707,11 +45747,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion1",
       "nightmare": {
         "hp": [
@@ -44832,11 +45875,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion2",
       "nightmare": {
         "hp": [
@@ -44952,11 +45998,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion4",
       "nightmare": {
         "hp": [
@@ -45073,11 +46122,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion5",
       "nightmare": {
         "hp": [
@@ -45193,11 +46245,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion6",
       "nightmare": {
         "hp": [
@@ -45314,11 +46369,14 @@
         5
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion7",
       "nightmare": {
         "hp": [
@@ -45434,11 +46492,14 @@
         5
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion10",
       "nightmare": {
         "hp": [
@@ -45553,11 +46614,14 @@
         5
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion2",
       "nightmare": {
         "hp": [
@@ -45672,11 +46736,14 @@
         5
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion2",
       "nightmare": {
         "hp": [
@@ -45795,6 +46862,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Self-resurrect",
@@ -45867,6 +46935,7 @@
       "minions": [],
       "sound": "reanimatedhorde",
       "uniqueSound": "reanimatedhorde",
+      "height": 3,
       "sprite": "reanimatedhorde1",
       "nightmare": {
         "hp": [
@@ -45988,6 +47057,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Self-resurrect",
@@ -46060,6 +47130,7 @@
       "minions": [],
       "sound": "reanimatedhorde",
       "uniqueSound": "reanimatedhorde",
+      "height": 3,
       "sprite": "reanimatedhorde2",
       "nightmare": {
         "hp": [
@@ -46181,6 +47252,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Self-resurrect",
@@ -46253,6 +47325,7 @@
       "minions": [],
       "sound": "reanimatedhorde",
       "uniqueSound": "reanimatedhorde",
+      "height": 3,
       "sprite": "reanimatedhorde3",
       "nightmare": {
         "hp": [
@@ -46376,6 +47449,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Self-resurrect",
@@ -46448,6 +47522,7 @@
       "minions": [],
       "sound": "reanimatedhorde",
       "uniqueSound": "reanimatedhorde",
+      "height": 3,
       "sprite": "reanimatedhorde4",
       "nightmare": {
         "hp": [
@@ -46573,6 +47648,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Self-resurrect",
@@ -46645,6 +47721,7 @@
       "minions": [],
       "sound": "reanimatedhorde",
       "uniqueSound": "reanimatedhorde",
+      "height": 3,
       "sprite": "reanimatedhorde5",
       "nightmare": {
         "hp": [
@@ -46769,6 +47846,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Self-resurrect",
@@ -46841,6 +47919,7 @@
       "minions": [],
       "sound": "reanimatedhorde",
       "uniqueSound": "reanimatedhorde",
+      "height": 3,
       "sprite": "reanimatedhorde1",
       "nightmare": {
         "hp": [
@@ -46970,6 +48049,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {
         "A2": "bighead6"
@@ -46977,6 +48057,9 @@
       "minions": [],
       "sound": "bighead",
       "uniqueSound": "bighead",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "bighead5",
       "nightmare": {
         "hp": [
@@ -47119,6 +48202,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DeathMaul",
@@ -47178,6 +48262,12 @@
       "minions": [],
       "sound": "deathmauler",
       "uniqueSound": "deathmauler",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "deathmauler1",
       "nightmare": {
         "hp": [
@@ -47283,6 +48373,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DeathMaul",
@@ -47342,6 +48433,12 @@
       "minions": [],
       "sound": "deathmauler",
       "uniqueSound": "deathmauler",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "deathmauler2",
       "nightmare": {
         "hp": [
@@ -47442,6 +48539,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DeathMaul",
@@ -47501,6 +48599,12 @@
       "minions": [],
       "sound": "deathmauler",
       "uniqueSound": "deathmauler",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "deathmauler3",
       "nightmare": {
         "hp": [
@@ -47601,6 +48705,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DeathMaul",
@@ -47660,6 +48765,12 @@
       "minions": [],
       "sound": "deathmauler",
       "uniqueSound": "deathmauler",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "deathmauler4",
       "nightmare": {
         "hp": [
@@ -47760,6 +48871,7 @@
         5
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "DeathMaul",
@@ -47819,6 +48931,12 @@
       "minions": [],
       "sound": "deathmauler",
       "uniqueSound": "deathmauler",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "deathmauler5",
       "nightmare": {
         "hp": [
@@ -47935,6 +49053,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {
         "A2": "spike6"
@@ -47942,6 +49061,8 @@
       "minions": [],
       "sound": "quillrat",
       "uniqueSound": "quillrat",
+      "bleed": 1,
+      "height": 1,
       "sprite": "quillrat1",
       "nightmare": {
         "hp": [
@@ -48090,6 +49211,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {
         "A2": "spike6"
@@ -48097,6 +49219,8 @@
       "minions": [],
       "sound": "quillrat",
       "uniqueSound": "quillrat",
+      "bleed": 1,
+      "height": 1,
       "sprite": "quillrat2",
       "nightmare": {
         "hp": [
@@ -48245,6 +49369,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {
         "A2": "spike6"
@@ -48252,6 +49377,8 @@
       "minions": [],
       "sound": "quillrat",
       "uniqueSound": "quillrat",
+      "bleed": 1,
+      "height": 1,
       "sprite": "quillrat8",
       "nightmare": {
         "hp": [
@@ -48402,6 +49529,7 @@
         6
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -48433,6 +49561,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer4",
       "nightmare": {
         "hp": [
@@ -48578,6 +49707,7 @@
         6
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -48609,6 +49739,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer3",
       "nightmare": {
         "hp": [
@@ -48753,6 +49884,7 @@
         6
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -48784,6 +49916,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer2",
       "nightmare": {
         "hp": [
@@ -48930,6 +50063,7 @@
         6
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -48961,6 +50095,7 @@
       "minions": [],
       "sound": "sk_archer",
       "uniqueSound": "sk_archer",
+      "height": 3,
       "sprite": "sk_archer5",
       "nightmare": {
         "hp": [
@@ -49104,6 +50239,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Defense Curse",
@@ -49134,6 +50270,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubus1",
       "nightmare": {
         "hp": [
@@ -49270,6 +50408,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Defense Curse",
@@ -49300,6 +50439,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubus2",
       "nightmare": {
         "hp": [
@@ -49436,6 +50577,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Defense Curse",
@@ -49466,6 +50608,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubus3",
       "nightmare": {
         "hp": [
@@ -49602,6 +50746,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Defense Curse",
@@ -49632,6 +50777,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubus4",
       "nightmare": {
         "hp": [
@@ -49768,6 +50915,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Defense Curse",
@@ -49798,6 +50946,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubus5",
       "nightmare": {
         "hp": [
@@ -49934,6 +51084,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Defense Curse",
@@ -49964,6 +51115,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubus1",
       "nightmare": {
         "hp": [
@@ -50108,6 +51261,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Defense Curse",
@@ -50138,6 +51292,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubus3",
       "nightmare": {
         "hp": [
@@ -50282,6 +51438,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Defense Curse",
@@ -50312,6 +51469,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubus3",
       "nightmare": {
         "hp": [
@@ -50447,6 +51606,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "BloodLordFrenzy",
@@ -50461,6 +51621,12 @@
       "minions": [],
       "sound": "bloodlord",
       "uniqueSound": "bloodlord",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "bloodlord1",
       "nightmare": {
         "hp": [
@@ -50577,6 +51743,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "BloodLordFrenzy",
@@ -50591,6 +51758,12 @@
       "minions": [],
       "sound": "bloodlord",
       "uniqueSound": "bloodlord",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "bloodlord2",
       "nightmare": {
         "hp": [
@@ -50727,6 +51900,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "BloodLordFrenzy",
@@ -50741,6 +51915,12 @@
       "minions": [],
       "sound": "bloodlord",
       "uniqueSound": "bloodlord",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "bloodlord3",
       "nightmare": {
         "hp": [
@@ -50875,6 +52055,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "BloodLordFrenzy",
@@ -50889,6 +52070,12 @@
       "minions": [],
       "sound": "bloodlord",
       "uniqueSound": "bloodlord",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "bloodlord6",
       "nightmare": {
         "hp": [
@@ -51065,6 +52252,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "BloodLordFrenzy",
@@ -51079,6 +52267,12 @@
       "minions": [],
       "sound": "bloodlord",
       "uniqueSound": "bloodlord",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "bloodlord7",
       "nightmare": {
         "hp": [
@@ -51237,6 +52431,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "BloodLordFrenzy",
@@ -51251,6 +52446,12 @@
       "minions": [],
       "sound": "bloodlord",
       "uniqueSound": "bloodlord",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "bloodlord4",
       "nightmare": {
         "hp": [
@@ -51387,6 +52588,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "BloodLordFrenzy",
@@ -51401,6 +52603,12 @@
       "minions": [],
       "sound": "bloodlord",
       "uniqueSound": "bloodlord",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "bloodlord5",
       "nightmare": {
         "hp": [
@@ -51541,6 +52749,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Cry Help",
@@ -51618,6 +52827,8 @@
       ],
       "sound": "overseer",
       "uniqueSound": "overseer",
+      "bleed": 2,
+      "height": 3,
       "sprite": "overseer1",
       "nightmare": {
         "hp": [
@@ -51736,6 +52947,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Cry Help",
@@ -51813,6 +53025,8 @@
       ],
       "sound": "overseer",
       "uniqueSound": "overseer",
+      "bleed": 2,
+      "height": 3,
       "sprite": "overseer2",
       "nightmare": {
         "hp": [
@@ -51931,6 +53145,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Cry Help",
@@ -52008,6 +53223,8 @@
       ],
       "sound": "overseer",
       "uniqueSound": "overseer",
+      "bleed": 2,
+      "height": 3,
       "sprite": "overseer3",
       "nightmare": {
         "hp": [
@@ -52122,11 +53339,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "minion",
       "uniqueSound": "minion",
+      "bleed": 1,
+      "height": 2,
       "sprite": "minion3",
       "nightmare": {
         "hp": [
@@ -52246,6 +53466,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Cry Help",
@@ -52323,6 +53544,8 @@
       ],
       "sound": "overseer",
       "uniqueSound": "overseer",
+      "bleed": 2,
+      "height": 3,
       "sprite": "overseer4",
       "nightmare": {
         "hp": [
@@ -52441,6 +53664,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Cry Help",
@@ -52518,6 +53742,8 @@
       ],
       "sound": "overseer",
       "uniqueSound": "overseer",
+      "bleed": 2,
+      "height": 3,
       "sprite": "overseer5",
       "nightmare": {
         "hp": [
@@ -52636,6 +53862,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Cry Help",
@@ -52713,6 +53940,8 @@
       ],
       "sound": "overseer",
       "uniqueSound": "overseer",
+      "bleed": 2,
+      "height": 3,
       "sprite": "overseer5",
       "nightmare": {
         "hp": [
@@ -52835,6 +54064,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Amplify Damage",
@@ -52881,6 +54111,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubuswitch2",
       "nightmare": {
         "hp": [
@@ -53016,6 +54248,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Amplify Damage",
@@ -53062,6 +54295,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubuswitch3",
       "nightmare": {
         "hp": [
@@ -53200,6 +54435,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Amplify Damage",
@@ -53246,6 +54482,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubuswitch5",
       "nightmare": {
         "hp": [
@@ -53387,6 +54625,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Amplify Damage",
@@ -53433,6 +54672,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubuswitch6",
       "nightmare": {
         "hp": [
@@ -53579,6 +54820,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Amplify Damage",
@@ -53625,6 +54867,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubuswitch5",
       "nightmare": {
         "hp": [
@@ -53771,6 +55015,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Amplify Damage",
@@ -53817,6 +55062,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubuswitch2",
       "nightmare": {
         "hp": [
@@ -53963,6 +55210,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Amplify Damage",
@@ -54009,6 +55257,8 @@
       "minions": [],
       "sound": "succubus",
       "uniqueSound": "succubus",
+      "bleed": 1,
+      "height": 2,
       "sprite": "succubuswitch2",
       "nightmare": {
         "hp": [
@@ -54150,6 +55400,7 @@
         1
       ],
       "size": 2,
+      "knock": "large",
       "skills": [
         {
           "skill": "Impregnate",
@@ -54165,6 +55416,8 @@
       "sound": "putriddefiler",
       "uniqueSound": "putriddefiler",
       "noUniqueShift": true,
+      "bleed": 1,
+      "height": 3,
       "sprite": "putriddefiler1",
       "nightmare": {
         "hp": [
@@ -54283,6 +55536,7 @@
         1
       ],
       "size": 2,
+      "knock": "large",
       "skills": [
         {
           "skill": "Impregnate",
@@ -54298,6 +55552,8 @@
       "sound": "putriddefiler",
       "uniqueSound": "putriddefiler",
       "noUniqueShift": true,
+      "bleed": 1,
+      "height": 3,
       "sprite": "putriddefiler2",
       "nightmare": {
         "hp": [
@@ -54416,6 +55672,7 @@
         1
       ],
       "size": 2,
+      "knock": "large",
       "skills": [
         {
           "skill": "Impregnate",
@@ -54431,6 +55688,8 @@
       "sound": "putriddefiler",
       "uniqueSound": "putriddefiler",
       "noUniqueShift": true,
+      "bleed": 1,
+      "height": 3,
       "sprite": "putriddefiler3",
       "nightmare": {
         "hp": [
@@ -54549,6 +55808,7 @@
         1
       ],
       "size": 2,
+      "knock": "large",
       "skills": [
         {
           "skill": "Impregnate",
@@ -54564,6 +55824,8 @@
       "sound": "putriddefiler",
       "uniqueSound": "putriddefiler",
       "noUniqueShift": true,
+      "bleed": 1,
+      "height": 3,
       "sprite": "putriddefiler4",
       "nightmare": {
         "hp": [
@@ -54681,6 +55943,7 @@
         1
       ],
       "size": 2,
+      "knock": "none",
       "skills": [
         {
           "skill": "Whirlwind",
@@ -54715,6 +55978,12 @@
       "sound": "ancient",
       "uniqueSound": "ancient",
       "noUniqueShift": true,
+      "light": {
+        "radius": 0,
+        "color": 16711680
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "ancientbarb1",
       "nightmare": {
         "hp": [
@@ -54836,6 +56105,7 @@
         1
       ],
       "size": 2,
+      "knock": "none",
       "skills": [
         {
           "skill": "Shout",
@@ -54856,6 +56126,12 @@
       "sound": "ancient",
       "uniqueSound": "ancient",
       "noUniqueShift": true,
+      "light": {
+        "radius": 0,
+        "color": 16711680
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "ancientbarb2",
       "nightmare": {
         "hp": [
@@ -54972,6 +56248,7 @@
         1
       ],
       "size": 2,
+      "knock": "none",
       "skills": [
         {
           "skill": "Leap Attack",
@@ -55014,6 +56291,12 @@
       "sound": "ancient",
       "uniqueSound": "ancient",
       "noUniqueShift": true,
+      "light": {
+        "radius": 0,
+        "color": 16711680
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "ancientbarb3",
       "nightmare": {
         "hp": [
@@ -55131,6 +56414,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Horror Arctic Blast",
@@ -55169,6 +56453,12 @@
       "minions": [],
       "sound": "frozenhorror",
       "uniqueSound": "frozenhorror",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "frozenhorror1",
       "nightmare": {
         "hp": [
@@ -55275,6 +56565,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Horror Arctic Blast",
@@ -55313,6 +56604,12 @@
       "minions": [],
       "sound": "frozenhorror",
       "uniqueSound": "frozenhorror",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "frozenhorror2",
       "nightmare": {
         "hp": [
@@ -55419,6 +56716,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Horror Arctic Blast",
@@ -55457,6 +56755,12 @@
       "minions": [],
       "sound": "frozenhorror",
       "uniqueSound": "frozenhorror",
+      "light": {
+        "radius": 0,
+        "color": 16384000
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "frozenhorror3",
       "nightmare": {
         "hp": [
@@ -55566,6 +56870,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Siege Beast Stomp",
@@ -55632,6 +56937,7 @@
       ],
       "sound": "siegebeast",
       "uniqueSound": "siegebeast",
+      "height": 2,
       "sprite": "siegebeast1",
       "nightmare": {
         "hp": [
@@ -55738,6 +57044,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Siege Beast Stomp",
@@ -55804,6 +57111,7 @@
       ],
       "sound": "siegebeast",
       "uniqueSound": "siegebeast",
+      "height": 2,
       "sprite": "siegebeast2",
       "nightmare": {
         "hp": [
@@ -55910,6 +57218,7 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Siege Beast Stomp",
@@ -55976,6 +57285,7 @@
       ],
       "sound": "siegebeast",
       "uniqueSound": "siegebeast",
+      "height": 2,
       "sprite": "siegebeast3",
       "nightmare": {
         "hp": [
@@ -56104,11 +57414,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "brute",
       "uniqueSound": "brute",
+      "bleed": 2,
+      "height": 3,
       "sprite": "snowyeti1",
       "nightmare": {
         "hp": [
@@ -56284,11 +57597,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "brute",
       "uniqueSound": "brute",
+      "bleed": 2,
+      "height": 3,
       "sprite": "snowyeti2",
       "nightmare": {
         "hp": [
@@ -56455,11 +57771,14 @@
         4
       ],
       "size": 3,
+      "knock": "large",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "brute",
       "uniqueSound": "brute",
+      "bleed": 2,
+      "height": 3,
       "sprite": "snowyeti4",
       "nightmare": {
         "hp": [
@@ -56595,11 +57914,18 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "suicideminion",
       "uniqueSound": "suicideminion",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 2,
       "sprite": "suicideminion6",
       "nightmare": {
         "hp": [
@@ -56716,6 +58042,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -56747,6 +58074,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16747008
+      },
+      "height": 3,
       "sprite": "skmage_fire1",
       "nightmare": {
         "hp": [
@@ -56873,6 +58205,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -56904,6 +58237,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16747008
+      },
+      "height": 3,
       "sprite": "skmage_fire3",
       "nightmare": {
         "hp": [
@@ -57030,6 +58368,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -57061,6 +58400,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "height": 3,
       "sprite": "skmage_ltng1",
       "nightmare": {
         "hp": [
@@ -57187,6 +58531,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -57218,6 +58563,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "height": 3,
       "sprite": "skmage_ltng3",
       "nightmare": {
         "hp": [
@@ -57334,11 +58684,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "pantherwoman",
       "uniqueSound": "pantherwoman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "pantherwoman6",
       "nightmare": {
         "hp": [
@@ -57496,6 +58849,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -57525,6 +58879,7 @@
       "minions": [],
       "sound": "skeleton",
       "uniqueSound": "skeleton",
+      "height": 3,
       "sprite": "skeleton6",
       "nightmare": {
         "hp": [
@@ -57707,6 +59062,7 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -57736,6 +59092,7 @@
       "minions": [],
       "sound": "skeleton",
       "uniqueSound": "skeleton",
+      "height": 3,
       "sprite": "skeleton2",
       "nightmare": {
         "hp": [
@@ -57898,11 +59255,17 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vulture",
       "uniqueSound": "vulture",
+      "bleed": 1,
+      "height": 2,
+      "death": [
+        "vulturedemonfeathers"
+      ],
       "sprite": "vulture1",
       "nightmare": {
         "hp": [
@@ -58049,6 +59412,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Leap",
@@ -58096,6 +59460,9 @@
       "minions": [],
       "sound": "sandleaper",
       "uniqueSound": "sandleaper",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "sandleaper6",
       "nightmare": {
         "hp": [
@@ -58268,6 +59635,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Leap",
@@ -58315,6 +59683,9 @@
       "minions": [],
       "sound": "sandleaper",
       "uniqueSound": "sandleaper",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "sandleaper4",
       "nightmare": {
         "hp": [
@@ -58475,6 +59846,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -58506,6 +59878,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 15615
+      },
+      "height": 3,
       "sprite": "skmage_cold5",
       "nightmare": {
         "hp": [
@@ -58638,11 +60015,13 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "wraith",
       "uniqueSound": "wraith",
+      "height": 3,
       "sprite": "wraith1",
       "nightmare": {
         "hp": [
@@ -58785,11 +60164,13 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "wraith",
       "uniqueSound": "wraith",
+      "height": 3,
       "sprite": "wraith1",
       "nightmare": {
         "hp": [
@@ -58932,11 +60313,13 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "wraith",
       "uniqueSound": "wraith",
+      "height": 3,
       "sprite": "wraith1",
       "nightmare": {
         "hp": [
@@ -59072,6 +60455,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -59103,6 +60487,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 6749952
+      },
+      "height": 3,
       "sprite": "skmage_pois5",
       "nightmare": {
         "hp": [
@@ -59225,6 +60614,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -59256,6 +60646,11 @@
       "minions": [],
       "sound": "sk_mage",
       "uniqueSound": "sk_mage",
+      "light": {
+        "radius": 5,
+        "color": 6749952
+      },
+      "height": 3,
       "sprite": "skmage_pois6",
       "nightmare": {
         "hp": [
@@ -59374,6 +60769,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Smite",
@@ -59410,6 +60806,9 @@
       "minions": [],
       "sound": "pinhead",
       "uniqueSound": "pinhead",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "blunderbore1",
       "nightmare": {
         "hp": [
@@ -59531,6 +60930,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Smite",
@@ -59567,6 +60967,9 @@
       "minions": [],
       "sound": "pinhead",
       "uniqueSound": "pinhead",
+      "bleed": 2,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "blunderbore3",
       "nightmare": {
         "hp": [
@@ -59693,6 +61096,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "pantherjav5"
@@ -59700,6 +61104,8 @@
       "minions": [],
       "sound": "slinger",
       "uniqueSound": "slinger",
+      "bleed": 1,
+      "height": 3,
       "sprite": "slinger1",
       "nightmare": {
         "hp": [
@@ -59833,6 +61239,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "pantherjav5"
@@ -59840,6 +61247,8 @@
       "minions": [],
       "sound": "slinger",
       "uniqueSound": "slinger",
+      "bleed": 1,
+      "height": 3,
       "sprite": "slinger2",
       "nightmare": {
         "hp": [
@@ -59977,6 +61386,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {
         "A1": "pantherjav5"
@@ -59984,6 +61394,8 @@
       "minions": [],
       "sound": "slinger",
       "uniqueSound": "slinger",
+      "bleed": 1,
+      "height": 3,
       "sprite": "slinger2",
       "nightmare": {
         "hp": [
@@ -60128,11 +61540,13 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "baboon",
       "uniqueSound": "baboon",
+      "height": 3,
       "sprite": "baboon1",
       "nightmare": {
         "hp": [
@@ -60266,11 +61680,14 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "baboon",
       "uniqueSound": "baboon",
+      "bleed": 1,
+      "height": 3,
       "sprite": "baboon7",
       "nightmare": {
         "hp": [
@@ -60404,11 +61821,14 @@
         4
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "baboon",
       "uniqueSound": "baboon",
+      "bleed": 1,
+      "height": 3,
       "sprite": "baboon4",
       "nightmare": {
         "hp": [
@@ -60542,11 +61962,17 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "bonefetish",
       "uniqueSound": "bonefetish",
+      "height": 1,
+      "death": [
+        "fetishdeath1",
+        "fetishdeath2"
+      ],
       "sprite": "bonefetish3",
       "nightmare": {
         "hp": [
@@ -60656,11 +62082,17 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "bonefetish",
       "uniqueSound": "bonefetish",
+      "height": 1,
+      "death": [
+        "fetishdeath1",
+        "fetishdeath2"
+      ],
       "sprite": "bonefetish3",
       "nightmare": {
         "hp": [
@@ -60780,6 +62212,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "ZakarumHeal",
@@ -60814,6 +62247,15 @@
       ],
       "sound": "cantor",
       "uniqueSound": "cantor",
+      "light": {
+        "radius": 3,
+        "color": 6930175
+      },
+      "bleed": 2,
+      "height": 3,
+      "death": [
+        "zakarumpriest_death"
+      ],
       "sprite": "cantor5",
       "nightmare": {
         "hp": [
@@ -60940,11 +62382,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zealot",
       "uniqueSound": "zealot",
+      "bleed": 2,
+      "height": 3,
       "sprite": "zealot2",
       "nightmare": {
         "hp": [
@@ -61069,6 +62514,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "ZakarumHeal",
@@ -61103,6 +62549,15 @@
       ],
       "sound": "cantor",
       "uniqueSound": "cantor",
+      "light": {
+        "radius": 3,
+        "color": 6930175
+      },
+      "bleed": 2,
+      "height": 3,
+      "death": [
+        "zakarumpriest_death"
+      ],
       "sprite": "cantor3",
       "nightmare": {
         "hp": [
@@ -61229,11 +62684,14 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "zealot",
       "uniqueSound": "zealot",
+      "bleed": 2,
+      "height": 3,
       "sprite": "zealot3",
       "nightmare": {
         "hp": [
@@ -61349,6 +62807,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -61387,6 +62846,8 @@
       ],
       "sound": "fetish",
       "uniqueSound": "fetish",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetish2",
       "nightmare": {
         "hp": [
@@ -61515,6 +62976,7 @@
         4
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -61553,6 +63015,8 @@
       ],
       "sound": "fetish",
       "uniqueSound": "fetish",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetish3",
       "nightmare": {
         "hp": [
@@ -61676,6 +63140,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -61716,6 +63181,8 @@
       ],
       "sound": "fetishblow",
       "uniqueSound": "fetishblow",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetishblow2",
       "nightmare": {
         "hp": [
@@ -61829,6 +63296,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -61869,6 +63337,8 @@
       ],
       "sound": "fetishblow",
       "uniqueSound": "fetishblow",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetishblow7",
       "nightmare": {
         "hp": [
@@ -61982,6 +63452,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "SkeletonRaise",
@@ -62022,6 +63493,8 @@
       ],
       "sound": "fetishblow",
       "uniqueSound": "fetishblow",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fetishblow3",
       "nightmare": {
         "hp": [
@@ -62136,6 +63609,7 @@
         5
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "FetishInferno",
@@ -62193,6 +63667,13 @@
       ],
       "sound": "fetishshaman",
       "uniqueSound": "fetishshaman",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "bleed": 1,
+      "height": 2,
+      "endDeath": "fetish6",
       "sprite": "fetishshaman2",
       "nightmare": {
         "hp": [
@@ -62288,6 +63769,7 @@
         5
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "FetishInferno",
@@ -62345,6 +63827,13 @@
       ],
       "sound": "fetishshaman",
       "uniqueSound": "fetishshaman",
+      "light": {
+        "radius": 5,
+        "color": 16777215
+      },
+      "bleed": 1,
+      "height": 2,
+      "endDeath": "fetish8",
       "sprite": "fetishshaman3",
       "nightmare": {
         "hp": [
@@ -62457,11 +63946,13 @@
         5
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "mummy",
       "uniqueSound": "mummy",
+      "height": 3,
       "sprite": "mummy4",
       "nightmare": {
         "hp": [
@@ -62610,6 +64101,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "VampireFireball",
@@ -62649,6 +64141,12 @@
       "minions": [],
       "sound": "vampire",
       "uniqueSound": "vampire",
+      "light": {
+        "radius": 3,
+        "color": 16747008
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "vampire6",
       "nightmare": {
         "hp": [
@@ -62792,6 +64290,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "VampireFireball",
@@ -62831,6 +64330,12 @@
       "minions": [],
       "sound": "vampire",
       "uniqueSound": "vampire",
+      "light": {
+        "radius": 3,
+        "color": 16747008
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "vampire1",
       "nightmare": {
         "hp": [
@@ -62974,6 +64479,7 @@
         3
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "VampireFireball",
@@ -63013,6 +64519,12 @@
       "minions": [],
       "sound": "vampire",
       "uniqueSound": "vampire",
+      "light": {
+        "radius": 3,
+        "color": 16747008
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "vampire6",
       "nightmare": {
         "hp": [
@@ -63156,11 +64668,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "batdemon",
       "uniqueSound": "batdemon",
+      "bleed": 1,
+      "height": 2,
       "sprite": "batdemon2",
       "nightmare": {
         "hp": [
@@ -63309,11 +64824,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "batdemon",
       "uniqueSound": "batdemon",
+      "bleed": 1,
+      "height": 2,
       "sprite": "batdemon1",
       "nightmare": {
         "hp": [
@@ -63461,6 +64979,7 @@
         2
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MonFrenzy",
@@ -63475,6 +64994,10 @@
       "minions": [],
       "sound": "thornhulk",
       "uniqueSound": "thornhulk",
+      "height": 3,
+      "death": [
+        "thornedhulk_death"
+      ],
       "sprite": "thornhulk1",
       "nightmare": {
         "hp": [
@@ -63610,6 +65133,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "FingerMageSpider",
@@ -63624,6 +65148,12 @@
       "minions": [],
       "sound": "fingermage",
       "uniqueSound": "fingermage",
+      "light": {
+        "radius": 7,
+        "color": 16734720
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "fingermage4",
       "nightmare": {
         "hp": [
@@ -63736,6 +65266,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "FingerMageSpider",
@@ -63750,6 +65281,12 @@
       "minions": [],
       "sound": "fingermage",
       "uniqueSound": "fingermage",
+      "light": {
+        "radius": 7,
+        "color": 16734720
+      },
+      "bleed": 1,
+      "height": 3,
       "sprite": "fingermage4",
       "nightmare": {
         "hp": [
@@ -63859,6 +65396,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "RegurgitatorEat",
@@ -63875,6 +65413,8 @@
       "minions": [],
       "sound": "regurgitator",
       "uniqueSound": "regurgitator",
+      "bleed": 1,
+      "height": 3,
       "sprite": "regurgitator4",
       "nightmare": {
         "hp": [
@@ -63980,6 +65520,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Nest",
@@ -64019,6 +65560,9 @@
       "spawns": "vilechild4",
       "sound": "vilemother",
       "uniqueSound": "vilemother",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "vilemother4",
       "nightmare": {
         "hp": [
@@ -64149,11 +65693,15 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vilechild",
       "uniqueSound": "vilechild",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 1,
       "sprite": "vilechild3",
       "nightmare": {
         "hp": [
@@ -64284,6 +65832,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Nest",
@@ -64323,6 +65872,9 @@
       "spawns": "vilechild5",
       "sound": "vilemother",
       "uniqueSound": "vilemother",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 3,
       "sprite": "vilemother1",
       "nightmare": {
         "hp": [
@@ -64453,11 +66005,15 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "vilechild",
       "uniqueSound": "vilechild",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 1,
       "sprite": "vilechild1",
       "nightmare": {
         "hp": [
@@ -64615,6 +66171,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Charge",
@@ -64667,6 +66224,8 @@
       "minions": [],
       "sound": "clawviper",
       "uniqueSound": "clawviper",
+      "bleed": 1,
+      "height": 3,
       "sprite": "clawviper5",
       "nightmare": {
         "hp": [
@@ -64855,6 +66414,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Charge",
@@ -64907,6 +66467,8 @@
       "minions": [],
       "sound": "clawviper",
       "uniqueSound": "clawviper",
+      "bleed": 1,
+      "height": 3,
       "sprite": "clawviper5",
       "nightmare": {
         "hp": [
@@ -65086,6 +66648,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Charge",
@@ -65138,6 +66701,8 @@
       "minions": [],
       "sound": "clawviper",
       "uniqueSound": "clawviper",
+      "bleed": 1,
+      "height": 3,
       "sprite": "clawviper8",
       "nightmare": {
         "hp": [
@@ -65319,6 +66884,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Charge",
@@ -65371,6 +66937,8 @@
       "minions": [],
       "sound": "clawviper",
       "uniqueSound": "clawviper",
+      "bleed": 1,
+      "height": 3,
       "sprite": "clawviper2",
       "nightmare": {
         "hp": [
@@ -65559,6 +67127,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Charge",
@@ -65611,6 +67180,8 @@
       "minions": [],
       "sound": "clawviper",
       "uniqueSound": "clawviper",
+      "bleed": 1,
+      "height": 3,
       "sprite": "clawviper2",
       "nightmare": {
         "hp": [
@@ -65775,11 +67346,15 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "foulcrow",
       "uniqueSound": "foulcrow",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 2,
       "sprite": "foulcrow1",
       "nightmare": {
         "hp": [
@@ -65920,11 +67495,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman7",
       "nightmare": {
         "hp": [
@@ -66068,11 +67646,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman3",
       "nightmare": {
         "hp": [
@@ -66217,11 +67798,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman4",
       "nightmare": {
         "hp": [
@@ -66366,11 +67950,14 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "goatman",
       "uniqueSound": "goatman",
+      "bleed": 1,
+      "height": 3,
       "sprite": "goatman5",
       "nightmare": {
         "hp": [
@@ -66518,6 +68105,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Fire Hit",
@@ -66571,6 +68159,8 @@
       "minions": [],
       "sound": "sandraider",
       "uniqueSound": "sandraider",
+      "bleed": 1,
+      "height": 3,
       "sprite": "sandraider7",
       "nightmare": {
         "hp": [
@@ -66728,6 +68318,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Fire Hit",
@@ -66781,6 +68372,8 @@
       "minions": [],
       "sound": "sandraider",
       "uniqueSound": "sandraider",
+      "bleed": 1,
+      "height": 3,
       "sprite": "sandraider4",
       "nightmare": {
         "hp": [
@@ -66938,6 +68531,7 @@
         3
       ],
       "size": 3,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Fire Hit",
@@ -66991,6 +68585,8 @@
       "minions": [],
       "sound": "sandraider",
       "uniqueSound": "sandraider",
+      "bleed": 1,
+      "height": 3,
       "sprite": "sandraider3",
       "nightmare": {
         "hp": [
@@ -67139,6 +68735,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Resurrect",
@@ -67214,6 +68811,12 @@
       ],
       "sound": "fallenshaman",
       "uniqueSound": "fallenshaman",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallenshaman6",
       "nightmare": {
         "hp": [
@@ -67359,6 +68962,7 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [
@@ -67366,6 +68970,8 @@
       ],
       "sound": "fallen",
       "uniqueSound": "fallen",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallen2",
       "nightmare": {
         "hp": [
@@ -67515,6 +69121,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Resurrect",
@@ -67590,6 +69197,12 @@
       ],
       "sound": "fallenshaman",
       "uniqueSound": "fallenshaman",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallenshaman3",
       "nightmare": {
         "hp": [
@@ -67735,6 +69348,7 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [
@@ -67742,6 +69356,8 @@
       ],
       "sound": "fallen",
       "uniqueSound": "fallen",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallen3",
       "nightmare": {
         "hp": [
@@ -67891,6 +69507,7 @@
         3
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Resurrect",
@@ -67966,6 +69583,12 @@
       ],
       "sound": "fallenshaman",
       "uniqueSound": "fallenshaman",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallenshaman1",
       "nightmare": {
         "hp": [
@@ -68111,6 +69734,7 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [
@@ -68118,6 +69742,8 @@
       ],
       "sound": "fallen",
       "uniqueSound": "fallen",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallen1",
       "nightmare": {
         "hp": [
@@ -68273,6 +69899,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -68377,6 +70004,11 @@
       "minions": [],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "light": {
+        "radius": 0,
+        "color": 0
+      },
+      "height": 3,
       "sprite": "unraveler6",
       "nightmare": {
         "hp": [
@@ -68523,6 +70155,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -68627,6 +70260,11 @@
       "minions": [],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "light": {
+        "radius": 0,
+        "color": 0
+      },
+      "height": 3,
       "sprite": "unraveler3",
       "nightmare": {
         "hp": [
@@ -68773,6 +70411,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -68877,6 +70516,11 @@
       "minions": [],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "light": {
+        "radius": 0,
+        "color": 0
+      },
+      "height": 3,
       "sprite": "unraveler6",
       "nightmare": {
         "hp": [
@@ -69023,6 +70667,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -69127,6 +70772,11 @@
       "minions": [],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "light": {
+        "radius": 0,
+        "color": 0
+      },
+      "height": 3,
       "sprite": "unraveler3",
       "nightmare": {
         "hp": [
@@ -69283,6 +70933,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Chain Lightning",
@@ -69299,6 +70950,14 @@
       "minions": [],
       "sound": "willowisp",
       "uniqueSound": "willowisp",
+      "light": {
+        "radius": 6,
+        "color": 16777215
+      },
+      "height": 2,
+      "death": [
+        "willowispdeath"
+      ],
       "sprite": "willowisp1",
       "nightmare": {
         "hp": [
@@ -69468,6 +71127,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Chain Lightning",
@@ -69484,6 +71144,14 @@
       "minions": [],
       "sound": "willowisp",
       "uniqueSound": "willowisp",
+      "light": {
+        "radius": 6,
+        "color": 16777215
+      },
+      "height": 2,
+      "death": [
+        "willowispdeath"
+      ],
       "sprite": "willowisp6",
       "nightmare": {
         "hp": [
@@ -69653,6 +71321,7 @@
         4
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Chain Lightning",
@@ -69669,6 +71338,14 @@
       "minions": [],
       "sound": "willowisp",
       "uniqueSound": "willowisp",
+      "light": {
+        "radius": 6,
+        "color": 16777215
+      },
+      "height": 2,
+      "death": [
+        "willowispdeath"
+      ],
       "sprite": "willowisp1",
       "nightmare": {
         "hp": [
@@ -69814,6 +71491,7 @@
         1
       ],
       "size": 2,
+      "knock": "none",
       "skills": [
         {
           "skill": "Imp Teleport",
@@ -69989,6 +71667,7 @@
         6
       ],
       "size": 2,
+      "knock": "small",
       "skills": [
         {
           "skill": "Resurrect",
@@ -70064,6 +71743,12 @@
       ],
       "sound": "fallenshaman",
       "uniqueSound": "fallenshaman",
+      "light": {
+        "radius": 5,
+        "color": 15116543
+      },
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallenshaman5",
       "nightmare": {
         "hp": [
@@ -70186,6 +71871,7 @@
         1
       ],
       "size": 2,
+      "knock": "small",
       "skills": [],
       "missiles": {},
       "minions": [
@@ -70193,6 +71879,8 @@
       ],
       "sound": "fallen",
       "uniqueSound": "fallen",
+      "bleed": 1,
+      "height": 1,
       "sprite": "fallen5",
       "nightmare": {
         "hp": [
@@ -70348,6 +72036,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Resurrect2",
@@ -70452,6 +72141,7 @@
       "minions": [],
       "sound": "unraveler",
       "uniqueSound": "unraveler",
+      "height": 3,
       "sprite": "unraveler6",
       "nightmare": {
         "hp": [
@@ -70584,6 +72274,7 @@
         1
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [
         {
           "skill": "Hydra",
@@ -70605,6 +72296,8 @@
       "minions": [],
       "sound": "councilmember",
       "uniqueSound": "councilmember",
+      "greenBlood": true,
+      "height": 3,
       "sprite": "councilmember1",
       "nightmare": {
         "hp": [
@@ -70706,6 +72399,7 @@
         3
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "MegademonInferno",
@@ -70723,6 +72417,11 @@
       "minions": [],
       "sound": "megademon",
       "uniqueSound": "megademon",
+      "bleed": 1,
+      "height": 3,
+      "death": [
+        "megademondeath"
+      ],
       "sprite": "megademon1",
       "nightmare": {
         "hp": [
@@ -70837,6 +72536,7 @@
         1
       ],
       "size": 3,
+      "knock": "large",
       "skills": [
         {
           "skill": "Smite",
@@ -70849,6 +72549,8 @@
       "sound": "baalminion",
       "uniqueSound": "baalminion",
       "noUniqueShift": true,
+      "bleed": 2,
+      "height": 3,
       "sprite": "baalminion1",
       "nightmare": {
         "hp": [
@@ -70977,6 +72679,7 @@
         1
       ],
       "size": 3,
+      "knock": "none",
       "skills": [
         {
           "skill": "Baal Nova",
@@ -71060,6 +72763,8 @@
       "sound": "baalcrab",
       "uniqueSound": "baalcrab",
       "noUniqueShift": true,
+      "bleed": 2,
+      "height": 3,
       "sprite": "baalcrab",
       "nightmare": {
         "hp": [
@@ -71215,11 +72920,15 @@
         2
       ],
       "size": 2,
+      "knock": "medium",
       "skills": [],
       "missiles": {},
       "minions": [],
       "sound": "baaltentacle",
       "uniqueSound": "baaltentacle",
+      "bleed": 1,
+      "greenBlood": true,
+      "height": 1,
       "sprite": "baaltentacle1",
       "nightmare": {
         "hp": [
